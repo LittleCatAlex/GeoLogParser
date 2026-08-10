@@ -1,4 +1,5 @@
 import sys
+import os
 
 # Ensure UTF-8 console output for Windows
 if hasattr(sys.stdout, "reconfigure"):
@@ -43,13 +44,14 @@ import argparse
 from src.pipeline import run_pipeline
 
 def main():
-    parser = argparse.ArgumentParser(description="地質鑽孔柱狀圖離線 OCR 與 Ollama (qwen3:8b) 繁體化校對管線")
+    parser = argparse.ArgumentParser(description="GeoLogParser - 離線 OCR 與 Ollama (qwen3:8b) 高效能繁體校對管線")
     parser.add_argument("--input", "-i", default="input", help="輸入圖片目錄路徑 (預設: input)")
     parser.add_argument("--output", "-o", default="output/borehole_final_results.json", help="輸出 JSON 檔案路徑 (預設: output/borehole_final_results.json)")
     parser.add_argument("--error", "-e", default="output/error.json", help="異常待手動驗證 JSON 檔案路徑 (預設: output/error.json)")
     parser.add_argument("--model", "-m", default="qwen3:8b", help="Ollama 模型名稱 (預設: qwen3:8b)")
     parser.add_argument("--no-llm", action="store_true", help="僅使用本地 OpenCC 與規則，不呼叫 Ollama")
     parser.add_argument("--retries", "-r", type=int, default=2, help="辨識異常時之最大重試次數 (預設: 2)")
+    parser.add_argument("--workers", "-w", type=int, default=min(4, os.cpu_count() or 1), help="平行處理工作執行緒數量 (預設: 自動偵測 CPU 核心數，上限 4)")
     
     args = parser.parse_args()
     run_pipeline(
@@ -58,7 +60,8 @@ def main():
         error_file=args.error,
         model_name=args.model,
         use_llm=not args.no_llm,
-        max_retries=args.retries
+        max_retries=args.retries,
+        max_workers=args.workers
     )
 
 if __name__ == "__main__":
