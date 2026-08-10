@@ -1,0 +1,477 @@
+{
+  "100466240991262064_B6-01_Chart_1.png": {
+    "file_name": "100466240991262064_B6-01_Chart_1.png",
+    "file_path": "input\\100466240991262064_B6-01_Chart_1.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (第 3 層 (深度 16.1m) 之描述為空)",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "E6-01",
+        "location": "三峡區",
+        "coordinates": {
+          "datum": "TWD97",
+          "N": 2758420.75,
+          "E": 287911.25
+        },
+        "elevation_m": null,
+        "date": "100/12/02"
+      },
+      "strata": [
+        {
+          "depth_m": 1.4,
+          "description": "AC铺面棕黃色砂土夾礫石"
+        },
+        {
+          "depth_m": 10.0,
+          "description": "即礫石夾黃棕色粉土箕砂娜石粒，径5~10cm，程地，查"
+        },
+        {
+          "depth_m": 16.1,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "100466240991262064_B7-08_Chart_1.png": {
+    "file_name": "100466240991262064_B7-08_Chart_1.png",
+    "file_path": "input\\100466240991262064_B7-08_Chart_1.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (第 5 層 (深度 13.451m) 之描述為空)",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "B7-08",
+        "location": "歌匾",
+        "coordinates": {
+          "datum": "TWD97",
+          "N": 2758919.66,
+          "E": 283633.99
+        },
+        "elevation_m": null,
+        "date": "100/11/27"
+      },
+      "strata": [
+        {
+          "depth_m": 1.55,
+          "description": "回填土夾邦礫石及磚瑰"
+        },
+        {
+          "depth_m": 10.7,
+          "description": "邦礫石夾棕黃色粉土箕中細砂，程地，查"
+        },
+        {
+          "depth_m": 12.1,
+          "description": "灰色礫石質粗砂"
+        },
+        {
+          "depth_m": 13.0,
+          "description": "棕黄色粉土質中细砂"
+        },
+        {
+          "depth_m": 13.451,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "100466240991262064_BB-09_Chart_1.png": {
+    "file_name": "100466240991262064_BB-09_Chart_1.png",
+    "file_path": "input\\100466240991262064_BB-09_Chart_1.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (第 5 層 (深度 25.09m) 之描述為空)",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "BB-09",
+        "location": "歌匾",
+        "coordinates": {
+          "datum": "TWD97",
+          "N": 2761507.39,
+          "E": 288006.59
+        },
+        "elevation_m": null,
+        "date": "100/11/27"
+      },
+      "strata": [
+        {
+          "depth_m": 1.4,
+          "description": "即礫石及棕灰色粘士"
+        },
+        {
+          "depth_m": 6.2,
+          "description": "即礫石層夾棕灰色粗中细砂郎石，粒径5~10cm最大粒径15cm，程地"
+        },
+        {
+          "depth_m": 7.2,
+          "description": "灰色砂岩"
+        },
+        {
+          "depth_m": 18.1,
+          "description": "灰色砂岩與頁岩互層-"
+        },
+        {
+          "depth_m": 25.09,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "100466240991262064_BB-09_Chart_2.png": {
+    "file_name": "100466240991262064_BB-09_Chart_2.png",
+    "file_path": "input\\100466240991262064_BB-09_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (第 2 層描述內容非土壤或岩石岩性: '口1l')",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "BB-09",
+        "location": "歌匾",
+        "coordinates": {
+          "datum": "TWD97",
+          "N": 2761507.39,
+          "E": 288006.59
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 18.1,
+          "description": "夾色砂岩臭岩互層-"
+        },
+        {
+          "depth_m": 25.0,
+          "description": "口1l"
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "100466240991262064_BE-04_Chart_2.png": {
+    "file_name": "100466240991262064_BE-04_Chart_2.png",
+    "file_path": "input\\100466240991262064_BE-04_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (第 1 層 (深度 20.121m) 之描述為空)",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "BE-04",
+        "location": "樹林區",
+        "coordinates": {
+          "datum": "TWD97",
+          "N": 2760064.86,
+          "E": 287532.63
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 20.121,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "100466240991262064_BE-05_Chart_1.png": {
+    "file_name": "100466240991262064_BE-05_Chart_1.png",
+    "file_path": "input\\100466240991262064_BE-05_Chart_1.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (第 4 層 (深度 24.09m) 之描述為空)",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "BE-05",
+        "location": "三峡區",
+        "coordinates": {
+          "datum": "TWD97",
+          "N": 2759520.87,
+          "E": 286755.98
+        },
+        "elevation_m": null,
+        "date": "100/11/14"
+      },
+      "strata": [
+        {
+          "depth_m": 2.1,
+          "description": "回填邦礫石及雅土"
+        },
+        {
+          "depth_m": 12.15,
+          "description": "邱躁石夾黃色中细砂，程地，查"
+        },
+        {
+          "depth_m": 18.1,
+          "description": "灰色砂岩兵頁岩互層-"
+        },
+        {
+          "depth_m": 24.09,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "100466240991262064_BE-05_Chart_2.png": {
+    "file_name": "100466240991262064_BE-05_Chart_2.png",
+    "file_path": "input\\100466240991262064_BE-05_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (第 2 層 (深度 24.09m) 之描述為空)",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "BE-05",
+        "location": "三峡區",
+        "coordinates": {
+          "datum": "TWD97",
+          "N": 2759520.87,
+          "E": 286755.98
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 18.1,
+          "description": "夾色砂岩臭岩互層-"
+        },
+        {
+          "depth_m": 24.09,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "100466240991262064_BH-03_Chart_2.png": {
+    "file_name": "100466240991262064_BH-03_Chart_2.png",
+    "file_path": "input\\100466240991262064_BH-03_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (第 1 層 (深度 20.031m) 之描述為空)",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "EH-03",
+        "location": "歌匾",
+        "coordinates": {
+          "datum": "TWD97",
+          "N": 2760850.13,
+          "E": 286454.6
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 20.031,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "100466240991262064_BH-06_Chart_2.png": {
+    "file_name": "100466240991262064_BH-06_Chart_2.png",
+    "file_path": "input\\100466240991262064_BH-06_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "EH-C6",
+        "location": "歌匾",
+        "coordinates": {
+          "datum": "TWD97",
+          "N": 2760842.1,
+          "E": 286460.39
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "100466240991262064_TP-1_Chart_1.png": {
+    "file_name": "100466240991262064_TP-1_Chart_1.png",
+    "file_path": "input\\100466240991262064_TP-1_Chart_1.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "TP-1",
+        "location": "歌匾",
+        "coordinates": {
+          "datum": "TWD97",
+          "N": 2762751.84,
+          "E": 283648.77
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "100466240991262064_TP-2_Chart_1.png": {
+    "file_name": "100466240991262064_TP-2_Chart_1.png",
+    "file_path": "input\\100466240991262064_TP-2_Chart_1.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "TP-2",
+        "location": "三峡區",
+        "coordinates": {
+          "datum": "TWD97",
+          "N": 2759604.39,
+          "E": 285786.22
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "55358501002_#1-2_Chart_1.png": {
+    "file_name": "55358501002_#1-2_Chart_1.png",
+    "file_path": "input\\55358501002_#1-2_Chart_1.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (第 1 層 (深度 1.19m) 之描述為空)",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "1-2",
+        "location": "台中市露峰區奥大里區",
+        "coordinates": {
+          "datum": "TWD97",
+          "N": 2663995.0,
+          "E": 222425.0
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 1.19,
+          "description": ""
+        },
+        {
+          "depth_m": 25.4,
+          "description": "棕黃色砂岩，地管，棕灰色砂岩，查"
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "55358501002_#2-1_Chart_1.png": {
+    "file_name": "55358501002_#2-1_Chart_1.png",
+    "file_path": "input\\55358501002_#2-1_Chart_1.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (第 1 層 (深度 3.4m) 之描述為空)",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "未知",
+        "location": "台中市露峰區奥大里區",
+        "coordinates": {
+          "datum": "TWD97",
+          "N": 2664227.0,
+          "E": 222193.0
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 3.4,
+          "description": ""
+        },
+        {
+          "depth_m": 7.5,
+          "description": "地質，棕黃色砂岩"
+        },
+        {
+          "depth_m": 11.25,
+          "description": "查詢，灰色砂岩"
+        },
+        {
+          "depth_m": 17.18,
+          "description": "黃色砂岩"
+        },
+        {
+          "depth_m": 20.0,
+          "description": "灰色砂岩"
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "55358501002_#2-2_Chart_1.png": {
+    "file_name": "55358501002_#2-2_Chart_1.png",
+    "file_path": "input\\55358501002_#2-2_Chart_1.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (第 1 層 (深度 3.1m) 之描述為空)",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "未知",
+        "location": "台中市露峰區奥大里區",
+        "coordinates": {
+          "datum": "TWD97",
+          "N": 2664228.0,
+          "E": 222194.0
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 3.1,
+          "description": ""
+        },
+        {
+          "depth_m": 20.35,
+          "description": "地質，棕黄色砂岩，查"
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "55358501002_#2-3_Chart_1.png": {
+    "file_name": "55358501002_#2-3_Chart_1.png",
+    "file_path": "input\\55358501002_#2-3_Chart_1.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (第 1 層 (深度 1.3m) 之描述為空)",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "未知",
+        "location": "台中市露峰區奥大里區",
+        "coordinates": {
+          "datum": "TWD97",
+          "N": 2664226.0,
+          "E": 222192.0
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 1.3,
+          "description": ""
+        },
+        {
+          "depth_m": 7.1,
+          "description": "棕灰色砂岩，地質"
+        },
+        {
+          "depth_m": 12.3,
+          "description": "棕藏色砂岩，查訓"
+        },
+        {
+          "depth_m": 14.5,
+          "description": "擦灰色砂岩"
+        },
+        {
+          "depth_m": 30.0,
+          "description": "夾色砂岩"
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  }
+}

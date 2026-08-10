@@ -23,6 +23,11 @@ desktop.ini
 *.swp
 *.swo
 
+# Ignore all PNG files in input except test_data*.png
+input/*.png
+!input/test_data*.png
+!input/test_data*.PNG
+
 # Intermediate / temporary test files
 cleaned*.png
 temp/

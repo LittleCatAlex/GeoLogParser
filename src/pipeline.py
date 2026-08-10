@@ -106,13 +106,13 @@ def run_pipeline(
         max_workers = min(4, os.cpu_count() or 1)
 
     print("=" * 75)
-    print("🚀 啟動 GeoLogParser 高效能萃取與繁體校對 Pipeline (方案一、二、五優化版)")
-    print(f"📁 輸入目錄: {input_path}")
-    print(f"📄 成功輸出: {output_path}")
-    print(f"⚠️ 異常記錄: {error_path}")
-    print(f"🤖 語言模型: {model_name if use_llm else '本地 OpenCC + 規則'}")
-    print(f"⚡ 平行工作緒 (Workers): {max_workers} 執行緒")
-    print(f"🔄 失敗重試上限: {max_retries} 次 (最多共 {max_retries + 1} 次嘗試)")
+    print("啟動 GeoLogParser")
+    print(f"輸入目錄: {input_path}")
+    print(f"成功輸出: {output_path}")
+    print(f"異常記錄: {error_path}")
+    print(f"語言模型: {model_name if use_llm else '本地 OpenCC + 規則'}")
+    print(f"平行工作緒 (Workers): {max_workers} 執行緒")
+    print(f"失敗重試上限: {max_retries} 次 (最多共 {max_retries + 1} 次嘗試)")
     print("=" * 75)
 
     valid_exts = {".png", ".jpg", ".jpeg", ".bmp", ".tif", ".tiff"}

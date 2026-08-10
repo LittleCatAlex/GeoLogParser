@@ -22,8 +22,6 @@ CORRECTION_DICT = {
     "真岩": "頁岩",
     "真若": "頁岩",
     "頁若": "頁岩",
-    "粉土算": "粉土質",
-    "粉算": "粉質",
     "黏土": "黏土",
     "粘土": "黏土",
     "雾峰": "霧峰",
@@ -33,6 +31,9 @@ CORRECTION_DICT = {
     "繁密": "緊密",
     "唇": "層",
     "孔内": "鑽孔內",
+    "算":"質",
+    "箕":"質",
+    "爽":"夾",
 }
 
 # Geological / Geotechnical keywords for validation
@@ -309,21 +310,27 @@ class BoreholeLogParser:
                     if cleaned and cleaned not in layer_texts and cleaned not in TABLE_HEADER_NOISE:
                         layer_texts.append(cleaned)
             
-            # Intelligently merge text fragments within the stratum
+            # Intelligently merge multi-line text fragments without forcing artificial commas
             merged = ""
             for seg in layer_texts:
+                seg = seg.strip()
+                if not seg:
+                    continue
                 if not merged:
                     merged = seg
                     continue
+                
                 last_c = merged[-1]
                 first_c = seg[0]
-                # If broken word, concatenate directly
-                if (last_c in "礫砂岩泥塊粉土級配粒夾與及含之或具最卵" and first_c in "石土砂岩塊徑黏粘層度") or first_c in "，,、；;：:)）]】" or last_c in "，,、；;：:([【":
+
+                # If previous segment ends with punctuation or current starts with punctuation/bracket, merge directly
+                if last_c in "；;,，、：:()（）[]【】" or first_c in "；;,，、：:()（）[]【】":
                     merged += seg
                 else:
-                    merged += "，" + seg
+                    # Natural continuous text flow across multi-line OCR boxes
+                    merged += seg
             
-            # Normalize punctuation
+            # Normalize repeated punctuation
             merged = re.sub(r'[，,]+', '，', merged)
             merged = re.sub(r'[；;]+', '；', merged)
             merged = re.sub(r'；[，,]', '；', merged)

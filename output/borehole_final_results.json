@@ -1,4 +1,3628 @@
 {
+  "0374800180011_LB-1_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "LB-1",
+      "location": "許厝寮",
+      "coordinates": {
+        "datum": "TWD67",
+        "N": 2633033.0,
+        "E": 168036.9
+      },
+      "elevation_m": 2.59,
+      "date": "0791224~0791225"
+    },
+    "strata": [
+      {
+        "depth_m": 11.85,
+        "description": "[粉砂質砂]灰色沉泥質細砂，7.10-，11.10含少量粗中砂具屬，11.10-，11.85偶夾黏土薄層3cm-5cm"
+      },
+      {
+        "depth_m": 16.35,
+        "description": "[粉砂質砂]灰色沉泥質細砂，12.65，-14.60偶夾黏土薄層3cm-，5cm，14.60-1635灰色砂質沉泥"
+      },
+      {
+        "depth_m": 24.2,
+        "description": "[粉砂質砂]灰色沉泥質細砂，18.50，-24.20爽砂質沉泥，18.50-24.20灰，色沉質細砂爽薄層砂質沉泥"
+      }
+    ]
+  },
+  "0374800180011_LB-2_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "LB-2",
+      "location": "許厝寮",
+      "coordinates": {
+        "datum": "TWD67",
+        "N": 2633285.0,
+        "E": 167072.5
+      },
+      "elevation_m": 2.32,
+      "date": "0791219~0791221"
+    },
+    "strata": [
+      {
+        "depth_m": 16.15,
+        "description": "[粉砂質砂]灰色沉泥質細砂偶夾，3-5cm黏土"
+      },
+      {
+        "depth_m": 17.45,
+        "description": "[粉砂質砂]灰色沉泥質細砂偶夾，10-15cm黏土"
+      },
+      {
+        "depth_m": 17.85,
+        "description": "砂質粉砂灰色砂質沉泥含少量"
+      }
+    ]
+  },
+  "0374800180011_LB-1_Chart_2.png": {
+    "borehole_info": {
+      "borehole_id": "LB-1",
+      "location": "許厝寮",
+      "coordinates": {
+        "datum": "TWD67",
+        "N": 2633033.0,
+        "E": 168036.9
+      },
+      "elevation_m": 2.59,
+      "date": "0791224~0791225"
+    },
+    "strata": [
+      {
+        "depth_m": 24.2,
+        "description": "[粉砂質砂]灰色沉泥質細砂，18.50，-24.20爽砂質沉泥，18.50-24.20灰，色沉質細砂爽薄層砂質沉泥"
+      },
+      {
+        "depth_m": 25.25,
+        "description": "泥質粉砂黏土質沉泥"
+      },
+      {
+        "depth_m": 37.0,
+        "description": "[粉砂質砂]灰色沉泥質細砂，30.10，-30.35，34.90-35.03爽黏土"
+      },
+      {
+        "depth_m": 40.0,
+        "description": "[粉砂質砂]灰色沉泥質細砂，灰色，沉泥質細砂偶爽薄層砂質沉泥"
+      }
+    ]
+  },
+  "0374800180011_LB-2_Chart_2.png": {
+    "borehole_info": {
+      "borehole_id": "LB-2",
+      "location": "許厝寮",
+      "coordinates": {
+        "datum": "TWD67",
+        "N": 2633285.0,
+        "E": 167072.5
+      },
+      "elevation_m": 2.32,
+      "date": "0791219~0791221"
+    },
+    "strata": [
+      {
+        "depth_m": 26.25,
+        "description": "[粉砂質砂]灰色沉泥質細砂偶夾，3-10cm砂質沉泥"
+      },
+      {
+        "depth_m": 27.35,
+        "description": "[砂質粉砂]灰色砂質沉泥"
+      },
+      {
+        "depth_m": 30.4,
+        "description": "[粉砂質砂]灰色沉泥質細砂偶爽，薄層黏土"
+      },
+      {
+        "depth_m": 34.2,
+        "description": "[粉砂質黏土]灰色沉泥質黏土"
+      },
+      {
+        "depth_m": 35.5,
+        "description": "粉砂質砂]灰色沉泥質細砂偶爽，薄層黏土，15-30cm，35.15-3550灰，色沉泥質細砂"
+      },
+      {
+        "depth_m": 38.4,
+        "description": "[粉砂質砂]灰色沉泥質細砂，偶夾，薄層砂質沉泥"
+      },
+      {
+        "depth_m": 38.78,
+        "description": "[粉砂質砂]灰色沉泥質細砂，偶夾，薄屠砂質沉泥，灰色砂質沉泥或，- 2-"
+      }
+    ]
+  },
+  "0374800180011_LB-2_Chart_3.png": {
+    "borehole_info": {
+      "borehole_id": "LB-2",
+      "location": "許厝寮",
+      "coordinates": {
+        "datum": "TWD67",
+        "N": 2633285.0,
+        "E": 167072.5
+      },
+      "elevation_m": 2.32,
+      "date": "0791219~0791221"
+    },
+    "strata": [
+      {
+        "depth_m": 44.0,
+        "description": "[粉砂質砂]灰色沉泥質細砂，偶夾，薄層砂質沉泥"
+      },
+      {
+        "depth_m": 45.85,
+        "description": "[粉砂質黏土]灰色沉泥質黏土偶，爽薄層砂質沉泥或沉泥質細砂"
+      },
+      {
+        "depth_m": 46.45,
+        "description": "[粉砂質砂]灰色沉泥質細砂"
+      },
+      {
+        "depth_m": 46.85,
+        "description": "粉砂資黏土灰色沉泥資黏土"
+      },
+      {
+        "depth_m": 49.6,
+        "description": "[粉砂質砂]灰色沉泥質細砂（含水，量及沉泥高）"
+      },
+      {
+        "depth_m": 51.05,
+        "description": "[粉砂質砂]青灰色沉泥質中細砂，含貝局"
+      },
+      {
+        "depth_m": 52.9,
+        "description": "[粉砂質黏土]灰色沉泥質黏土"
+      },
+      {
+        "depth_m": 54.45,
+        "description": "[粉砂質砂]灰色沉泥質細砂"
+      },
+      {
+        "depth_m": 55.35,
+        "description": "[粉砂質黏土]灰色沉泥質黏土偶，土爽細砂"
+      },
+      {
+        "depth_m": 56.5,
+        "description": "[粉質粉砂]灰褐色砂質沉泥"
+      },
+      {
+        "depth_m": 57.95,
+        "description": "[粉砂質砂]青灰色沉泥質中細砂，含貝局"
+      }
+    ]
+  },
+  "0374800180011_LB-3_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "LB-3",
+      "location": "許厝寮",
+      "coordinates": {
+        "datum": "TWD67",
+        "N": 2634643.5,
+        "E": 167779.1
+      },
+      "elevation_m": 2.24,
+      "date": "0791224~0791226"
+    },
+    "strata": [
+      {
+        "depth_m": 18.4,
+        "description": "[粉砂質砂]灰色沉泥質細砂"
+      },
+      {
+        "depth_m": 18.85,
+        "description": "[粉砂質砂]灰色沉泥質細砂，灰色，深泥質黏土"
+      }
+    ]
+  },
+  "0374800180011_LB-3_Chart_2.png": {
+    "borehole_info": {
+      "borehole_id": "LB-3",
+      "location": "許厝寮",
+      "coordinates": {
+        "datum": "TWD67",
+        "N": 2634643.5,
+        "E": 167779.1
+      },
+      "elevation_m": 2.24,
+      "date": "0791224~0791226"
+    },
+    "strata": [
+      {
+        "depth_m": 24.3,
+        "description": "[粉砂質砂]灰色沉泥質細砂"
+      },
+      {
+        "depth_m": 27.1,
+        "description": "[粉砂質砂]灰色沉泥質細砂，夾黏土薄層"
+      },
+      {
+        "depth_m": 29.9,
+        "description": "[泥質粉砂]灰色黏土質沉泥質細砂薄層"
+      },
+      {
+        "depth_m": 32.6,
+        "description": "[粉砂質砂]灰色沉泥質細砂，夾黏"
+      },
+      {
+        "depth_m": 33.85,
+        "description": "[粉砂質砂]灰色沉泥質細砂，黏土質沉泥質細砂"
+      },
+      {
+        "depth_m": 38.9,
+        "description": "[粉砂質砂]灰色沉泥質細砂，含少量具局，中砂"
+      },
+      {
+        "depth_m": 42.0,
+        "description": "粉砂質砂灰色沉泥質細砂"
+      }
+    ]
+  },
+  "0374800180011_LB-3_Chart_3.png": {
+    "borehole_info": {
+      "borehole_id": "LB-3",
+      "location": "許厝寮",
+      "coordinates": {
+        "datum": "TWD67",
+        "N": 2634643.5,
+        "E": 167779.1
+      },
+      "elevation_m": 2.24,
+      "date": "0791224~0791226"
+    },
+    "strata": [
+      {
+        "depth_m": 42.0,
+        "description": "[粉砂質砂]灰色沉泥質細砂"
+      },
+      {
+        "depth_m": 46.3,
+        "description": "[粉砂質砂]灰色沉泥質細砂或砂，質沉泥爽黏土薄層，45.40-46.30灰，色沉泥質細砂"
+      },
+      {
+        "depth_m": 51.3,
+        "description": "[粉砂質黏土]灰色沉泥質黏土夾，細砂薄層，47.70-47.87爽粗中砂，具，[粉砂質砂]灰色沉泥質細砂"
+      },
+      {
+        "depth_m": 53.9,
+        "description": "[粉砂質黏土]灰色沉泥質黏土含，有少量有機物"
+      },
+      {
+        "depth_m": 56.75,
+        "description": "泥質粉砂褐灰色黏土質沉泥含，礫石有機物"
+      },
+      {
+        "depth_m": 60.0,
+        "description": "[粉砂質砂]灰色沉泥質細砂，56.75，-59.40夾砂質沉泥含有少量有機，物59.40-60.00爽少量粗砂"
+      }
+    ]
+  },
+  "0374800180011_LB-4_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "LB-4",
+      "location": "許厝寮",
+      "coordinates": {
+        "datum": "TWD67",
+        "N": 2633734.5,
+        "E": 168417.7
+      },
+      "elevation_m": 2.0,
+      "date": "0791229~0800102"
+    },
+    "strata": [
+      {
+        "depth_m": 12.15,
+        "description": "[粉砂質粉]灰色沉泥質細砂，8.50-，8.60爽黏土質沉泥，8.90-12.05偶爽，砂質沉泥"
+      },
+      {
+        "depth_m": 12.45,
+        "description": "[粉砂質粉]灰色沉泥質細砂，12.15，12.25爽粗中砂含少量礫石"
+      },
+      {
+        "depth_m": 25.1,
+        "description": "[泥質粉砂]灰色黏土質沉泥或砂，質沉泥互層，22.65-25.10夾細砂"
+      }
+    ]
+  },
+  "0374800180011_LB-4_Chart_2.png": {
+    "borehole_info": {
+      "borehole_id": "LB-4",
+      "location": "許厝寮",
+      "coordinates": {
+        "datum": "TWD67",
+        "N": 2633734.5,
+        "E": 168417.7
+      },
+      "elevation_m": 2.0,
+      "date": "0791229~0800102"
+    },
+    "strata": [
+      {
+        "depth_m": 25.1,
+        "description": "[泥質粉砂]灰色黏土質沉泥或砂，質沉泥互層，22.65-25.10夾細砂"
+      },
+      {
+        "depth_m": 27.9,
+        "description": "[粉砂資粉]灰色沉泥真細砂，25.85，-26.35偶爽5-10CM砂質沉泥，27.29，-27.90黏土質沉泥"
+      },
+      {
+        "depth_m": 34.71,
+        "description": "[粉砂質粉]灰色沉泥質細砂，偶夾黏土薄層，32.75-33.71砂質沉泥或黏土，33.71-34.88偶爽3-8CM砂質"
+      },
+      {
+        "depth_m": 34.88,
+        "description": "[粉砂質粉]灰色沉泥質細砂，33.717，34.88偶爽3-8CM砂質"
+      },
+      {
+        "depth_m": 36.05,
+        "description": "粉砂質粉]灰色沉泥質細砂，偶夾，510CM砂質沉泥，36.05灰色沉泥/，鷺中細砂含貝局"
+      }
+    ]
+  },
+  "0374800180011_LB-4_Chart_3.png": {
+    "borehole_info": {
+      "borehole_id": "LB-4",
+      "location": "許厝寮",
+      "coordinates": {
+        "datum": "TWD67",
+        "N": 2633734.5,
+        "E": 168417.7
+      },
+      "elevation_m": 2.0,
+      "date": "0791229~0800102"
+    },
+    "strata": [
+      {
+        "depth_m": 43.75,
+        "description": "[粉砂質粉]灰色沉泥質細砂，39.95，砂質沉泥爽細砂，42.05-43.75爽砂，質沉泥"
+      },
+      {
+        "depth_m": 46.0,
+        "description": "[粉砂質粉]灰色沉泥質細砂，44.25，爽黏土薄層，45.65-46.00砂質沉泥，或黏土，46.00-47.65偶爽5-15CM砂"
+      },
+      {
+        "depth_m": 47.65,
+        "description": "[粉砂質粉]灰色沉泥質細砂，偶夾，5-15CM砂賢"
+      },
+      {
+        "depth_m": 50.25,
+        "description": "[粉砂質黏土]灰色沉泥質站，土，48.60-49.90爽細砂薄層，49.90-，50.25沉泥質中細砂"
+      },
+      {
+        "depth_m": 57.4,
+        "description": "[粉砂質黏土]灰色沉泥質黏，土，50.25-52.00爽中粗砂礫石，56.05-57.40沉泥質中細砂"
+      },
+      {
+        "depth_m": 59.85,
+        "description": "[粉砂質黏土]灰色沉泥質黏土，夾，細砂薄層含少量有機物黏土為青"
+      }
+    ]
+  },
+  "0374800180011_LB-4_Chart_4.png": {
+    "borehole_info": {
+      "borehole_id": "LB-4",
+      "location": "許厝寮",
+      "coordinates": {
+        "datum": "TWD67",
+        "N": 2633734.5,
+        "E": 168417.7
+      },
+      "elevation_m": 2.0,
+      "date": "0791229~0800102"
+    },
+    "strata": [
+      {
+        "depth_m": 63.52,
+        "description": "[粉砂質黏土]灰色沉泥質黏土，及，色沉泥質細砂，62.40-63.52灰色沉，泥質細砂或砂質沉泥"
+      },
+      {
+        "depth_m": 70.9,
+        "description": "[粉砂質粉]灰色沉泥質細砂，67.30，-67.70沉泥質黏土，70.20-70.90沉，泥質黏土含有機物"
+      },
+      {
+        "depth_m": 75.7,
+        "description": "[粉砂質粉]灰色沉泥質細砂，72.60，-73.00灰色沉泥質黏土，[粉砂質粉]灰色沉泥質細砂或沉，泥質細砂或沉泥質黏土互層，73.95-75.70含有機物"
+      },
+      {
+        "depth_m": 77.0,
+        "description": "[粉砂質粉]灰色沉泥質細砂或沉，泥質黏土互層，75.90，77.00灰色沉，泥質黏土"
+      },
+      {
+        "depth_m": 79.35,
+        "description": "[粉砂質粉]灰色沉泥質細砂或沉，泥質黏土互層，78.10-79.35爽中粗，砂礫石"
+      }
+    ]
+  },
+  "0374800180011_LB-5_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "LB-5",
+      "location": "許厝寮",
+      "coordinates": {
+        "datum": "TWD67",
+        "N": 2634920.8,
+        "E": 169078.3
+      },
+      "elevation_m": 2.07,
+      "date": "0791231~0800102"
+    },
+    "strata": [
+      {
+        "depth_m": 28.3,
+        "description": "[粉砂質砂]灰色沉泥質細砂，14.35，-16.45爽沉泥質黏土17.00-17.75含"
+      }
+    ]
+  },
+  "0374800180011_LB-5_Chart_2.png": {
+    "borehole_info": {
+      "borehole_id": "LB-5",
+      "location": "許厝寮",
+      "coordinates": {
+        "datum": "TWD67",
+        "N": 2634920.8,
+        "E": 169078.3
+      },
+      "elevation_m": 2.07,
+      "date": "0791231~0800102"
+    },
+    "strata": [
+      {
+        "depth_m": 28.3,
+        "description": "[粉砂質砂]灰色沉泥質細砂，14.35，-16.45爽沉泥質黏土17.00-17.75含"
+      },
+      {
+        "depth_m": 30.05,
+        "description": "[粉砂質黏土]灰色沉泥質黏土夾，細砂薄層含貝腐"
+      },
+      {
+        "depth_m": 31.85,
+        "description": "[粉砂質砂]灰色沉泥質細砂夾黏，土薄層"
+      },
+      {
+        "depth_m": 34.1,
+        "description": "泥質粉砂灰色黏土質沉泥夾細，砂薄層"
+      },
+      {
+        "depth_m": 38.3,
+        "description": "[粉砂質砂]灰色沉泥質細砂，36.90，-38.30爽黏土薄層"
+      },
+      {
+        "depth_m": 41.05,
+        "description": "[粉砂質黏土]灰色沉泥質黏土夾，細砂薄層"
+      }
+    ]
+  },
+  "0374800180011_LB-5_Chart_3.png": {
+    "borehole_info": {
+      "borehole_id": "LB-5",
+      "location": "許厝寮",
+      "coordinates": {
+        "datum": "TWD67",
+        "N": 2634920.8,
+        "E": 169078.3
+      },
+      "elevation_m": 2.07,
+      "date": "0791231~0800102"
+    },
+    "strata": [
+      {
+        "depth_m": 41.05,
+        "description": "[粉砂質黏土]灰色沉泥質黏土夾，細砂薄層"
+      },
+      {
+        "depth_m": 49.95,
+        "description": "[粉砂質砂]灰色沉泥質細砂，45.20，-48.30爽沉泥質黏土"
+      },
+      {
+        "depth_m": 55.5,
+        "description": "[粉砂質黏土]灰色沉泥質黏土含，少量礫石"
+      },
+      {
+        "depth_m": 58.3,
+        "description": "[粉砂質砂]灰色沉泥質中粗砂夾黏土薄層"
+      },
+      {
+        "depth_m": 63.2,
+        "description": "[粉砂質砂]灰色沉泥質細砂"
+      }
+    ]
+  },
+  "0374800180011_LB-5_Chart_4.png": {
+    "borehole_info": {
+      "borehole_id": "LB-5",
+      "location": "許厝寮",
+      "coordinates": {
+        "datum": "TWD67",
+        "N": 2634920.8,
+        "E": 169078.3
+      },
+      "elevation_m": 2.07,
+      "date": "0791231~0800102"
+    },
+    "strata": [
+      {
+        "depth_m": 63.2,
+        "description": "[粉砂質砂]灰色沉泥質細砂"
+      },
+      {
+        "depth_m": 66.05,
+        "description": "[粉砂質黏土]灰色沉泥質黏土"
+      },
+      {
+        "depth_m": 67.95,
+        "description": "[粉砂資砂灰色沉泥質細砂夾黏，土薄層"
+      },
+      {
+        "depth_m": 71.2,
+        "description": "[粉砂質黏土]灰色沉泥質黏土夾，細砂薄層"
+      },
+      {
+        "depth_m": 76.9,
+        "description": "[粉砂質砂]灰色沉泥質細砂，71.20，-74.80爽砂質沉泥，[粉砂質砂]灰色沉泥質細砂，沉泥，質黏土夾細砂薄層，75.05-76.90爽，砂質沉泥"
+      },
+      {
+        "depth_m": 78.4,
+        "description": "[粉砂質黏土]棕黃色沉泥質黏土，含有機物"
+      },
+      {
+        "depth_m": 80.0,
+        "description": "[粉砂質砂]灰色沉泥質細砂含砂，質沉泥孔底"
+      }
+    ]
+  },
+  "0374800180011_LB-6_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "LB-6",
+      "location": "許厝寮",
+      "coordinates": {
+        "datum": "TWD67",
+        "N": 2635663.9,
+        "E": 168419.8
+      },
+      "elevation_m": 2.88,
+      "date": "0791219~0791222"
+    },
+    "strata": [
+      {
+        "depth_m": 11.1,
+        "description": "[粉砂質砂]灰色沉泥質細砂，0-，3.20含腐大有機物，3.20-11.10含少，量貝屑"
+      },
+      {
+        "depth_m": 17.3,
+        "description": "[粉砂質砂]灰色沉泥質細砂，11.10，-16.80含大量具毅，16.80-17.30砂，質沉泥爽細砂薄層"
+      },
+      {
+        "depth_m": 28.7,
+        "description": "[粉砂質砂]灰色沉泥質細砂，18.05，-18.60沉泥質黏土，27.05-28.70爽，砂質沉泥薄層"
+      }
+    ]
+  },
+  "0374800180011_LB-6_Chart_2.png": {
+    "borehole_info": {
+      "borehole_id": "LB-6",
+      "location": "許厝寮",
+      "coordinates": {
+        "datum": "TWD67",
+        "N": 2635663.9,
+        "E": 168419.8
+      },
+      "elevation_m": 2.88,
+      "date": "0791219~0791222"
+    },
+    "strata": [
+      {
+        "depth_m": 28.7,
+        "description": "[粉砂質砂]灰色沉泥質細砂，18.05，-18.60沉泥質黏土，27.05-28.70爽，砂質沉泥薄層"
+      },
+      {
+        "depth_m": 30.85,
+        "description": "[粉砂質黏土]灰色沉泥質黏土夾，細砂薄層含砂質沉泥"
+      },
+      {
+        "depth_m": 38.7,
+        "description": "[粉砂質砂]灰色沉泥質細砂，30.85，-34.65含少量具廚，34.65-36.05灰，色沉泥質黏土爽夾細砂薄層"
+      },
+      {
+        "depth_m": 39.85,
+        "description": "[粉砂質黏土]灰色沉泥質黏土夾，細砂薄層"
+      }
+    ]
+  },
+  "0374800180011_LB-6_Chart_3.png": {
+    "borehole_info": {
+      "borehole_id": "LB-6",
+      "location": "許厝寮",
+      "coordinates": {
+        "datum": "TWD67",
+        "N": 2635663.9,
+        "E": 168419.8
+      },
+      "elevation_m": 2.88,
+      "date": "0791219~0791222"
+    },
+    "strata": [
+      {
+        "depth_m": 44.3,
+        "description": "[粉砂質砂]灰色沉泥質細砂，39.85，-42.00含少量粗中砂，42.80-44.30，爽黏土質沉泥或黏土薄層"
+      },
+      {
+        "depth_m": 50.05,
+        "description": "[粉砂質砂]灰色沉泥質細砂，44.30，-46.10灰色沉泥質黏土爽細砂薄，層，46.10-50.05爽砂質沉泥"
+      },
+      {
+        "depth_m": 53.1,
+        "description": "[粉砂質砂]灰色沉泥質細砂，灰色，沉泥質黏土"
+      },
+      {
+        "depth_m": 56.8,
+        "description": "[泥質粉砂]灰色黏土質沉泥爽砂，質沉泥"
+      },
+      {
+        "depth_m": 60.0,
+        "description": "[粉砂質砂]灰色沉泥質細砂，56.80，-57.65含少量中砂，57.65-60.00爽，沉泥質黏土含少量粗砂"
+      }
+    ]
+  },
+  "0374800180011_LB-7_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "LB-7",
+      "location": "許厝寮",
+      "coordinates": {
+        "datum": "TWD67",
+        "N": 2634037.4,
+        "E": 169832.2
+      },
+      "elevation_m": 2.3,
+      "date": "0800106~0800108"
+    },
+    "strata": [
+      {
+        "depth_m": 6.2,
+        "description": "[粉砂質砂]灰色沉泥質細砂，4.50-，6.20爽砂質沉泥薄層5-15CM"
+      },
+      {
+        "depth_m": 9.5,
+        "description": "[粉砂質砂]灰色沉泥質細砂，灰色，黏土質沉泥爽細砂"
+      },
+      {
+        "depth_m": 20.8,
+        "description": "[粉砂質砂]灰色沉泥質細砂，9.50-，13.00偶爽砂質沉泥5-15CM，17.10-，20.80爽砂質沉泥15-25CM"
+      }
+    ]
+  },
+  "0374800180011_LB-7_Chart_2.png": {
+    "borehole_info": {
+      "borehole_id": "LB-7",
+      "location": "許厝寮",
+      "coordinates": {
+        "datum": "TWD67",
+        "N": 2634037.4,
+        "E": 169832.2
+      },
+      "elevation_m": 2.3,
+      "date": "0800106~0800108"
+    },
+    "strata": [
+      {
+        "depth_m": 20.8,
+        "description": "[粉砂質砂]灰色沉泥質細砂，9.50-，13.00偶爽砂質沉泥5-15CM，17.10-，0.80爽砂質沉泥15-25CM"
+      },
+      {
+        "depth_m": 36.8,
+        "description": "[粉砂質砂]灰色沉泥質細砂，21.90，-36.50偶爽砂質沉泥薄層5-15CM，含具屬，36.50-36.80砂質沉泥"
+      },
+      {
+        "depth_m": 45.85,
+        "description": "[粉砂質砂]灰色沉泥質細砂，37.10，-37.30砂質沉泥，38.50-45.85爽砂，質沉泥薄層"
+      }
+    ]
+  },
+  "0374800180011_LB-7_Chart_3.png": {
+    "borehole_info": {
+      "borehole_id": "LB-7",
+      "location": "許厝寮",
+      "coordinates": {
+        "datum": "TWD67",
+        "N": 2634037.4,
+        "E": 169832.2
+      },
+      "elevation_m": 2.3,
+      "date": "0800106~0800108"
+    },
+    "strata": [
+      {
+        "depth_m": 45.85,
+        "description": "[粉砂質砂]灰色沉泥質細砂，37.10，-37.30砂質沉泥，38.50-45.85爽砂，質沉泥薄層"
+      },
+      {
+        "depth_m": 51.1,
+        "description": "[粉砂質砂]灰色沉泥質細砂，45.85，-46.25砂質沉泥夾細砂，47.00-，47.60砂質沉泥爽細砂"
+      },
+      {
+        "depth_m": 51.35,
+        "description": "砂質粉砂灰色沉泥質沉泥"
+      },
+      {
+        "depth_m": 52.0,
+        "description": "粉砂質黏土]灰色沉泥質黏土"
+      },
+      {
+        "depth_m": 55.4,
+        "description": "[土]灰褐色黏土或沉泥質黏土，爽細砂，53.05-53.30灰色沉泥質細"
+      },
+      {
+        "depth_m": 56.95,
+        "description": "[粉砂質砂]灰色沉泥質細砂含少，量有機物"
+      },
+      {
+        "depth_m": 60.0,
+        "description": "[粉砂質黏土]灰色沉泥質黏土夾"
+      }
+    ]
+  },
+  "0374800180011_LB-8_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "LB-8",
+      "location": "許厝寮",
+      "coordinates": {
+        "datum": "TWD67",
+        "N": 2635185.4,
+        "E": 170888.9
+      },
+      "elevation_m": 2.68,
+      "date": "0800106~0800106"
+    },
+    "strata": [
+      {
+        "depth_m": 8.95,
+        "description": "[粉砂質砂]灰色沉泥質細砂，0-，4.80含腐木，8.30-8.95爽黏土薄層"
+      },
+      {
+        "depth_m": 10.75,
+        "description": "[粉砂質黏土]灰色黏土質沉泥夾，質細砂薄層含有機物"
+      },
+      {
+        "depth_m": 18.5,
+        "description": "[粉砂質砂]灰色沉泥質細砂"
+      },
+      {
+        "depth_m": 22.05,
+        "description": "[粉砂質黏土]灰色沉泥質黏土夾，細砂薄層"
+      }
+    ]
+  },
+  "0374800180011_LB-8_Chart_2.png": {
+    "borehole_info": {
+      "borehole_id": "LB-8",
+      "location": "許厝寮",
+      "coordinates": {
+        "datum": "TWD67",
+        "N": 2635185.4,
+        "E": 170888.9
+      },
+      "elevation_m": 2.68,
+      "date": "0800106~0800106"
+    },
+    "strata": [
+      {
+        "depth_m": 22.05,
+        "description": "[粉砂質黏土]灰色沉泥質黏土夾，細砂薄層"
+      },
+      {
+        "depth_m": 28.75,
+        "description": "[粉砂質砂]灰色沉泥質細砂，25.50，-27.60爽黏土薄層，27.60-28.75爽，砂質沉泥薄層"
+      },
+      {
+        "depth_m": 35.0,
+        "description": "[粉砂質砂]灰色沉泥質細砂，31.00，-31.75灰色沉泥質黏土，33.40-，35.00爽黏土薄層"
+      },
+      {
+        "depth_m": 37.85,
+        "description": "[粉砂質黏土]灰色沉泥質黏，土，35.00-36.50夾細砂薄層，37.35-，37.85沉泥質細砂爽黏土薄層"
+      },
+      {
+        "depth_m": 38.4,
+        "description": "[粉砂質砂]灰色沉泥質細砂，37.85，38.40爽砂"
+      }
+    ]
+  },
+  "0374800180011_LB-8_Chart_3.png": {
+    "borehole_info": {
+      "borehole_id": "LB-8",
+      "location": "許厝寮",
+      "coordinates": {
+        "datum": "TWD67",
+        "N": 2635185.4,
+        "E": 170888.9
+      },
+      "elevation_m": 2.68,
+      "date": "0800106~0800106"
+    },
+    "strata": [
+      {
+        "depth_m": 43.7,
+        "description": "[粉砂質砂]灰色沉泥質細砂，38.40，-39.50爽黏土薄層，40.95-43.70爽，黏土薄層含粗中砂"
+      },
+      {
+        "depth_m": 50.9,
+        "description": "[粉砂質砂]灰色沉泥質細砂，夾砂，質沉泥"
+      },
+      {
+        "depth_m": 53.5,
+        "description": "[粉砂質黏土]灰色沉泥質土夾棕，黃色有機物"
+      },
+      {
+        "depth_m": 56.35,
+        "description": "[粉砂質砂]灰色沉泥質細砂夾黏，土薄層"
+      },
+      {
+        "depth_m": 60.0,
+        "description": "[粉砂質黏土]灰色沉泥質黏土"
+      }
+    ]
+  },
+  "0374800180011_WB-1_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "WB-1",
+      "location": "大莊",
+      "coordinates": {
+        "datum": "TWD67",
+        "N": 2635482.3,
+        "E": 184411.7
+      },
+      "elevation_m": 13.64,
+      "date": "0791212~0791214"
+    },
+    "strata": [
+      {
+        "depth_m": 2.6,
+        "description": "[粉砂質砂]灰褐色沉泥質中細砂，含粗砂"
+      },
+      {
+        "depth_m": 5.1,
+        "description": "[粉砂質黏土]灰色沉泥質黏土"
+      },
+      {
+        "depth_m": 11.4,
+        "description": "[粉砂資砂]灰色沉泥資細砂含粗"
+      },
+      {
+        "depth_m": 12.2,
+        "description": "[粉砂質砂]灰色沉泥質中粗砂夾，薄層黏土"
+      },
+      {
+        "depth_m": 18.2,
+        "description": "[粉砂質砂]灰色沉泥質中細，砂，16.35-16.80含礫石"
+      },
+      {
+        "depth_m": 29.4,
+        "description": "[粉砂質砂]灰色沉泥質細砂，27.95，-28.15爽黏土"
+      }
+    ]
+  },
+  "0374800180011_WB-1_Chart_2.png": {
+    "borehole_info": {
+      "borehole_id": "WB-1",
+      "location": "大莊",
+      "coordinates": {
+        "datum": "TWD67",
+        "N": 2635482.3,
+        "E": 184411.7
+      },
+      "elevation_m": 13.64,
+      "date": "0791212~0791214"
+    },
+    "strata": [
+      {
+        "depth_m": 29.4,
+        "description": "[粉砂質砂]灰色沉泥質細砂，27.95，-28.15夾黏土"
+      },
+      {
+        "depth_m": 31.3,
+        "description": "[粉砂質砂]灰色沉泥質細砂"
+      },
+      {
+        "depth_m": 43.8,
+        "description": "[粉砂質砂]灰色沉泥質細砂偶薄，層黏土，3.05-37.40爽黏土"
+      }
+    ]
+  },
+  "0374800180011_WB-1_Chart_3.png": {
+    "borehole_info": {
+      "borehole_id": "WB-1",
+      "location": "大莊",
+      "coordinates": {
+        "datum": "TWD67",
+        "N": 2635482.3,
+        "E": 184411.7
+      },
+      "elevation_m": 13.64,
+      "date": "0791212~0791214"
+    },
+    "strata": [
+      {
+        "depth_m": 43.8,
+        "description": "[粉砂質砂]灰色沉泥質細砂偶薄，層黏土，3.05-37.40夾黏土"
+      },
+      {
+        "depth_m": 45.0,
+        "description": "[粉砂質黏土]淡灰色沉泥質黏土"
+      }
+    ]
+  },
+  "0374800180011_WB-2_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "WB-2",
+      "location": "大莊",
+      "coordinates": {
+        "datum": "TWD67",
+        "N": 2635597.3,
+        "E": 183974.1
+      },
+      "elevation_m": 13.32,
+      "date": "0791215~0791219"
+    },
+    "strata": [
+      {
+        "depth_m": 2.8,
+        "description": "[粉砂質砂]灰色沉泥質細含中粗"
+      },
+      {
+        "depth_m": 6.3,
+        "description": "[礫質砂]灰色粗砂含礫石"
+      },
+      {
+        "depth_m": 10.45,
+        "description": "[粉砂質黏土]灰色沉泥質黏土"
+      },
+      {
+        "depth_m": 14.3,
+        "description": "[粉砂質砂灰色沉泥質細砂含粗"
+      },
+      {
+        "depth_m": 15.1,
+        "description": "蝶質砂灰色粗砂含礫石"
+      },
+      {
+        "depth_m": 24.3,
+        "description": "[粉砂質砂]灰色沉泥質中細砂偶，爽薄層黏土"
+      }
+    ]
+  },
+  "0374800180011_WB-2_Chart_2.png": {
+    "borehole_info": {
+      "borehole_id": "WB-2",
+      "location": "大莊",
+      "coordinates": {
+        "datum": "TWD67",
+        "N": 2635597.3,
+        "E": 183974.1
+      },
+      "elevation_m": 13.32,
+      "date": "0791215~0791219"
+    },
+    "strata": [
+      {
+        "depth_m": 24.3,
+        "description": "[粉砂質砂]灰色沉泥質中細砂偶，爽薄層黏土"
+      },
+      {
+        "depth_m": 33.2,
+        "description": "[粉砂質砂]灰色沉泥質細砂偶夾，小卵石"
+      },
+      {
+        "depth_m": 38.2,
+        "description": "[砂資粉砂]灰色粉砂資沉泥典油，砂互層"
+      },
+      {
+        "depth_m": 44.2,
+        "description": "[粉砂質砂]灰色沉泥質細砂爽中"
+      }
+    ]
+  },
+  "0374800180011_WB-2_Chart_3.png": {
+    "borehole_info": {
+      "borehole_id": "WB-2",
+      "location": "大莊",
+      "coordinates": {
+        "datum": "TWD67",
+        "N": 2635597.3,
+        "E": 183974.1
+      },
+      "elevation_m": 13.32,
+      "date": "0791215~0791219"
+    },
+    "strata": [
+      {
+        "depth_m": 44.2,
+        "description": "[粉砂質砂]灰色沉泥質細砂夾中"
+      },
+      {
+        "depth_m": 50.0,
+        "description": "[粉砂質砂]灰色沉泥質黏土或灰，色砂質沉泥"
+      }
+    ]
+  },
+  "0374800180011_WB-3_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "WB-3",
+      "location": "大莊",
+      "coordinates": {
+        "datum": "TWD67",
+        "N": 2635728.0,
+        "E": 183726.7
+      },
+      "elevation_m": 13.24,
+      "date": "0791223~0791224"
+    },
+    "strata": [
+      {
+        "depth_m": 3.45,
+        "description": "[粉砂質砂]灰色沉泥質細砂，灰色，沉泥質中粗砂含礫石"
+      },
+      {
+        "depth_m": 6.4,
+        "description": "[粉砂質砂]灰色沉泥質中粗砂含"
+      },
+      {
+        "depth_m": 10.55,
+        "description": "[泥質粉砂]灰色黏土質沉泥"
+      },
+      {
+        "depth_m": 13.8,
+        "description": "[粉砂質砂]灰色沉泥質細砂"
+      },
+      {
+        "depth_m": 15.7,
+        "description": "[粉砂質砂]灰色沉泥質中細砂偶，含小卯石"
+      },
+      {
+        "depth_m": 23.5,
+        "description": "[粉砂質砂]灰色沉泥質細砂偶夾，少量薄層黏土"
+      }
+    ]
+  },
+  "0374800180011_WB-3_Chart_2.png": {
+    "borehole_info": {
+      "borehole_id": "WB-3",
+      "location": "大莊",
+      "coordinates": {
+        "datum": "TWD67",
+        "N": 2635728.0,
+        "E": 183726.7
+      },
+      "elevation_m": 13.24,
+      "date": "0791223~0791224"
+    },
+    "strata": [
+      {
+        "depth_m": 23.5,
+        "description": "[粉砂質砂]灰色沉泥質細砂偶夾，少量薄層黏土"
+      },
+      {
+        "depth_m": 30.0,
+        "description": "[粉砂質砂]灰色沉泥質細砂"
+      }
+    ]
+  },
+  "0374800180011_WB-4_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "WB-4",
+      "location": "大莊",
+      "coordinates": {
+        "datum": "TWD67",
+        "N": 2635907.9,
+        "E": 183716.6
+      },
+      "elevation_m": 12.82,
+      "date": "0791225~0791228"
+    },
+    "strata": [
+      {
+        "depth_m": 1.7,
+        "description": "[粉砂質砂]灰色沉泥質細砂"
+      },
+      {
+        "depth_m": 5.8,
+        "description": "[粉砂質砂]灰色沉泥質中粗砂含"
+      },
+      {
+        "depth_m": 12.7,
+        "description": "[泥質粉砂]灰色黏土質沉泥與細，砂質沉泥互層"
+      },
+      {
+        "depth_m": 16.7,
+        "description": "[粉砂質砂]灰色沉泥質中粗砂含，小礫石"
+      },
+      {
+        "depth_m": 18.5,
+        "description": "[粉砂質砂]灰色沉泥質細砂"
+      },
+      {
+        "depth_m": 24.6,
+        "description": "[粉砂質砂]反色沉泥質細砂偶夾"
+      }
+    ]
+  },
+  "0374800180011_WB-4_Chart_2.png": {
+    "borehole_info": {
+      "borehole_id": "WB-4",
+      "location": "大莊",
+      "coordinates": {
+        "datum": "TWD67",
+        "N": 2635907.9,
+        "E": 183716.6
+      },
+      "elevation_m": 12.82,
+      "date": "0791225~0791228"
+    },
+    "strata": [
+      {
+        "depth_m": 24.6,
+        "description": "[粉砂質砂]灰色沉泥質細砂偶夾"
+      },
+      {
+        "depth_m": 30.0,
+        "description": "[粉砂質砂]灰色沉泥質細砂偶夾，小礫石"
+      }
+    ]
+  },
+  "0374800180011_WB-5_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "WB-5",
+      "location": "大莊",
+      "coordinates": {
+        "datum": "TWD67",
+        "N": 2636114.8,
+        "E": 183724.5
+      },
+      "elevation_m": 12.74,
+      "date": "0791229~0800105"
+    },
+    "strata": [
+      {
+        "depth_m": 1.3,
+        "description": "[粉砂質砂]灰色沉泥質細砂"
+      },
+      {
+        "depth_m": 6.5,
+        "description": "[粉砂質砂]灰色沉泥質中粗砂"
+      },
+      {
+        "depth_m": 7.6,
+        "description": "[粉砂質砂]灰色黏土質沉泥"
+      },
+      {
+        "depth_m": 11.8,
+        "description": "[粉砂質砂]灰色沉泥質細砂"
+      },
+      {
+        "depth_m": 15.6,
+        "description": "[粉砂質砂灰色沉泥質中細砂"
+      },
+      {
+        "depth_m": 24.8,
+        "description": "[粉砂質砂]灰色沉泥質細砂偶夾"
+      }
+    ]
+  },
+  "0374800180011_WB-5_Chart_2.png": {
+    "borehole_info": {
+      "borehole_id": "WB-5",
+      "location": "大莊",
+      "coordinates": {
+        "datum": "TWD67",
+        "N": 2636114.8,
+        "E": 183724.5
+      },
+      "elevation_m": 12.74,
+      "date": "0791229~0800105"
+    },
+    "strata": [
+      {
+        "depth_m": 24.8,
+        "description": "[粉砂質砂]灰色沉泥質細砂偶夾"
+      },
+      {
+        "depth_m": 30.9,
+        "description": "[粉砂質砂]灰色沉泥質細砂"
+      },
+      {
+        "depth_m": 36.7,
+        "description": "粉砂質砂灰色沉泥質細砂"
+      },
+      {
+        "depth_m": 40.84,
+        "description": "[粉砂質砂]灰色沉泥質細砂偶夾，薄層黏土"
+      }
+    ]
+  },
+  "0374800180011_WB-5_Chart_3.png": {
+    "borehole_info": {
+      "borehole_id": "WB-5",
+      "location": "大莊",
+      "coordinates": {
+        "datum": "TWD67",
+        "N": 2636114.8,
+        "E": 183724.5
+      },
+      "elevation_m": 12.74,
+      "date": "0791229~0800105"
+    },
+    "strata": [
+      {
+        "depth_m": 40.84,
+        "description": "[粉砂質砂]灰色沉泥質細砂偶夾，薄層黏土"
+      },
+      {
+        "depth_m": 42.4,
+        "description": "[粉砂質黏土]灰色沉泥質黏土"
+      },
+      {
+        "depth_m": 49.2,
+        "description": "[粉砂質黏土]灰色沉泥質黏土偶，爽薄層黏土"
+      },
+      {
+        "depth_m": 55.6,
+        "description": "[粉砂質黏土]灰色沉泥質細砂夾"
+      },
+      {
+        "depth_m": 60.0,
+        "description": "[粉砂質砂]灰色沉泥質細砂"
+      }
+    ]
+  },
+  "0374800180011_WB-6_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "WB-6",
+      "location": "大莊",
+      "coordinates": {
+        "datum": "TWD67",
+        "N": 2636318.4,
+        "E": 183682.9
+      },
+      "elevation_m": 11.78,
+      "date": "0791230~0791231"
+    },
+    "strata": [
+      {
+        "depth_m": 1.45,
+        "description": "[粉砂質砂]灰色沉泥質細砂"
+      },
+      {
+        "depth_m": 3.25,
+        "description": "[粉砂質砂]灰色沉泥質中粗砂含"
+      },
+      {
+        "depth_m": 7.4,
+        "description": "[粉砂質砂]灰色沉泥質中細砂夾"
+      },
+      {
+        "depth_m": 9.75,
+        "description": "[泥質粉砂]灰色黏土質沉泥"
+      },
+      {
+        "depth_m": 16.2,
+        "description": "[粉砂質砂]灰色沉泥質細砂"
+      },
+      {
+        "depth_m": 18.6,
+        "description": "[粉砂質砂]灰色沉泥質中細砂爽，粗砂偶含礫石"
+      },
+      {
+        "depth_m": 23.8,
+        "description": "[粉砂質砂]灰色沉泥質細砂夾薄，層沉泥"
+      }
+    ]
+  },
+  "0374800180011_WB-6_Chart_2.png": {
+    "borehole_info": {
+      "borehole_id": "WB-6",
+      "location": "大莊",
+      "coordinates": {
+        "datum": "TWD67",
+        "N": 2636318.4,
+        "E": 183682.9
+      },
+      "elevation_m": 11.78,
+      "date": "0791230~0791231"
+    },
+    "strata": [
+      {
+        "depth_m": 23.8,
+        "description": "[粉砂質砂]灰色沉泥質細砂夾薄，屠沉泥"
+      },
+      {
+        "depth_m": 30.0,
+        "description": "[粉砂質砂]灰色沉泥質細砂，28.75，-29.20粗中砂含礫石"
+      }
+    ]
+  },
+  "0374800180011_WB-7_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "WB-7",
+      "location": "大莊",
+      "coordinates": {
+        "datum": "TWD67",
+        "N": 2636581.3,
+        "E": 183527.2
+      },
+      "elevation_m": 12.19,
+      "date": "0791225~0791228"
+    },
+    "strata": [
+      {
+        "depth_m": 1.8,
+        "description": "[粉砂質砂]灰色沉泥質中細砂"
+      },
+      {
+        "depth_m": 2.85,
+        "description": "[粉砂質砂]灰色沉泥質中粗砂含"
+      },
+      {
+        "depth_m": 4.25,
+        "description": "[粉砂質砂]灰色沉泥質中細砂偶，爽薄層沉泥"
+      },
+      {
+        "depth_m": 7.15,
+        "description": "[泥質粉砂]灰色黏土質沉泥"
+      },
+      {
+        "depth_m": 8.4,
+        "description": "粉砂資砂灰色沉泥質細砂夾沉"
+      },
+      {
+        "depth_m": 11.2,
+        "description": "[粉砂資砂]灰色沉泥資中細砂"
+      },
+      {
+        "depth_m": 15.3,
+        "description": "[粉砂質砂]灰色沉泥質細砂夾粗，砂含礫石"
+      },
+      {
+        "depth_m": 20.1,
+        "description": "[粉砂資砂]灰色沉泥質中細砂夾，薄層黏土"
+      }
+    ]
+  },
+  "0374800180011_WB-7_Chart_2.png": {
+    "borehole_info": {
+      "borehole_id": "WB-7",
+      "location": "大莊",
+      "coordinates": {
+        "datum": "TWD67",
+        "N": 2636581.3,
+        "E": 183527.2
+      },
+      "elevation_m": 12.19,
+      "date": "0791225~0791228"
+    },
+    "strata": [
+      {
+        "depth_m": 20.1,
+        "description": "粉砂質砂灰色沉泥質中細砂夾，薄層黏土"
+      },
+      {
+        "depth_m": 35.2,
+        "description": "[粉砂質砂]灰色沉泥質中細，砂，28.20-28.80粗砂礫石層，34.30-，34.85含礫石"
+      },
+      {
+        "depth_m": 38.4,
+        "description": "[粉砂質砂]灰色沉泥質細砂夾薄，居黏土質沉泥"
+      },
+      {
+        "depth_m": 48.15,
+        "description": "[粉砂質砂]灰色沉泥質中細砂夾黏土質沉泥"
+      }
+    ]
+  },
+  "0374800180011_WB-7_Chart_3.png": {
+    "borehole_info": {
+      "borehole_id": "WB-7",
+      "location": "大莊",
+      "coordinates": {
+        "datum": "TWD67",
+        "N": 2636581.3,
+        "E": 183527.2
+      },
+      "elevation_m": 12.19,
+      "date": "0791225~0791228"
+    },
+    "strata": [
+      {
+        "depth_m": 48.15,
+        "description": "[粉砂質砂]灰色沉泥質中細砂夾黏土質沉泥"
+      },
+      {
+        "depth_m": 60.0,
+        "description": "[粉砂質砂]灰色沉泥質中細砂夾，中砂，54.20-54.70黏土質沉泥，[粉砂質砂]灰色沉泥質中細砂"
+      }
+    ]
+  },
+  "0374800180011_WB-8_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "WB-8",
+      "location": "大莊",
+      "coordinates": {
+        "datum": "TWD67",
+        "N": 2636845.3,
+        "E": 183305.9
+      },
+      "elevation_m": 13.33,
+      "date": "0791223~0791225"
+    },
+    "strata": [
+      {
+        "depth_m": 2.65,
+        "description": "[粉砂質砂]灰色沉泥質細砂夾沉泥含有機物"
+      },
+      {
+        "depth_m": 6.7,
+        "description": "[粉砂質砂]灰色沉泥質細砂含有機物砂及礫石"
+      },
+      {
+        "depth_m": 10.2,
+        "description": "[泥質粉砂]灰色黏土質沉泥夾細砂細砂,[粉砂質砂]灰色沉泥質細砂中"
+      },
+      {
+        "depth_m": 11.15,
+        "description": "[泥質粉砂]灰色黏土質沉泥細"
+      },
+      {
+        "depth_m": 15.2,
+        "description": "[粉砂質砂]灰色沉泥質中粗砂夾"
+      },
+      {
+        "depth_m": 20.3,
+        "description": "[粉砂質砂]灰色沉泥質中細砂夾"
+      }
+    ]
+  },
+  "0374800180011_WB-8_Chart_2.png": {
+    "borehole_info": {
+      "borehole_id": "WB-8",
+      "location": "大莊",
+      "coordinates": {
+        "datum": "TWD67",
+        "N": 2636845.3,
+        "E": 183305.9
+      },
+      "elevation_m": 13.33,
+      "date": "0791223~0791225"
+    },
+    "strata": [
+      {
+        "depth_m": 20.3,
+        "description": "粉砂質砂]灰色沉泥質中細砂夾"
+      },
+      {
+        "depth_m": 22.35,
+        "description": "[粉砂質砂]灰色沉泥質中粗砂夾，細砂偶含礫石"
+      },
+      {
+        "depth_m": 39.2,
+        "description": "[粉砂質砂]灰色沉泥質中細砂偶，爽粗砂，23.60-24.80含礫石"
+      }
+    ]
+  },
+  "0374800180011_WB-8_Chart_3.png": {
+    "borehole_info": {
+      "borehole_id": "WB-8",
+      "location": "大莊",
+      "coordinates": {
+        "datum": "TWD67",
+        "N": 2636845.3,
+        "E": 183305.9
+      },
+      "elevation_m": 13.33,
+      "date": "0791223~0791225"
+    },
+    "strata": [
+      {
+        "depth_m": 45.0,
+        "description": "[粉砂質砂]灰色沉泥質中細砂偶，爽黏土質沉泥"
+      }
+    ]
+  },
+  "0374800180011_WB-9_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "WB-9",
+      "location": "大莊",
+      "coordinates": {
+        "datum": "TWD67",
+        "N": 2635240.9,
+        "E": 183949.4
+      },
+      "elevation_m": 14.41,
+      "date": "0800104~0800105"
+    },
+    "strata": [
+      {
+        "depth_m": 2.8,
+        "description": "[粉砂質砂]灰色沉泥質中細砂"
+      },
+      {
+        "depth_m": 8.4,
+        "description": "[粉砂質砂]灰色沉泥質中細砂夾，薄層沉泥"
+      },
+      {
+        "depth_m": 10.2,
+        "description": "[粉砂質砂]灰色沉泥質中粗砂夾，細砂偶含礫石"
+      },
+      {
+        "depth_m": 16.8,
+        "description": "粉砂資砂灰色沉泥質中細砂爽，粗砂，13.00-13.40爽沉"
+      },
+      {
+        "depth_m": 37.2,
+        "description": "[粉砂質砂]灰色沉泥質中細，砂，17.90-19.20爽沉泥，28.30-29.60"
+      }
+    ]
+  },
+  "0374800180011_WB-9_Chart_2.png": {
+    "borehole_info": {
+      "borehole_id": "WB-9",
+      "location": "大莊",
+      "coordinates": {
+        "datum": "TWD67",
+        "N": 2635240.9,
+        "E": 183949.4
+      },
+      "elevation_m": 14.41,
+      "date": "0800104~0800105"
+    },
+    "strata": [
+      {
+        "depth_m": 37.2,
+        "description": "[粉砂質砂]灰色沉泥質中細，砂，17.90-19.20爽沉泥，28.30-29.60"
+      },
+      {
+        "depth_m": 43.6,
+        "description": "[粉砂質砂]灰色沉泥質中細砂夾黏土質沉泥"
+      }
+    ]
+  },
+  "0374800180011_WB-9_Chart_3.png": {
+    "borehole_info": {
+      "borehole_id": "WB-9",
+      "location": "大莊",
+      "coordinates": {
+        "datum": "TWD67",
+        "N": 2635240.9,
+        "E": 183949.4
+      },
+      "elevation_m": 14.41,
+      "date": "0800104~0800105"
+    },
+    "strata": [
+      {
+        "depth_m": 43.6,
+        "description": "[粉砂質砂]灰色沉泥質中細砂夾黏土質沉泥"
+      },
+      {
+        "depth_m": 45.0,
+        "description": "[粉砂質砂]灰色沉泥質中細砂孔"
+      }
+    ]
+  },
+  "0374800183061_BH-1_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "BH-1",
+      "location": "雙溪丁蘭谷",
+      "coordinates": {
+        "datum": "TWD67",
+        "N": 2767982.55,
+        "E": 337468.69
+      },
+      "elevation_m": 46.78,
+      "date": "0820917~0820925"
+    },
+    "strata": [
+      {
+        "depth_m": 1.3,
+        "description": "[蹦精物]覆蓄層，黃棕色覆器土偶，爽瑰石砂，頁岩巖瑰。"
+      },
+      {
+        "depth_m": 3.0,
+        "description": "[崩精物]砂、頁岩巖瑰。"
+      },
+      {
+        "depth_m": 5.2,
+        "description": "砂岩為主砂頁岩為互層]灰色泥，質砂岩偶爽硬頁岩，區域性繡染。"
+      },
+      {
+        "depth_m": 5.83,
+        "description": "砂頁岩互層]砂，直巖互層"
+      },
+      {
+        "depth_m": 6.1,
+        "description": "頁岩互層]灰色砂岩爽薄硬真"
+      },
+      {
+        "depth_m": 7.8,
+        "description": "少頁岩互層灰色砂岩夾薄硬真"
+      },
+      {
+        "depth_m": 8.15,
+        "description": "少頁岩互層]灰色砂岩夾薄硬真"
+      },
+      {
+        "depth_m": 9.0,
+        "description": "巖為主砂頁岩為互層]灰色礎，俠薄硬頁岩"
+      },
+      {
+        "depth_m": 11.0,
+        "description": "巖為主砂自巖為互屑灰黑色，頁岩偶爽砂岩，區域性鏽染·破，繡染"
+      },
+      {
+        "depth_m": 11.19,
+        "description": "巖為主砂自巖為互層砂岩偶，硬頁岩"
+      },
+      {
+        "depth_m": 11.73,
+        "description": "巖為主砂頁岩為互層砂岩偶，硬頁岩"
+      }
+    ]
+  },
+  "0374800183061_BH-1_Chart_2.png": {
+    "borehole_info": {
+      "borehole_id": "BH-1",
+      "location": "雙溪丁蘭谷",
+      "coordinates": {
+        "datum": "TWD67",
+        "N": 2767982.55,
+        "E": 337468.69
+      },
+      "elevation_m": 46.78,
+      "date": "0820917~0820925"
+    },
+    "strata": [
+      {
+        "depth_m": 25.45,
+        "description": "[頁岩為主砂直巖為互層]灰黑色，硬頁岩偶砂岩。"
+      },
+      {
+        "depth_m": 25.9,
+        "description": "[直巖]灰黑色硬頁岩偶夾薄層真"
+      },
+      {
+        "depth_m": 34.0,
+        "description": "[若為主砂頁岩為互層]灰黑色，硬頁岩偶爽薄砂岩。"
+      },
+      {
+        "depth_m": 40.0,
+        "description": "[砂頁岩互層]砂頁岩互層"
+      }
+    ]
+  },
+  "0374800183061_SB-3_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "SB-3",
+      "location": "雙溪丁蘭谷",
+      "coordinates": {
+        "datum": "TWD67",
+        "N": 2768005.03,
+        "E": 337377.37
+      },
+      "elevation_m": 99.92,
+      "date": "0830324~0830402"
+    },
+    "strata": [
+      {
+        "depth_m": 7.2,
+        "description": "[崩精物]黃棕色至灰黑色細砂岩巖塊偶爽黏土·"
+      },
+      {
+        "depth_m": 10.4,
+        "description": "[砂岩]深灰色細砂岩。7.6微跨梁"
+      },
+      {
+        "depth_m": 10.55,
+        "description": "[頁岩為主砂自巖為互層]跨染，0.4~20.55灰黑色砂質硬頁岩偶，灰細砂岩"
+      },
+      {
+        "depth_m": 11.45,
+        "description": "頁岩為主砂頁岩為互層圍化破"
+      },
+      {
+        "depth_m": 11.5,
+        "description": "巖為主砂頁岩為互層繡染"
+      },
+      {
+        "depth_m": 13.2,
+        "description": "巖為主砂頁岩為互層跨染，路15鏽染"
+      },
+      {
+        "depth_m": 13.79,
+        "description": "巖為主砂自巖為互層]破碎"
+      },
+      {
+        "depth_m": 14.0,
+        "description": "巖為主砂頁岩為互層跨染"
+      }
+    ]
+  },
+  "0374800183061_SB-3_Chart_2.png": {
+    "borehole_info": {
+      "borehole_id": "SB-3",
+      "location": "雙溪丁蘭谷",
+      "coordinates": {
+        "datum": "TWD67",
+        "N": 2768005.03,
+        "E": 337377.37
+      },
+      "elevation_m": 99.92,
+      "date": "0830324~0830402"
+    },
+    "strata": [
+      {
+        "depth_m": 20.75,
+        "description": "直巖為主砂直巖為互層砂、真，互層"
+      },
+      {
+        "depth_m": 20.9,
+        "description": "巖為主砂頁岩為互層跨染"
+      },
+      {
+        "depth_m": 21.4,
+        "description": "[單巖為主砂頁岩為互層]層，雙"
+      },
+      {
+        "depth_m": 23.85,
+        "description": "巖為主砂頁岩為互層爽泥及"
+      },
+      {
+        "depth_m": 24.4,
+        "description": "[單若為主砂頁岩為互層]灰泥及"
+      },
+      {
+        "depth_m": 26.9,
+        "description": "巖為主砂頁岩為互層灰泥及"
+      },
+      {
+        "depth_m": 26.8,
+        "description": "自巖為主砂頁岩為互屑]灰黑色，頁岩，偶爽薄層細砂岩。"
+      },
+      {
+        "depth_m": 28.6,
+        "description": "[電若為主砂自巖為互層]破碎含"
+      },
+      {
+        "depth_m": 37.0,
+        "description": "頁岩為主砂頁岩為互層]破碎"
+      }
+    ]
+  },
+  "100466240991262064_B3-01_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "B3-01",
+      "location": "歌畫",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2760838.64,
+        "E": 286017.97
+      },
+      "elevation_m": 51.27,
+      "date": "1001125~1001127"
+    },
+    "strata": [
+      {
+        "depth_m": 12.06,
+        "description": "AC鋪面及回填紅磚夾黃棕色粉土質砂，08，耶礫石夾棕黃色細砂那石粒徑約，為5~13cm最大粒徑24cm"
+      }
+    ]
+  },
+  "100466240991262064_B4-01_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "B4-01",
+      "location": "三峽區",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2758241.59,
+        "E": 287652.18
+      },
+      "elevation_m": 35.55,
+      "date": "1001203~1001203"
+    },
+    "strata": [
+      {
+        "depth_m": 12.06,
+        "description": "AC鋪面及回填紅磚夾黃棕色粉土質砂，08，卵礫石夾棕黃色細砂卵石粒徑約，為5~13cm最大粒徑24cm"
+      }
+    ]
+  },
+  "100466240991262064_B4-02_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "B4-02",
+      "location": "三峽區",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2757800.21,
+        "E": 287480.6
+      },
+      "elevation_m": 37.24,
+      "date": "1001215~1001215"
+    },
+    "strata": [
+      {
+        "depth_m": 1.7,
+        "description": "AC鋪面，回填卵礫石夾塊磚及黃棕色粉質砂"
+      },
+      {
+        "depth_m": 10.05,
+        "description": "卵礫石夾棕黃色粉土質砂卵石粒，徑5~10cm最大粒徑20cm"
+      }
+    ]
+  },
+  "100466240991262064_B5-01_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "B5-01",
+      "location": "歌畫",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2760908.27,
+        "E": 284549.44
+      },
+      "elevation_m": 56.32,
+      "date": "1001127~1001128"
+    },
+    "strata": [
+      {
+        "depth_m": 2.4,
+        "description": "回填卵礫石，紅磚夾黃棕色砂土"
+      },
+      {
+        "depth_m": 5.7,
+        "description": "卵礫石夾黃灰色粉土質細砂"
+      },
+      {
+        "depth_m": 10.07,
+        "description": "聊蝶石夾灰色粉土細砂那石粒徑，5~13cm最大粒徑24cm"
+      }
+    ]
+  },
+  "100466240991262064_B5-02_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "B5-02",
+      "location": "歌畫",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2760296.56,
+        "E": 284760.48
+      },
+      "elevation_m": 60.9,
+      "date": "1001205~1001205"
+    },
+    "strata": [
+      {
+        "depth_m": 0.8,
+        "description": "回填卵礫石，紅及黃棕色砂土"
+      },
+      {
+        "depth_m": 10.0,
+        "description": "卵礫石夾黃棕色粉土質砂卵石粒，徑5~15cm最大粒徑25cm"
+      }
+    ]
+  },
+  "100466240991262064_B5-03_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "B5-03",
+      "location": "歌畫",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2760131.83,
+        "E": 284107.07
+      },
+      "elevation_m": 69.84,
+      "date": "1001115~1001118"
+    },
+    "strata": [
+      {
+        "depth_m": 10.07,
+        "description": "卵礫石夾黃棕色粉土質砂最大粒徑22cm"
+      }
+    ]
+  },
+  "100466240991262064_B6-02_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "B6-02",
+      "location": "三峽區",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2757841.59,
+        "E": 287130.08
+      },
+      "elevation_m": 40.52,
+      "date": "1001123~1001123"
+    },
+    "strata": [
+      {
+        "depth_m": 1.45,
+        "description": "PC鋪面，回填卵礫石，紅磚及黃棕，色砂土"
+      },
+      {
+        "depth_m": 10.05,
+        "description": "卵礫石層夾棕黃色粉土質砂卵石，粒徑5~13cm最大粒徑20cm"
+      }
+    ]
+  },
+  "100466240991262064_B7-01_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "B7-01",
+      "location": "歌畫",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2758751.34,
+        "E": 284364.45
+      },
+      "elevation_m": 56.34,
+      "date": "1001210~1001213"
+    },
+    "strata": [
+      {
+        "depth_m": 1.5,
+        "description": "PC鋪面，回填土卵礫石夾磚瑰，及黃棕色砂土"
+      },
+      {
+        "depth_m": 6.7,
+        "description": "卵礫石夾黃棕色粉土中細砂卵石，粒徑5~15cm最大粒徑30cm"
+      },
+      {
+        "depth_m": 10.05,
+        "description": "灰色砂岩及頁岩互層"
+      }
+    ]
+  },
+  "100466240991262064_B7-02_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "B7-02",
+      "location": "歌畫",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2759267.5,
+        "E": 284125.3
+      },
+      "elevation_m": 58.27,
+      "date": "1001212~1001213"
+    },
+    "strata": [
+      {
+        "depth_m": 1.6,
+        "description": "回填卵礫石，紅磚及黃棕色砂土"
+      },
+      {
+        "depth_m": 7.4,
+        "description": "卵礫石夾黃標色粉土中細砂卵石，粒徑5~15cm"
+      },
+      {
+        "depth_m": 10.0,
+        "description": "灰色砂岩及頁岩互層"
+      }
+    ]
+  },
+  "100466240991262064_B7-03_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "B7-03",
+      "location": "歌畫",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2760197.93,
+        "E": 285133.03
+      },
+      "elevation_m": 47.02,
+      "date": "1001128~1001129"
+    },
+    "strata": [
+      {
+        "depth_m": 2.45,
+        "description": "卵礫石夾紅磚及棕黃色粉土質砂"
+      },
+      {
+        "depth_m": 8.9,
+        "description": "卵礫石夾黃棕色中細砂"
+      },
+      {
+        "depth_m": 10.0,
+        "description": "灰色砂岩"
+      }
+    ]
+  },
+  "100466240991262064_B7-04_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "B7-04",
+      "location": "歌畫",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2759052.66,
+        "E": 283747.71
+      },
+      "elevation_m": 62.55,
+      "date": "1001214~1001214"
+    },
+    "strata": [
+      {
+        "depth_m": 1.6,
+        "description": "回填黃棕色砂土夾混凝土塊、卵，礫石及磚瑰"
+      },
+      {
+        "depth_m": 10.0,
+        "description": "卵礫石夾黃棕色粉土質砂那石粒，徑約為7~15cm最大粒徑30cm"
+      }
+    ]
+  },
+  "100466240991262064_B7-05_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "B7-05",
+      "location": "歌畫",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2759360.72,
+        "E": 283924.04
+      },
+      "elevation_m": 58.76,
+      "date": "1001122~1001122"
+    },
+    "strata": [
+      {
+        "depth_m": 1.8,
+        "description": "回填卵礫石，紅磚及黃棕色粉土"
+      },
+      {
+        "depth_m": 10.06,
+        "description": "卵礫石夾黃棕色細砂卵石粒徑約，為5~10cm最大粒徑20cm"
+      }
+    ]
+  },
+  "100466240991262064_B7-06_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "B7-06",
+      "location": "歌畫",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2758461.34,
+        "E": 283255.35
+      },
+      "elevation_m": 65.62,
+      "date": "1001210~1001212"
+    },
+    "strata": [
+      {
+        "depth_m": 0.25,
+        "description": "礫石，紅磚眉及黃棕色粉砂"
+      },
+      {
+        "depth_m": 4.2,
+        "description": "卵礫石夾黃棕色粉土質砂卵石粒，徑5~8cm最大粒徑10cm"
+      },
+      {
+        "depth_m": 10.0,
+        "description": "灰色泥質砂岩"
+      }
+    ]
+  },
+  "100466240991262064_B7-07_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "B7-07",
+      "location": "歌匾",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2758526.86,
+        "E": 283988.14
+      },
+      "elevation_m": null,
+      "date": "未知 / 無記載"
+    },
+    "strata": [
+      {
+        "depth_m": 10.0,
+        "description": "&C鋪面，U.30M，郵礫石夾棕黃色砂土邦石粒徑，5~15cm最大粒徑25cm，夾色粉砂岩夾泥質砂臭巖，工程地，香"
+      }
+    ]
+  },
+  "100466240991262064_B8-01_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "B8-01",
+      "location": "歌畫",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2763305.28,
+        "E": 284156.86
+      },
+      "elevation_m": 131.75,
+      "date": "1001220~1001222"
+    },
+    "strata": [
+      {
+        "depth_m": 0.6,
+        "description": "AC鋪面及回填卵礫石"
+      },
+      {
+        "depth_m": 5.45,
+        "description": "棕備色粉土砂夾黏土及巖瑰"
+      },
+      {
+        "depth_m": 10.0,
+        "description": "棕黃色風化砂岩，灰色砂岩"
+      }
+    ]
+  },
+  "100466240991262064_BB-02_Chart_2.png": {
+    "borehole_info": {
+      "borehole_id": "BB-02",
+      "location": "三峽區",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2759039.48,
+        "E": 286854.32
+      },
+      "elevation_m": 40.97,
+      "date": "1001114~1001115"
+    },
+    "strata": [
+      {
+        "depth_m": 21.08,
+        "description": "灰色頁岩夾薄層砂岩"
+      }
+    ]
+  },
+  "100466240991262064_B8-02_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "B8-02",
+      "location": "歌畫",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2763015.26,
+        "E": 284070.37
+      },
+      "elevation_m": 109.94,
+      "date": "1001221~1001222"
+    },
+    "strata": [
+      {
+        "depth_m": 0.3,
+        "description": "AC鋪面及回填郵曬石夾紅磚及，檳黃色粉土質細砂"
+      },
+      {
+        "depth_m": 10.1,
+        "description": "崩精巖塊層夾棕灰色粉土質砂"
+      }
+    ]
+  },
+  "100466240991262064_BB-01_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "BB-01",
+      "location": "三峽區",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2759040.66,
+        "E": 287367.54
+      },
+      "elevation_m": 37.76,
+      "date": "1001208~1001210"
+    },
+    "strata": [
+      {
+        "depth_m": 0.6,
+        "description": "回填水泥瑰，那礫石及砂"
+      },
+      {
+        "depth_m": 14.9,
+        "description": "15+33+6卵礫石夾棕黃色粉土質中細砂"
+      },
+      {
+        "depth_m": 18.04,
+        "description": "灰色偶夾黃色砂岩夾薄層頁岩"
+      }
+    ]
+  },
+  "100466240991262064_BB-02_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "BB-02",
+      "location": "三峽區",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2759039.48,
+        "E": 286854.32
+      },
+      "elevation_m": 40.97,
+      "date": "1001114~1001115"
+    },
+    "strata": [
+      {
+        "depth_m": 0.6,
+        "description": "回填卵礫石及雜土"
+      },
+      {
+        "depth_m": 11.2,
+        "description": "15+43+6礫石夾粉土質中細砂石粒徑，約5~10cm最大粒徑15cm"
+      },
+      {
+        "depth_m": 21.08,
+        "description": "灰色頁岩夾薄層砂岩"
+      }
+    ]
+  },
+  "100466240991262064_BB-03_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "BB-03",
+      "location": "三峽區",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2758999.03,
+        "E": 286443.65
+      },
+      "elevation_m": 43.76,
+      "date": "1001119~1001122"
+    },
+    "strata": [
+      {
+        "depth_m": 0.5,
+        "description": "回填土夾卵礫石紅磚"
+      },
+      {
+        "depth_m": 11.9,
+        "description": "15+33+30卵礫石夾灰色粉土質中細砂卵石，粒徑約5~20cm最大粒徑35cm"
+      },
+      {
+        "depth_m": 25.06,
+        "description": "灰色頁岩夾薄層砂岩區域性破碎"
+      }
+    ]
+  },
+  "100466240991262064_BB-03_Chart_2.png": {
+    "borehole_info": {
+      "borehole_id": "BB-03",
+      "location": "三峽區",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2758999.03,
+        "E": 286443.65
+      },
+      "elevation_m": 43.76,
+      "date": "1001119~1001122"
+    },
+    "strata": [
+      {
+        "depth_m": 25.06,
+        "description": "灰色頁岩夾薄層砂岩區域性破碎"
+      }
+    ]
+  },
+  "100466240991262064_BB-05_Chart_2.png": {
+    "borehole_info": {
+      "borehole_id": "BB-05",
+      "location": "歌畫",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2759869.16,
+        "E": 285667.3
+      },
+      "elevation_m": 46.02,
+      "date": "1001113~1001115"
+    },
+    "strata": [
+      {
+        "depth_m": 28.1,
+        "description": "灰色砂岩及頁岩互層"
+      }
+    ]
+  },
+  "100466240991262064_BB-04_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "BB-04",
+      "location": "歌畫",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2759596.35,
+        "E": 285774.18
+      },
+      "elevation_m": 43.17,
+      "date": "1001108~1001111"
+    },
+    "strata": [
+      {
+        "depth_m": 4.5,
+        "description": "灰色卵礫石含中細砂卵石粒徑，5~10cm最大粒徑10cm"
+      },
+      {
+        "depth_m": 8.2,
+        "description": "灰色卵礫石含粗中砂卵石粒徑，5~15cm最大粒徑30cm"
+      },
+      {
+        "depth_m": 10.0,
+        "description": "灰色泥質砂岩"
+      },
+      {
+        "depth_m": 10.5,
+        "description": "灰色砂岩含貝類"
+      },
+      {
+        "depth_m": 12.75,
+        "description": "灰色砂岩偶含具類"
+      },
+      {
+        "depth_m": 19.3,
+        "description": "灰色泥質砂岩"
+      },
+      {
+        "depth_m": 20.5,
+        "description": "灰色砂岩含貝類"
+      }
+    ]
+  },
+  "100466240991262064_BB-06_Chart_2.png": {
+    "borehole_info": {
+      "borehole_id": "BB-06",
+      "location": "歌畫",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2760405.38,
+        "E": 286154.18
+      },
+      "elevation_m": 40.13,
+      "date": "1001126~1001128"
+    },
+    "strata": [
+      {
+        "depth_m": 28.0,
+        "description": "灰色砂岩夾薄層頁岩"
+      }
+    ]
+  },
+  "100466240991262064_BB-04_Chart_2.png": {
+    "borehole_info": {
+      "borehole_id": "BB-04",
+      "location": "歌畫",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2759596.35,
+        "E": 285774.18
+      },
+      "elevation_m": 43.17,
+      "date": "1001108~1001111"
+    },
+    "strata": [
+      {
+        "depth_m": 20.5,
+        "description": "灰色砂岩含貝類"
+      },
+      {
+        "depth_m": 21.001,
+        "description": "灰色頁岩"
+      },
+      {
+        "depth_m": 28.12,
+        "description": "灰色頁岩夾砂質頁岩偶夾具類破"
+      }
+    ]
+  },
+  "100466240991262064_BB-08_Chart_2.png": {
+    "borehole_info": {
+      "borehole_id": "BB-08",
+      "location": "歌畫",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2761159.31,
+        "E": 287495.34
+      },
+      "elevation_m": 28.64,
+      "date": "1001209~1001214"
+    },
+    "strata": [
+      {
+        "depth_m": 25.11,
+        "description": "灰色砂岩與頁岩互層"
+      }
+    ]
+  },
+  "100466240991262064_BB-05_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "BB-05",
+      "location": "歌畫",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2759869.16,
+        "E": 285667.3
+      },
+      "elevation_m": 46.02,
+      "date": "1001113~1001115"
+    },
+    "strata": [
+      {
+        "depth_m": 1.8,
+        "description": "卵礫石夾棕黃色砂土"
+      },
+      {
+        "depth_m": 3.5,
+        "description": "卵礫石夾棕褐色砂士"
+      },
+      {
+        "depth_m": 19.3,
+        "description": "卵礫石夾棕灰色中細砂卵石粒徑，5~10cm最大粒徑20cm"
+      }
+    ]
+  },
+  "100466240991262064_BB-06_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "BB-06",
+      "location": "歌畫",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2760405.38,
+        "E": 286154.18
+      },
+      "elevation_m": 40.13,
+      "date": "1001126~1001128"
+    },
+    "strata": [
+      {
+        "depth_m": 15.4,
+        "description": "回填卵礫石、紅磚及雜土"
+      },
+      {
+        "depth_m": 19.5,
+        "description": "卵礫石夾粉土質中細砂卵石粒徑，5~10cm最大粒徑15cm"
+      },
+      {
+        "depth_m": 28.0,
+        "description": "灰色砂岩夾薄層直巖"
+      }
+    ]
+  },
+  "100466240991262064_BB-08_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "BB-08",
+      "location": "歌畫",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2761159.31,
+        "E": 287495.34
+      },
+      "elevation_m": 28.64,
+      "date": "1001209~1001214"
+    },
+    "strata": [
+      {
+        "depth_m": 5.1,
+        "description": "卵礫石層夾棕灰色粗中細砂那石，粒徑5~10cm最大粒徑18cm"
+      },
+      {
+        "depth_m": 25.11,
+        "description": "灰色砂岩與頁岩互層"
+      }
+    ]
+  },
+  "100466240991262064_BE-01_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "BE-01",
+      "location": "樹林區",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2760301.4,
+        "E": 288726.06
+      },
+      "elevation_m": 31.03,
+      "date": "1001107~1001107"
+    },
+    "strata": [
+      {
+        "depth_m": 0.7,
+        "description": "回填卵礫石及雜土"
+      },
+      {
+        "depth_m": 15.13,
+        "description": "31+1003卵礫石夾灰色粉土質中細砂"
+      }
+    ]
+  },
+  "100466240991262064_BE-02_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "BE-02",
+      "location": "樹林區",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2760467.43,
+        "E": 288725.59
+      },
+      "elevation_m": 31.58,
+      "date": "1001117~1001120"
+    },
+    "strata": [
+      {
+        "depth_m": 2.5,
+        "description": "回填卵礫石及雜土"
+      },
+      {
+        "depth_m": 15.06,
+        "description": "卵礫石夾棕黃色粉土集中細砂卵石粒徑5~20cm最大粒徑40cm"
+      }
+    ]
+  },
+  "100466240991262064_BE-06_Chart_2.png": {
+    "borehole_info": {
+      "borehole_id": "BE-06",
+      "location": "三峽區",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2759266.64,
+        "E": 286039.64
+      },
+      "elevation_m": 45.69,
+      "date": "1001109~1001110"
+    },
+    "strata": [
+      {
+        "depth_m": 27.06,
+        "description": "灰色砂岩夾薄層頁岩"
+      }
+    ]
+  },
+  "100466240991262064_BE-03_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "BE-03",
+      "location": "林匾",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2760270.65,
+        "E": 287992.77
+      },
+      "elevation_m": 34.59,
+      "date": "1001101~1001102"
+    },
+    "strata": [
+      {
+        "depth_m": 0.6,
+        "description": "回填那礫石及雅土"
+      },
+      {
+        "depth_m": 17.14,
+        "description": "礫石夾灰色粉土質中細砂那石，粒徑5~15cm最大粒徑40cm"
+      }
+    ]
+  },
+  "100466240991262064_BH-01_Chart_2.png": {
+    "borehole_info": {
+      "borehole_id": "BH-01",
+      "location": "歌畫",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2760820.21,
+        "E": 286413.08
+      },
+      "elevation_m": 38.71,
+      "date": "1001115~1001207"
+    },
+    "strata": [
+      {
+        "depth_m": 30.0,
+        "description": "灰色砂岩"
+      }
+    ]
+  },
+  "100466240991262064_BE-04_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "BE-04",
+      "location": "樹林區",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2760064.86,
+        "E": 287532.63
+      },
+      "elevation_m": 36.81,
+      "date": "1001127~1001130"
+    },
+    "strata": [
+      {
+        "depth_m": 1.0,
+        "description": "回填土夾卵礫石及木屑"
+      },
+      {
+        "depth_m": 10.3,
+        "description": "卵礫石夾黃棕色粉土質中細砂卵石粒徑5~10cm最大粒徑20cm，N008，卵礫石夾灰色黏土質細砂卵石粒徑5~15cm最大粒徑20cm"
+      },
+      {
+        "depth_m": 20.0,
+        "description": "卵礫石夾黃棕色粉土質中細砂卵石粒徑5~15cm最大粒徑20cm"
+      }
+    ]
+  },
+  "100466240991262064_BE-06_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "BE-06",
+      "location": "三峽區",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2759266.64,
+        "E": 286039.64
+      },
+      "elevation_m": 45.69,
+      "date": "1001109~1001110"
+    },
+    "strata": [
+      {
+        "depth_m": 27.0,
+        "description": "回填卵礫石及雜土，N060，卵礫石夾灰黃色粉土質中細砂卵石粒徑5~15cm最大粒徑25cm，N086，灰色砂岩夾薄層頁岩"
+      }
+    ]
+  },
+  "100466240991262064_BH-01_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "BH-01",
+      "location": "歌畫",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2760820.21,
+        "E": 286413.08
+      },
+      "elevation_m": 38.71,
+      "date": "1001115~1001207"
+    },
+    "strata": [
+      {
+        "depth_m": 8.6,
+        "description": "回填卵礫石夾磚塊及黃棕色黏土"
+      },
+      {
+        "depth_m": 19.2,
+        "description": "卵礫石夾棕黃色粉土中細砂"
+      },
+      {
+        "depth_m": 30.0,
+        "description": "灰色砂岩"
+      }
+    ]
+  },
+  "100466240991262064_BH-02_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "BH-02",
+      "location": "歌畫",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2760835.58,
+        "E": 286434.42
+      },
+      "elevation_m": 38.62,
+      "date": "1001206~1001209"
+    },
+    "strata": [
+      {
+        "depth_m": 10.4,
+        "description": "回填黃棕色黏土質砂夾卵礫石及"
+      },
+      {
+        "depth_m": 19.7,
+        "description": "卵礫石夾灰棕色粉土卵石粒徑約，為7~15cm最大粒徑約20cm"
+      }
+    ]
+  },
+  "100466240991262064_BH-04_Chart_2.png": {
+    "borehole_info": {
+      "borehole_id": "BH-04",
+      "location": "歌畫",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2760812.17,
+        "E": 286418.87
+      },
+      "elevation_m": 38.7,
+      "date": "1001123~1001125"
+    },
+    "strata": [
+      {
+        "depth_m": 30.06,
+        "description": "灰色砂岩夾頁岩"
+      }
+    ]
+  },
+  "100466240991262064_BH-02_Chart_2.png": {
+    "borehole_info": {
+      "borehole_id": "BH-02",
+      "location": "歌畫",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2760835.58,
+        "E": 286434.42
+      },
+      "elevation_m": 38.62,
+      "date": "1001206~1001209"
+    },
+    "strata": [
+      {
+        "depth_m": 30.0,
+        "description": "灰色泥質砂岩與頁岩互層"
+      }
+    ]
+  },
+  "100466240991262064_BH-05_Chart_2.png": {
+    "borehole_info": {
+      "borehole_id": "BH-05",
+      "location": "歌畫",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2760827.55,
+        "E": 286440.2
+      },
+      "elevation_m": 38.56,
+      "date": "1001203~1001205"
+    },
+    "strata": [
+      {
+        "depth_m": 30.0,
+        "description": "灰色頁岩"
+      }
+    ]
+  },
+  "100466240991262064_BH-03_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "BH-03",
+      "location": "歌畫",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2760850.13,
+        "E": 286454.6
+      },
+      "elevation_m": 38.56,
+      "date": "1001116~1001116"
+    },
+    "strata": [
+      {
+        "depth_m": 8.4,
+        "description": "回填卵礫石夾黃棕色粉土質粘士，或砂質粉土"
+      },
+      {
+        "depth_m": 17.4,
+        "description": "卵礫石夾棕黃色粉土質中細砂"
+      },
+      {
+        "depth_m": 20.0,
+        "description": "郵礫石夾灰色粉土質中細砂"
+      }
+    ]
+  },
+  "100466240991262064_BH-04_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "BH-04",
+      "location": "歌畫",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2760812.17,
+        "E": 286418.87
+      },
+      "elevation_m": 38.7,
+      "date": "1001123~1001125"
+    },
+    "strata": [
+      {
+        "depth_m": 10.6,
+        "description": "回填黃棕色黏土質砂或粉土質砂，爽礫石偶爽卵石"
+      },
+      {
+        "depth_m": 12.8,
+        "description": "卵礫石夾黃灰色粉土質砂"
+      },
+      {
+        "depth_m": 19.9,
+        "description": "那礫石夾黃灰色中細砂卵石粒徑，約為7~15cm最大粒徑約20cm"
+      }
+    ]
+  },
+  "100466240991262064_BH-05_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "BH-05",
+      "location": "歌畫",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2760827.55,
+        "E": 286440.2
+      },
+      "elevation_m": 38.56,
+      "date": "1001203~1001205"
+    },
+    "strata": [
+      {
+        "depth_m": 11.6,
+        "description": "回填卵礫石、混凝土瑰、紅磚及棕灰色黏土質砂"
+      },
+      {
+        "depth_m": 19.8,
+        "description": "那礫石夾灰色中細砂卵石粒徑約為5~15cm最大粒徑約25cm"
+      }
+    ]
+  },
+  "100466240991262064_BH-06_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "BH-06",
+      "location": "歌畫",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2760842.1,
+        "E": 286460.39
+      },
+      "elevation_m": 38.49,
+      "date": "1001123~1001125"
+    },
+    "strata": [
+      {
+        "depth_m": 12.48,
+        "description": "回填卵礫石夾棕褐色粉土質砂或，紅棕色黏土質砂"
+      },
+      {
+        "depth_m": 20.0,
+        "description": "卵礫石層夾棕黃色粉土質細砂卵石粒徑約5~10cm卵石最大粒徑"
+      }
+    ]
+  },
+  "100466240991262064_BH-07_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "BH-07",
+      "location": "歌畫",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2760782.97,
+        "E": 286437.1
+      },
+      "elevation_m": 38.76,
+      "date": "1001126~1001128"
+    },
+    "strata": [
+      {
+        "depth_m": 12.0,
+        "description": "回填卵礫石夾棕褐色粉土質砂或，紅棕色黏土質砂"
+      },
+      {
+        "depth_m": 15.13,
+        "description": "卵礫石層夾棕黃色粉土質細砂卵石粒徑約5~10cm卵石最大粒徑"
+      }
+    ]
+  },
+  "100466240991262064_BH-08_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "BH-08",
+      "location": "歌畫",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2760818.45,
+        "E": 286479.81
+      },
+      "elevation_m": 38.29,
+      "date": "1001125~1001128"
+    },
+    "strata": [
+      {
+        "depth_m": 13.6,
+        "description": "回填卵礫石、巖塊及灰棕色黏土，質砂偶爽紅磚及混凝土塊"
+      },
+      {
+        "depth_m": 15.0,
+        "description": "卵礫石夾灰色粉土質細砂卵石最大粒徑15cm"
+      }
+    ]
+  },
+  "100466240991262064_BH-09_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "BH-09",
+      "location": "歌畫",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2760745.61,
+        "E": 286459.44
+      },
+      "elevation_m": 38.81,
+      "date": "1001127~1001129"
+    },
+    "strata": [
+      {
+        "depth_m": 12.2,
+        "description": "回填褐色黏土質砂夾礫石偶夾卵石及磚塊"
+      },
+      {
+        "depth_m": 15.06,
+        "description": "卵石爽灰色粉土質砂卵石粒徑，約5~15cm卵石最大粒徑20cm"
+      }
+    ]
+  },
+  "100466240991262064_BH-10_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "BH-10",
+      "location": "歌畫",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2760779.23,
+        "E": 286507.73
+      },
+      "elevation_m": 38.11,
+      "date": "1001125~1001126"
+    },
+    "strata": [
+      {
+        "depth_m": 15.09,
+        "description": "回填灰棕色黏土質砂夾卵礫石及巖塊偶爽磚塊及腐木"
+      }
+    ]
+  },
+  "100466240991262064_BH-11_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "BH-11",
+      "location": "歌畫",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2760695.52,
+        "E": 286500.39
+      },
+      "elevation_m": 38.58,
+      "date": "1001124~1001127"
+    },
+    "strata": [
+      {
+        "depth_m": 14.3,
+        "description": "回填棕褐色黏土質砂或粉土質粘，土爽卵礫石偶爽醇塊及混凝土塊"
+      },
+      {
+        "depth_m": 15.06,
+        "description": "卵礫石層夾棕黃色粉土細砂"
+      }
+    ]
+  },
+  "100466240991262064_BH-12_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "BH-12",
+      "location": "歌畫",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2760725.67,
+        "E": 286542.23
+      },
+      "elevation_m": 37.89,
+      "date": "1001118~1001120"
+    },
+    "strata": [
+      {
+        "depth_m": 10.1,
+        "description": "回填褐色黏土質砂或粉土質粘士，爽卵礫石偶爽磚瑰"
+      },
+      {
+        "depth_m": 14.3,
+        "description": "卵礫石夾灰色粉土質中細砂"
+      },
+      {
+        "depth_m": 23.5,
+        "description": "那礫石夾黃色粉土質中細砂"
+      }
+    ]
+  },
+  "100466240991262064_BH-12_Chart_2.png": {
+    "borehole_info": {
+      "borehole_id": "BH-12",
+      "location": "歌畫",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2760725.67,
+        "E": 286542.23
+      },
+      "elevation_m": 37.89,
+      "date": "1001118~1001120"
+    },
+    "strata": [
+      {
+        "depth_m": 23.5,
+        "description": "卵礫石夾黃色粉土質中細砂"
+      },
+      {
+        "depth_m": 23.64,
+        "description": "灰色中度風化砂岩"
+      }
+    ]
+  },
+  "100466240991262064_BH-13_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "BH-13",
+      "location": "歌畫",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2760837.61,
+        "E": 286626.4
+      },
+      "elevation_m": 38.05,
+      "date": "1001121~1001124"
+    },
+    "strata": [
+      {
+        "depth_m": 11.6,
+        "description": "回填褐色黏土質砂夾那礫石偶夾"
+      },
+      {
+        "depth_m": 15.12,
+        "description": "卵礫石夾灰色粉土質中細砂"
+      }
+    ]
+  },
+  "100466240991262064_BH-14_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "BH-14",
+      "location": "歌畫",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2760856.02,
+        "E": 286654.35
+      },
+      "elevation_m": 37.85,
+      "date": "1001118~1001120"
+    },
+    "strata": [
+      {
+        "depth_m": 1.3,
+        "description": "回填紅棕色黏土偶夾那礫石"
+      },
+      {
+        "depth_m": 10.7,
+        "description": "回填灰色粉土質黏土或砂質粉土，爽卵礫石偶爽磚塊及混凝土塊"
+      },
+      {
+        "depth_m": 15.06,
+        "description": "卵礫石層夾棕灰色粉土質細砂卵石粒徑約5~10cm最大粒徑15cm"
+      }
+    ]
+  },
+  "100466240991262064_BH-17_Chart_2.png": {
+    "borehole_info": {
+      "borehole_id": "BH-17",
+      "location": "歌畫",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2760808.58,
+        "E": 286341.19
+      },
+      "elevation_m": 37.02,
+      "date": "1001115~1001117"
+    },
+    "strata": [
+      {
+        "depth_m": 30.1,
+        "description": "灰色砂岩"
+      }
+    ]
+  },
+  "100466240991262064_BH-15_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "BH-15",
+      "location": "歌畫",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2760801.6,
+        "E": 286659.53
+      },
+      "elevation_m": 36.47,
+      "date": "1001122~1001125"
+    },
+    "strata": [
+      {
+        "depth_m": 11.9,
+        "description": "回填褐色黏土質砂、粉土質砂夾，邱礫石"
+      },
+      {
+        "depth_m": 15.05,
+        "description": "卵礫石層夾棕黃色粉土細砂卵石，粒徑約5~10cm卵石最大粒徑"
+      }
+    ]
+  },
+  "100466240991262064_BH-16_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "BH-16",
+      "location": "歌畫",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2760815.58,
+        "E": 286678.94
+      },
+      "elevation_m": 37.56,
+      "date": "1001119~1001119"
+    },
+    "strata": [
+      {
+        "depth_m": 12.2,
+        "description": "回填卵礫石夾褐色粉土質黏土及黏土質砂偶爽磚瑰"
+      },
+      {
+        "depth_m": 15.03,
+        "description": "卵石爽灰色粉土質中細砂"
+      }
+    ]
+  },
+  "100466240991262064_BH-17_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "BH-17",
+      "location": "歌畫",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2760808.58,
+        "E": 286341.19
+      },
+      "elevation_m": 37.02,
+      "date": "1001115~1001117"
+    },
+    "strata": [
+      {
+        "depth_m": 10.0,
+        "description": "回填卵礫石夾褐色粉土質黏土或黏土質砂偶爽磚瑰"
+      },
+      {
+        "depth_m": 16.8,
+        "description": "卵礫石夾灰色粉土質中細砂"
+      },
+      {
+        "depth_m": 30.0,
+        "description": "灰色砂岩"
+      }
+    ]
+  },
+  "100466240991262064_BH-18_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "BH-18",
+      "location": "歌畫",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2760774.34,
+        "E": 286365.87
+      },
+      "elevation_m": 39.0,
+      "date": "1001115~1001120"
+    },
+    "strata": [
+      {
+        "depth_m": 12.4,
+        "description": "回填卵礫石夾褐色粉土質黏土或黏土質砂偶爽磚瑰"
+      },
+      {
+        "depth_m": 18.6,
+        "description": "卵礫石夾灰色粉土質中細砂"
+      },
+      {
+        "depth_m": 30.0,
+        "description": "棕黃夾灰色巖塊及那礫石"
+      }
+    ]
+  },
+  "100466240991262064_BH-18_Chart_2.png": {
+    "borehole_info": {
+      "borehole_id": "BH-18",
+      "location": "歌畫",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2760774.34,
+        "E": 286365.87
+      },
+      "elevation_m": 39.0,
+      "date": "1001115~1001120"
+    },
+    "strata": [
+      {
+        "depth_m": 30.121,
+        "description": "棕黃夾灰色巖瑰及卵礫石"
+      }
+    ]
+  },
+  "100466240991262064_BH-19_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "BH-19",
+      "location": "歌畫",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2760836.94,
+        "E": 286506.39
+      },
+      "elevation_m": 38.16,
+      "date": "1001124~1001125"
+    },
+    "strata": [
+      {
+        "depth_m": 15.13,
+        "description": "回填灰棕色粉土黏土夾卵礫石及，N 00'6，卵礫石夾黃棕色質粉土質細砂"
+      }
+    ]
+  },
+  "100466240991262064_BH-20_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "BH-20",
+      "location": "歌畫",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2760868.64,
+        "E": 286551.57
+      },
+      "elevation_m": 38.05,
+      "date": "1001122~1001122"
+    },
+    "strata": [
+      {
+        "depth_m": 13.2,
+        "description": "回填褐色粉土質黏土夾卵礫石及"
+      },
+      {
+        "depth_m": 15.07,
+        "description": "卵礫石夾黃色粉土質中細砂"
+      }
+    ]
+  },
+  "100466240991262064_BH-21_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "BH-21",
+      "location": "歌畫",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2760799.53,
+        "E": 286536.7
+      },
+      "elevation_m": 38.21,
+      "date": "1001122~1001122"
+    },
+    "strata": [
+      {
+        "depth_m": 15.12,
+        "description": "回填褐色黏土質砂夾卵礫石及磚"
+      }
+    ]
+  },
+  "55358501002_#1-1_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "#1-1",
+      "location": "臺中市霧峰區與大里區",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2663994.0,
+        "E": 222424.0
+      },
+      "elevation_m": 218.92,
+      "date": "未知 / 無記載"
+    },
+    "strata": [
+      {
+        "depth_m": 2.8,
+        "description": "黃灰色塊石與卵石"
+      },
+      {
+        "depth_m": 6.3,
+        "description": "棕黃色砂岩"
+      },
+      {
+        "depth_m": 30.0,
+        "description": "棕灰色砂岩"
+      }
+    ]
+  },
+  "55358501002_#1-1_Chart_2.png": {
+    "borehole_info": {
+      "borehole_id": "#1-1",
+      "location": "臺中市霧峰區與大里區",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2663994.0,
+        "E": 222424.0
+      },
+      "elevation_m": 218.92,
+      "date": "未知 / 無記載"
+    },
+    "strata": [
+      {
+        "depth_m": 30.0,
+        "description": "棕灰色砂岩"
+      }
+    ]
+  },
+  "100466240991262064_BH-22_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "BH-22",
+      "location": "歌畫",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2760827.55,
+        "E": 286576.16
+      },
+      "elevation_m": 38.1,
+      "date": "1001126~1001127"
+    },
+    "strata": [
+      {
+        "depth_m": 13.8,
+        "description": "回填棕褐色黏土質砂夾卵礫石，偶爽磚塊、混凝土塊及腐木"
+      },
+      {
+        "depth_m": 15.03,
+        "description": "卵礫石夾棕黃色細砂"
+      }
+    ]
+  },
+  "55358501002_#1-2_Chart_2.png": {
+    "borehole_info": {
+      "borehole_id": "#1-2",
+      "location": "臺中市霧峰區與大里區",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2663995.0,
+        "E": 222425.0
+      },
+      "elevation_m": 217.92,
+      "date": "未知 / 無記載"
+    },
+    "strata": [
+      {
+        "depth_m": 25.4,
+        "description": "棕灰色砂岩"
+      },
+      {
+        "depth_m": 26.85,
+        "description": "棕黃色砂岩"
+      },
+      {
+        "depth_m": 30.0,
+        "description": "棕灰色砂岩"
+      }
+    ]
+  },
+  "55358501002_#1-3_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "#1-3",
+      "location": "臺中市霧峰區與大里區",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2663993.0,
+        "E": 222423.0
+      },
+      "elevation_m": 219.6,
+      "date": "未知 / 無記載"
+    },
+    "strata": [
+      {
+        "depth_m": 5.35,
+        "description": "棕黃色砂岩"
+      },
+      {
+        "depth_m": 25.1,
+        "description": "棕灰色砂岩"
+      }
+    ]
+  },
+  "55358501002_#1-3_Chart_2.png": {
+    "borehole_info": {
+      "borehole_id": "#1-3",
+      "location": "臺中市霧峰區與大里區",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2663993.0,
+        "E": 222423.0
+      },
+      "elevation_m": 219.6,
+      "date": "未知 / 無記載"
+    },
+    "strata": [
+      {
+        "depth_m": 25.1,
+        "description": "棕灰色砂岩"
+      },
+      {
+        "depth_m": 25.5,
+        "description": "棕苗色砂岩"
+      },
+      {
+        "depth_m": 30.0,
+        "description": "棕灰色砂岩"
+      }
+    ]
+  },
+  "55358501002_#2-1_Chart_2.png": {
+    "borehole_info": {
+      "borehole_id": "#2-1",
+      "location": "臺中市霧峰區與大里區",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2664227.0,
+        "E": 222193.0
+      },
+      "elevation_m": 183.82,
+      "date": "未知 / 無記載"
+    },
+    "strata": [
+      {
+        "depth_m": 23.35,
+        "description": "棕灰色砂岩"
+      },
+      {
+        "depth_m": 30.0,
+        "description": "灰色砂岩"
+      }
+    ]
+  },
+  "55358501002_#2-2_Chart_2.png": {
+    "borehole_info": {
+      "borehole_id": "#2-2",
+      "location": "臺中市霧峰區與大里區",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2664228.0,
+        "E": 222194.0
+      },
+      "elevation_m": 185.96,
+      "date": "未知 / 無記載"
+    },
+    "strata": [
+      {
+        "depth_m": 20.35,
+        "description": "棕黃色砂岩"
+      },
+      {
+        "depth_m": 30.0,
+        "description": "灰色砂岩"
+      }
+    ]
+  },
+  "55358501002_#2-3_Chart_2.png": {
+    "borehole_info": {
+      "borehole_id": "#2-3",
+      "location": "臺中市霧峰區與大里區",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2664226.0,
+        "E": 222192.0
+      },
+      "elevation_m": 189.22,
+      "date": "未知 / 無記載"
+    },
+    "strata": [
+      {
+        "depth_m": 30.0,
+        "description": "灰色砂岩"
+      }
+    ]
+  },
+  "100466240991262064_BH-23_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "BH-23",
+      "location": "歌畫",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2760748.61,
+        "E": 286571.35
+      },
+      "elevation_m": 38.0,
+      "date": "1001119~1001120"
+    },
+    "strata": [
+      {
+        "depth_m": 11.4,
+        "description": "回填褐色黏土質砂夾礫石偶夾卵"
+      },
+      {
+        "depth_m": 15.13,
+        "description": "聊礫石層夾棕黃色粉土細砂卵石，最大粒徑20cm"
+      }
+    ]
+  },
+  "100466240991262064_BH-24_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "BH-24",
+      "location": "歌畫",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2760778.4,
+        "E": 286613.26
+      },
+      "elevation_m": 37.91,
+      "date": "1001121~1001121"
+    },
+    "strata": [
+      {
+        "depth_m": 11.7,
+        "description": "回填褐色黏土質砂夾礫石偶夾卵"
+      },
+      {
+        "depth_m": 15.06,
+        "description": "卵礫石層夾棕黃色粉土細砂卵石，最大粒徑20cm"
+      }
+    ]
+  },
+  "55358501002_#56A-1_Chart_2.png": {
+    "borehole_info": {
+      "borehole_id": "#56A-1",
+      "location": "臺中市霧峰區與大里區",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2663938.0,
+        "E": 222511.0
+      },
+      "elevation_m": 211.14,
+      "date": "未知 / 無記載"
+    },
+    "strata": [
+      {
+        "depth_m": 30.0,
+        "description": "棕灰色砂岩"
+      }
+    ]
+  },
+  "55358501002_#56A-2_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "#56A-2",
+      "location": "臺中市霧峰區與大里區",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2663939.0,
+        "E": 222512.0
+      },
+      "elevation_m": 211.9,
+      "date": "未知 / 無記載"
+    },
+    "strata": [
+      {
+        "depth_m": 2.5,
+        "description": "棕黃色塊石與卵石"
+      },
+      {
+        "depth_m": 6.25,
+        "description": "棕黃色砂岩"
+      },
+      {
+        "depth_m": 30.0,
+        "description": "棕灰色砂岩"
+      }
+    ]
+  },
+  "55358501002_#56A-2_Chart_2.png": {
+    "borehole_info": {
+      "borehole_id": "#56A-2",
+      "location": "臺中市霧峰區與大里區",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2663939.0,
+        "E": 222512.0
+      },
+      "elevation_m": 211.9,
+      "date": "未知 / 無記載"
+    },
+    "strata": [
+      {
+        "depth_m": 30.0,
+        "description": "棕灰色砂岩"
+      }
+    ]
+  },
+  "55358501002_#56A-3_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "#56A-3",
+      "location": "臺中市霧峰區與大里區",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2663937.0,
+        "E": 222510.0
+      },
+      "elevation_m": 214.68,
+      "date": "未知 / 無記載"
+    },
+    "strata": [
+      {
+        "depth_m": 4.32,
+        "description": "棕黃色塊石與卵石"
+      },
+      {
+        "depth_m": 6.12,
+        "description": "棕黃色砂岩"
+      },
+      {
+        "depth_m": 30.0,
+        "description": "棕灰色砂岩"
+      }
+    ]
+  },
+  "55358501002_#56A-3_Chart_2.png": {
+    "borehole_info": {
+      "borehole_id": "#56A-3",
+      "location": "臺中市霧峰區與大里區",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2663937.0,
+        "E": 222510.0
+      },
+      "elevation_m": 214.68,
+      "date": "未知 / 無記載"
+    },
+    "strata": [
+      {
+        "depth_m": 30.0,
+        "description": "棕灰色砂岩"
+      }
+    ]
+  },
   "test_data (1).png": {
     "borehole_info": {
       "borehole_id": "#1-1",
@@ -26,34 +3650,91 @@
       }
     ]
   },
-  "test_data (4).png": {
+  "55358501002_#3_Chart_1.png": {
     "borehole_info": {
-      "borehole_id": "BH-1",
-      "location": "未知 / 無記載",
+      "borehole_id": "#3",
+      "location": "臺中市霧峰區與大里區",
       "coordinates": {
         "datum": "TWD97",
-        "N": 2616442.0,
-        "E": 298000.0
+        "N": 2664695.0,
+        "E": 222092.0
       },
-      "elevation_m": 240.0,
+      "elevation_m": 89.27,
       "date": "未知 / 無記載"
     },
     "strata": [
       {
-        "depth_m": 0.5,
-        "description": "柏油，混凝土夾粗砂礫石，卵石"
+        "depth_m": 30.0,
+        "description": "棕灰色卵礫石夾粗中細砂"
+      }
+    ]
+  },
+  "55358501002_#3_Chart_2.png": {
+    "borehole_info": {
+      "borehole_id": "#3",
+      "location": "臺中市霧峰區與大里區",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2664695.0,
+        "E": 222092.0
+      },
+      "elevation_m": 89.27,
+      "date": "未知 / 無記載"
+    },
+    "strata": [
+      {
+        "depth_m": 30.0,
+        "description": "棕灰色卵礫石夾粗中細砂"
+      }
+    ]
+  },
+  "55358501002_#56A-1_Chart_1.png": {
+    "borehole_info": {
+      "borehole_id": "#56A-1",
+      "location": "臺中市露峰區與大里區",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2663938.0,
+        "E": 222511.0
+      },
+      "elevation_m": 211.14,
+      "date": "未知 / 無記載"
+    },
+    "strata": [
+      {
+        "depth_m": 0.85,
+        "description": "黃色巖塊夾砂質粉土"
       },
       {
-        "depth_m": 1.6,
-        "description": "礫石夾灰色粗砂礫石"
+        "depth_m": 30.0,
+        "description": "棕黃色砂岩，棕灰色砂岩"
+      }
+    ]
+  },
+  "test_data (2).png": {
+    "borehole_info": {
+      "borehole_id": "P1",
+      "location": "忠孝路",
+      "coordinates": {
+        "datum": "TWD67",
+        "N": 2744331.86,
+        "E": 248167.17
+      },
+      "elevation_m": 31.13,
+      "date": "0910422~0910423"
+    },
+    "strata": [
+      {
+        "depth_m": 0.8,
+        "description": "回填層；含大量回填級配及石塊"
       },
       {
-        "depth_m": 4.19,
-        "description": "頁岩巖塊夾灰色粉土質，黏土"
+        "depth_m": 4.1,
+        "description": "粉質黏土棕紅色；具堅實稠度"
       },
       {
-        "depth_m": 15.1,
-        "description": "灰色頁岩夾泥岩"
+        "depth_m": 10.0,
+        "description": "卵礫石層棕黃色極緊密程度夾，粉質黏土鑽孔內卵礫石最大粒，徑約35cm（GM）"
       }
     ]
   },
@@ -84,30 +3765,34 @@
       }
     ]
   },
-  "test_data (2).png": {
+  "test_data (4).png": {
     "borehole_info": {
-      "borehole_id": "P1",
-      "location": "忠孝路",
+      "borehole_id": "BH-1",
+      "location": "未知 / 無記載",
       "coordinates": {
-        "datum": "TWD67",
-        "N": 2744331.86,
-        "E": 248167.17
+        "datum": "TWD97",
+        "N": 2616442.0,
+        "E": 298000.0
       },
-      "elevation_m": 31.13,
-      "date": "0910422~0910423"
+      "elevation_m": 240.0,
+      "date": "未知 / 無記載"
     },
     "strata": [
       {
-        "depth_m": 0.8,
-        "description": "回填層；含大量回填級配及石塊"
+        "depth_m": 0.5,
+        "description": "柏油，混凝土夾粗砂礫石，卵石"
       },
       {
-        "depth_m": 4.1,
-        "description": "粉質黏土棕紅色；具堅實稠度"
+        "depth_m": 1.6,
+        "description": "礫石夾灰色粗砂礫石"
       },
       {
-        "depth_m": 10.0,
-        "description": "卵礫石層棕黃色極緊密程度夾，粉質黏土鑽孔內卵礫石最大粒，徑約35cm（GM）"
+        "depth_m": 4.19,
+        "description": "頁岩巖塊夾灰色粉土質黏土"
+      },
+      {
+        "depth_m": 15.1,
+        "description": "灰色頁岩夾泥岩"
       }
     ]
   }

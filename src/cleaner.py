@@ -1,8 +1,11 @@
 import json
 import re
 import requests
+import threading
 from opencc import OpenCC
 from .geo import TaiwanPlaceMatcher
+
+OLLAMA_LOCK = threading.Lock()
 
 class OllamaBoreholeCleaner:
     def __init__(self, model_name="qwen3:8b", ollama_host="http://localhost:11434"):
@@ -15,11 +18,9 @@ class OllamaBoreholeCleaner:
         """Rule-based and OpenCC precleaning for fast deterministic conversion."""
         raw_str = json.dumps(data, ensure_ascii=False)
         trad_str = self.cc.convert(raw_str)
-        # Ensure standard Taiwan terms
         trad_str = trad_str.replace("頁巖", "頁岩").replace("砂巖", "砂岩").replace("泥巖", "泥岩").replace("塊巖", "塊岩")
         cleaned_data = json.loads(trad_str)
 
-        # Standardize location
         loc = cleaned_data.get("borehole_info", {}).get("location", "")
         if loc:
             cleaned_data["borehole_info"]["location"] = self.geo_matcher.match_and_standardize_location(loc)
@@ -29,7 +30,7 @@ class OllamaBoreholeCleaner:
     def needs_llm_cleaning(self, data: dict) -> bool:
         """
         方案一：智慧快篩 (Fast-Path Check)
-        檢查資料是否已足夠乾淨，若無明顯斷句、亂碼或可疑分號，則不需浪費時間呼叫 LLM。
+        長度 > 10 或有懸掛分號、斷詞分號時觸發 LLM。
         """
         strata = data.get("strata", [])
         if not strata:
@@ -38,7 +39,7 @@ class OllamaBoreholeCleaner:
         suspicious_patterns = [
             r'；[，,、]',          # 混合標點
             r'[，,、]；',
-            r'[礫砂岩泥塊粉土]；[石土砂岩塊徑黏粘]', # 斷詞分號 (如: 礫；石)
+            r'[礫砂岩泥塊粉土]；[石土砂岩塊徑黏粘]', # 斷詞分號
             r'度；[夾稠緊]',       # 斷詞分號
             r'；\s*$',            # 結尾懸掛分號
             r'^\s*；',            # 開頭分號
@@ -48,11 +49,11 @@ class OllamaBoreholeCleaner:
 
         for s in strata:
             desc = s.get("description", "")
-            # If description has suspicious punctuation patterns
+            if len(desc.strip()) > 10:
+                return True
             for pat in suspicious_patterns:
                 if re.search(pat, desc):
                     return True
-            # If description has double semicolons
             if "；；" in desc or ";;" in desc:
                 return True
 
@@ -60,8 +61,7 @@ class OllamaBoreholeCleaner:
 
     def clean_descriptions_fast_llm(self, desc_list: list[str]) -> list[str]:
         """
-        方案五：精簡 Token 呼叫
-        僅將 description 文字陣列送交 LLM，大幅減少 Token 生成數量，將耗時從 6s 壓到 0.5s。
+        方案五：精簡 Token 呼叫 (帶 Thread Lock 避免併發塞車)
         """
         if not desc_list:
             return []
@@ -85,25 +85,25 @@ class OllamaBoreholeCleaner:
             "stream": False,
             "options": {
                 "temperature": 0.05,
-                "num_ctx": 1024  # Compact context window for faster processing
+                "num_ctx": 1024
             }
         }
 
-        try:
-            resp = requests.post(self.ollama_url, json=payload, timeout=30)
-            if resp.status_code == 200:
-                result_text = resp.json().get("response", "").strip()
-                result_text = re.sub(r'^```(?:json)?\s*', '', result_text)
-                result_text = re.sub(r'\s*```$', '', result_text)
-                
-                parsed_list = json.loads(result_text)
-                if isinstance(parsed_list, list) and len(parsed_list) == len(desc_list):
-                    # OpenCC pass
-                    return [self.cc.convert(str(item)).replace("頁巖", "頁岩") for item in parsed_list]
-        except Exception as e:
-            pass
+        # Use thread lock so multiple threads don't overwhelm Ollama concurrent queue
+        with OLLAMA_LOCK:
+            try:
+                resp = requests.post(self.ollama_url, json=payload, timeout=20)
+                if resp.status_code == 200:
+                    result_text = resp.json().get("response", "").strip()
+                    result_text = re.sub(r'^```(?:json)?\s*', '', result_text)
+                    result_text = re.sub(r'\s*```$', '', result_text)
+                    
+                    parsed_list = json.loads(result_text)
+                    if isinstance(parsed_list, list) and len(parsed_list) == len(desc_list):
+                        return [self.cc.convert(str(item)).replace("頁巖", "頁岩") for item in parsed_list]
+            except Exception as e:
+                pass
 
-        # Fallback to local regex clean
         return desc_list
 
     def clean_data(self, raw_data: dict, use_llm: bool = True) -> tuple[dict, str]:
