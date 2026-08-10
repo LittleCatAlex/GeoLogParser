@@ -1,0 +1,114 @@
+{
+  "765157678_1935706907120425_6979480530184367670_n.png": {
+    "borehole_info": {
+      "borehole_id": "P1",
+      "location": "忠孝路",
+      "coordinates": {
+        "datum": "TWD67",
+        "N": 2744331.86,
+        "E": 248167.17
+      },
+      "elevation_m": 31.13,
+      "date": "0910422~0910423"
+    },
+    "strata": [
+      {
+        "depth_m": 0.8,
+        "description": "回填層，含大量回填級配及石塊"
+      },
+      {
+        "depth_m": 4.1,
+        "description": "粉質黏土棕紅色，具堅實稠度"
+      },
+      {
+        "depth_m": 10.0,
+        "description": "卵礫石層棕黃色，極緊密程度，夾粉質黏土。鑽孔內卵礫石最大粒徑約35cm（GM）"
+      }
+    ]
+  },
+  "765460080_1054915260234189_9021730298445924386_n.png": {
+    "borehole_info": {
+      "borehole_id": "a8",
+      "location": "光復路",
+      "coordinates": {
+        "datum": "TWD67",
+        "N": 2742902.14,
+        "E": 249566.49
+      },
+      "elevation_m": 61.04,
+      "date": "0910412~0910412"
+    },
+    "strata": [
+      {
+        "depth_m": 0.5,
+        "description": "回填層，水泥磚碎石（SF）"
+      },
+      {
+        "depth_m": 5.8,
+        "description": "粉質黏土棕黃色，具堅實稠度"
+      },
+      {
+        "depth_m": 10.0,
+        "description": "卵礫石層黃棕色極緊密程度夾，棕黃色中細砂（GM）"
+      }
+    ]
+  },
+  "768667379_1019032617600761_2227929436781220652_n.png": {
+    "borehole_info": {
+      "borehole_id": "BH-1",
+      "location": "未知 / 無記載",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2616442.0,
+        "E": 298000.0
+      },
+      "elevation_m": 240.0,
+      "date": "未知 / 無記載"
+    },
+    "strata": [
+      {
+        "depth_m": 0.5,
+        "description": "柏油，混凝土夾粗砂礫石，卵石"
+      },
+      {
+        "depth_m": 1.6,
+        "description": "礫石夾灰色粗砂礫石"
+      },
+      {
+        "depth_m": 4.19,
+        "description": "頁岩巖塊夾灰色粉土質黏土"
+      },
+      {
+        "depth_m": 15.1,
+        "description": "灰色頁岩夾泥岩"
+      }
+    ]
+  },
+  "769483467_1389088363156682_5524082981074204937_n.png": {
+    "borehole_info": {
+      "borehole_id": "#1-1",
+      "location": "臺中市霧峰區與大里區",
+      "coordinates": {
+        "datum": "TWD97",
+        "N": 2663994.0,
+        "E": 222424.0
+      },
+      "elevation_m": 218.92,
+      "date": "未知 / 無記載"
+    },
+    "strata": [
+      {
+        "depth_m": 2.8,
+        "description": "黃灰色塊石與卵石"
+      },
+      {
+        "depth_m": 6.3,
+        "description": "棕黃色砂岩"
+      },
+      {
+        "depth_m": 30.0,
+        "description": "棕灰色砂岩"
+      }
+    ]
+  }
+}
