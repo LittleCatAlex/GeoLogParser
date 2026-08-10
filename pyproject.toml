@@ -1,7 +1,7 @@
 [project]
-name = "borehole-log-extractor"
+name = "geologparser"
 version = "0.2.0"
-description = "地質鑽孔柱狀圖離線 OCR 與 Ollama (qwen3:8b) 繁體化清洗管線"
+description = "GeoLogParser: 離線地質鑽孔柱狀圖 OCR 與 Ollama (qwen3:8b) 繁體語意校對管線"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
