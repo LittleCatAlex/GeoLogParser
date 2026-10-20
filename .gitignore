@@ -28,6 +28,13 @@ input/*.png
 !input/test_data*.png
 !input/test_data*.PNG
 
+# Distribution & Build artifacts
+build/
+dist/
+*.egg-info/
+*.egg
+*.tmp
+
 # Intermediate / temporary test files
 cleaned*.png
 temp/

@@ -6,6 +6,7 @@ import sys
 import numpy as np
 from pathlib import Path
 from rapidocr_onnxruntime import RapidOCR
+from .device import create_rapidocr_engine
 
 # Standard OCR typo corrections for Taiwanese geotechnical terms
 CORRECTION_DICT = {
@@ -58,8 +59,11 @@ def clean_geological_text(text: str) -> str:
     return text.strip()
 
 class BoreholeLogParser:
-    def __init__(self):
-        self.ocr = RapidOCR()
+    def __init__(self, device: str = "auto", ocr_engine=None):
+        if ocr_engine is not None:
+            self.ocr = ocr_engine
+        else:
+            self.ocr = create_rapidocr_engine(device=device)
 
     def preprocess_image(self, img_path: str, attempt: int = 1):
         """
