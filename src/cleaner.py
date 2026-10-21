@@ -15,22 +15,40 @@ class OllamaBoreholeCleaner:
         self.geo_matcher = TaiwanPlaceMatcher()
 
     def local_preclean(self, data: dict) -> dict:
-        """Rule-based and OpenCC precleaning for fast deterministic conversion."""
+        """Rule-based, OpenCC, typo correction, and watermark precleaning."""
+        from .parser import clean_geological_text
+
         raw_str = json.dumps(data, ensure_ascii=False)
         trad_str = self.cc.convert(raw_str)
-        trad_str = trad_str.replace("頁巖", "頁岩").replace("砂巖", "砂岩").replace("泥巖", "泥岩").replace("塊巖", "塊岩")
+        trad_str = (
+            trad_str.replace("頁巖", "頁岩")
+            .replace("砂巖", "砂岩")
+            .replace("泥巖", "泥岩")
+            .replace("塊巖", "塊岩")
+        )
         cleaned_data = json.loads(trad_str)
 
         loc = cleaned_data.get("borehole_info", {}).get("location", "")
         if loc:
             cleaned_data["borehole_info"]["location"] = self.geo_matcher.match_and_standardize_location(loc)
 
+        strata = cleaned_data.get("strata", [])
+        cleaned_strata = []
+        for s in strata:
+            cleaned_desc = clean_geological_text(s.get("description", ""))
+            if cleaned_desc:
+                s["description"] = cleaned_desc
+                cleaned_strata.append(s)
+            elif cleaned_strata and s.get("depth_m"):
+                cleaned_strata[-1]["depth_m"] = max(cleaned_strata[-1]["depth_m"], s["depth_m"])
+
+        cleaned_data["strata"] = cleaned_strata if cleaned_strata else strata
         return cleaned_data
 
     def needs_llm_cleaning(self, data: dict) -> bool:
         """
         方案一：智慧快篩 (Fast-Path Check)
-        長度 > 10 或有懸掛分號、斷詞分號時觸發 LLM。
+        僅當有懸掛分號、不自然斷詞分號時觸發 LLM。
         """
         strata = data.get("strata", [])
         if not strata:
@@ -49,8 +67,6 @@ class OllamaBoreholeCleaner:
 
         for s in strata:
             desc = s.get("description", "")
-            if len(desc.strip()) > 10:
-                return True
             for pat in suspicious_patterns:
                 if re.search(pat, desc):
                     return True
@@ -101,7 +117,7 @@ class OllamaBoreholeCleaner:
                     parsed_list = json.loads(result_text)
                     if isinstance(parsed_list, list) and len(parsed_list) == len(desc_list):
                         return [self.cc.convert(str(item)).replace("頁巖", "頁岩") for item in parsed_list]
-            except Exception as e:
+            except Exception:
                 pass
 
         return desc_list
