@@ -1,476 +1,5288 @@
 {
-  "100466240991262064_B6-01_Chart_1.png": {
-    "file_name": "100466240991262064_B6-01_Chart_1.png",
-    "file_path": "input\\100466240991262064_B6-01_Chart_1.png",
+  "00001001004_DL-B01_Chart_2.png": {
+    "file_name": "00001001004_DL-B01_Chart_2.png",
+    "file_path": "input\\00001001004_DL-B01_Chart_2.png",
     "attempts_made": 3,
-    "error_reason": "OCR 階段驗證未通過 (第 3 層 (深度 16.1m) 之描述為空)",
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
     "raw_extracted_data": {
       "borehole_info": {
-        "borehole_id": "E6-01",
-        "location": "三峡區",
+        "borehole_id": "DL-B01",
+        "location": "屏東逵莱",
         "coordinates": {
           "datum": "TWD97",
-          "N": 2758420.75,
-          "E": 287911.25
+          "N": 2514381.0,
+          "E": 215805.0
         },
         "elevation_m": null,
-        "date": "100/12/02"
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "0009316718_B-5_Chart_1.png": {
+    "file_name": "0009316718_B-5_Chart_1.png",
+    "file_path": "input\\0009316718_B-5_Chart_1.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "B-5",
+        "location": "阿里山",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2592223.13,
+          "E": 212314.17
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "0009316718_B-5_Chart_2.png": {
+    "file_name": "0009316718_B-5_Chart_2.png",
+    "file_path": "input\\0009316718_B-5_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "B-5",
+        "location": "阿里山",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2592223.13,
+          "E": 212314.17
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "0009316718_B-5_Chart_3.png": {
+    "file_name": "0009316718_B-5_Chart_3.png",
+    "file_path": "input\\0009316718_B-5_Chart_3.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "B-5",
+        "location": "阿里山",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2592223.13,
+          "E": 212314.17
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "0009316718_B-5_Chart_4.png": {
+    "file_name": "0009316718_B-5_Chart_4.png",
+    "file_path": "input\\0009316718_B-5_Chart_4.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "B-5",
+        "location": "阿里山",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2592223.13,
+          "E": 212314.17
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "0009316718_B-5_Chart_5.png": {
+    "file_name": "0009316718_B-5_Chart_5.png",
+    "file_path": "input\\0009316718_B-5_Chart_5.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "B-5",
+        "location": "阿里山",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2592223.13,
+          "E": 212314.17
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "0009316718_B-6_Chart_1.png": {
+    "file_name": "0009316718_B-6_Chart_1.png",
+    "file_path": "input\\0009316718_B-6_Chart_1.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "B-6",
+        "location": "阿里山",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2592222.71,
+          "E": 212191.53
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "0009316718_B-6_Chart_2.png": {
+    "file_name": "0009316718_B-6_Chart_2.png",
+    "file_path": "input\\0009316718_B-6_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "B-6",
+        "location": "阿里山",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2592222.71,
+          "E": 212191.53
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "0009316718_B-6_Chart_3.png": {
+    "file_name": "0009316718_B-6_Chart_3.png",
+    "file_path": "input\\0009316718_B-6_Chart_3.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "B-6",
+        "location": "阿里山",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2592222.71,
+          "E": 212191.53
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "0009316718_BH-10_Chart_1.png": {
+    "file_name": "0009316718_BH-10_Chart_1.png",
+    "file_path": "input\\0009316718_BH-10_Chart_1.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "EH-10",
+        "location": "阿里山",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2592432.98,
+          "E": 212297.46
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "0009316718_BH-10_Chart_2.png": {
+    "file_name": "0009316718_BH-10_Chart_2.png",
+    "file_path": "input\\0009316718_BH-10_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "BH-10",
+        "location": "阿里山",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2592432.98,
+          "E": 212297.46
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "0009316718_BH-10_Chart_3.png": {
+    "file_name": "0009316718_BH-10_Chart_3.png",
+    "file_path": "input\\0009316718_BH-10_Chart_3.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "EH-10",
+        "location": "阿里山",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2592432.98,
+          "E": 212297.46
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "0009316718_BH-11_Chart_1.png": {
+    "file_name": "0009316718_BH-11_Chart_1.png",
+    "file_path": "input\\0009316718_BH-11_Chart_1.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "EH-11",
+        "location": "阿里山",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2592450.25,
+          "E": 212276.48
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "0009316718_BH-11_Chart_2.png": {
+    "file_name": "0009316718_BH-11_Chart_2.png",
+    "file_path": "input\\0009316718_BH-11_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "EH-11",
+        "location": "阿里山",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2592450.25,
+          "E": 212276.48
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "0009316718_BH-12_Chart_1.png": {
+    "file_name": "0009316718_BH-12_Chart_1.png",
+    "file_path": "input\\0009316718_BH-12_Chart_1.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "BH-12",
+        "location": "阿里山",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2592481.08,
+          "E": 212232.04
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "0009316718_BH-12_Chart_2.png": {
+    "file_name": "0009316718_BH-12_Chart_2.png",
+    "file_path": "input\\0009316718_BH-12_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "BH-12",
+        "location": "阿里山",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2592481.08,
+          "E": 212232.04
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "0009316718_BH-13_Chart_1.png": {
+    "file_name": "0009316718_BH-13_Chart_1.png",
+    "file_path": "input\\0009316718_BH-13_Chart_1.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "EH-13",
+        "location": "阿里山",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2592503.73,
+          "E": 212214.46
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "0009316718_BH-14_Chart_1.png": {
+    "file_name": "0009316718_BH-14_Chart_1.png",
+    "file_path": "input\\0009316718_BH-14_Chart_1.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "EH-14",
+        "location": "阿里山",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2592576.05,
+          "E": 212109.83
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "0009316718_BH-1_Chart_1.png": {
+    "file_name": "0009316718_BH-1_Chart_1.png",
+    "file_path": "input\\0009316718_BH-1_Chart_1.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "EH-1",
+        "location": "阿里山",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2592090.61,
+          "E": 212533.72
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "0009316718_BH-2_Chart_1.png": {
+    "file_name": "0009316718_BH-2_Chart_1.png",
+    "file_path": "input\\0009316718_BH-2_Chart_1.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "BH-2",
+        "location": "阿里山",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2592086.87,
+          "E": 212449.44
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "0009316718_BH-3_Chart_1.png": {
+    "file_name": "0009316718_BH-3_Chart_1.png",
+    "file_path": "input\\0009316718_BH-3_Chart_1.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "EH-3",
+        "location": "阿里山",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2592425.58,
+          "E": 212480.16
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "0009316718_BH-3_Chart_2.png": {
+    "file_name": "0009316718_BH-3_Chart_2.png",
+    "file_path": "input\\0009316718_BH-3_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "EH-3",
+        "location": "阿里山",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2592425.58,
+          "E": 212480.16
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "0009316718_BH-4_Chart_1.png": {
+    "file_name": "0009316718_BH-4_Chart_1.png",
+    "file_path": "input\\0009316718_BH-4_Chart_1.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "EH-4",
+        "location": "阿里山",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2592460.12,
+          "E": 212467.82
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "0009316718_BH-4_Chart_2.png": {
+    "file_name": "0009316718_BH-4_Chart_2.png",
+    "file_path": "input\\0009316718_BH-4_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "EH-4",
+        "location": "阿里山",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2592460.12,
+          "E": 212467.82
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "0009316718_BH-5_Chart_1.png": {
+    "file_name": "0009316718_BH-5_Chart_1.png",
+    "file_path": "input\\0009316718_BH-5_Chart_1.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "EH-5",
+        "location": "阿里山",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2592519.32,
+          "E": 212444.36
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "0009316718_BH-5_Chart_2.png": {
+    "file_name": "0009316718_BH-5_Chart_2.png",
+    "file_path": "input\\0009316718_BH-5_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "EH-5",
+        "location": "阿里山",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2592519.32,
+          "E": 212444.36
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "0009316718_BH-6_Chart_1.png": {
+    "file_name": "0009316718_BH-6_Chart_1.png",
+    "file_path": "input\\0009316718_BH-6_Chart_1.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "EH-6",
+        "location": "阿里山",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2592594.55,
+          "E": 212415.97
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "0009316718_BH-7_Chart_1.png": {
+    "file_name": "0009316718_BH-7_Chart_1.png",
+    "file_path": "input\\0009316718_BH-7_Chart_1.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "EH-7",
+        "location": "阿里山",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2592632.78,
+          "E": 212401.16
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "0009316718_BH-8_Chart_1.png": {
+    "file_name": "0009316718_BH-8_Chart_1.png",
+    "file_path": "input\\0009316718_BH-8_Chart_1.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "EH-8",
+        "location": "阿里山",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2592361.45,
+          "E": 212392.52
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "0009316718_BH-9_Chart_1.png": {
+    "file_name": "0009316718_BH-9_Chart_1.png",
+    "file_path": "input\\0009316718_BH-9_Chart_1.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "BH-9",
+        "location": "阿里山",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2592388.58,
+          "E": 212354.25
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "0009316718_BH-9_Chart_2.png": {
+    "file_name": "0009316718_BH-9_Chart_2.png",
+    "file_path": "input\\0009316718_BH-9_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "BH-9",
+        "location": "阿里山",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2592388.58,
+          "E": 212354.25
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "0009316718_C-2A_Chart_1.png": {
+    "file_name": "0009316718_C-2A_Chart_1.png",
+    "file_path": "input\\0009316718_C-2A_Chart_1.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "C-2A",
+        "location": "阿里山",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2592100.98,
+          "E": 212557.96
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "0009316718_C-2A_Chart_2.png": {
+    "file_name": "0009316718_C-2A_Chart_2.png",
+    "file_path": "input\\0009316718_C-2A_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "C-2A",
+        "location": "阿里山",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2592100.98,
+          "E": 212557.96
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "0009316718_C-2A_Chart_3.png": {
+    "file_name": "0009316718_C-2A_Chart_3.png",
+    "file_path": "input\\0009316718_C-2A_Chart_3.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "C-2A",
+        "location": "阿里山",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2592100.98,
+          "E": 212557.96
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "0009316718_C-2A_Chart_4.png": {
+    "file_name": "0009316718_C-2A_Chart_4.png",
+    "file_path": "input\\0009316718_C-2A_Chart_4.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "C-2A",
+        "location": "阿里山",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2592100.98,
+          "E": 212557.96
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "0009316718_C-2B_Chart_1.png": {
+    "file_name": "0009316718_C-2B_Chart_1.png",
+    "file_path": "input\\0009316718_C-2B_Chart_1.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "C-2B",
+        "location": "阿里山",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2592101.98,
+          "E": 212558.96
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "0009316718_C-2B_Chart_2.png": {
+    "file_name": "0009316718_C-2B_Chart_2.png",
+    "file_path": "input\\0009316718_C-2B_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "C-2B",
+        "location": "阿里山",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2592101.98,
+          "E": 212558.96
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "0009316718_C-2B_Chart_3.png": {
+    "file_name": "0009316718_C-2B_Chart_3.png",
+    "file_path": "input\\0009316718_C-2B_Chart_3.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "C-2B",
+        "location": "阿里山",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2592101.98,
+          "E": 212558.96
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "0009316718_C-4_Chart_1.png": {
+    "file_name": "0009316718_C-4_Chart_1.png",
+    "file_path": "input\\0009316718_C-4_Chart_1.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "C-4",
+        "location": "阿里山",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2591961.87,
+          "E": 212488.12
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "0009316718_C-4_Chart_2.png": {
+    "file_name": "0009316718_C-4_Chart_2.png",
+    "file_path": "input\\0009316718_C-4_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "C-4",
+        "location": "阿里山",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2591961.87,
+          "E": 212488.12
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "0009316718_C-4_Chart_3.png": {
+    "file_name": "0009316718_C-4_Chart_3.png",
+    "file_path": "input\\0009316718_C-4_Chart_3.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "C-4",
+        "location": "阿里山",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2591961.87,
+          "E": 212488.12
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "0009316718_C-5A_Chart_1.png": {
+    "file_name": "0009316718_C-5A_Chart_1.png",
+    "file_path": "input\\0009316718_C-5A_Chart_1.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "C-5A",
+        "location": "阿里山",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2592326.43,
+          "E": 212308.89
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "0009316718_C-5A_Chart_2.png": {
+    "file_name": "0009316718_C-5A_Chart_2.png",
+    "file_path": "input\\0009316718_C-5A_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "C-5A",
+        "location": "阿里山",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2592326.43,
+          "E": 212308.89
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "0009316718_C-5A_Chart_3.png": {
+    "file_name": "0009316718_C-5A_Chart_3.png",
+    "file_path": "input\\0009316718_C-5A_Chart_3.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "C-5A",
+        "location": "阿里山",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2592326.43,
+          "E": 212308.89
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "0009316718_C-5A_Chart_4.png": {
+    "file_name": "0009316718_C-5A_Chart_4.png",
+    "file_path": "input\\0009316718_C-5A_Chart_4.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "C-5A",
+        "location": "阿里山",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2592326.43,
+          "E": 212308.89
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "0009316718_C-6_Chart_1.png": {
+    "file_name": "0009316718_C-6_Chart_1.png",
+    "file_path": "input\\0009316718_C-6_Chart_1.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "C-6",
+        "location": "阿里山",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2592371.82,
+          "E": 212170.05
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "0009316718_C-6_Chart_2.png": {
+    "file_name": "0009316718_C-6_Chart_2.png",
+    "file_path": "input\\0009316718_C-6_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "C-6",
+        "location": "阿里山",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2592371.82,
+          "E": 212170.05
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "0009316718_C-8_Chart_1.png": {
+    "file_name": "0009316718_C-8_Chart_1.png",
+    "file_path": "input\\0009316718_C-8_Chart_1.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "C-8",
+        "location": "阿里山",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2592311.63,
+          "E": 212233.33
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "0009316718_C-8_Chart_2.png": {
+    "file_name": "0009316718_C-8_Chart_2.png",
+    "file_path": "input\\0009316718_C-8_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "C-8",
+        "location": "阿里山",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2592311.63,
+          "E": 212233.33
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "0009316718_C-9_Chart_1.png": {
+    "file_name": "0009316718_C-9_Chart_1.png",
+    "file_path": "input\\0009316718_C-9_Chart_1.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "C-9",
+        "location": "阿里山",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2592136.67,
+          "E": 212443.18
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "0009316718_C-9_Chart_2.png": {
+    "file_name": "0009316718_C-9_Chart_2.png",
+    "file_path": "input\\0009316718_C-9_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "C-9",
+        "location": "阿里山",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2592136.67,
+          "E": 212443.18
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "0009316718_C-9_Chart_3.png": {
+    "file_name": "0009316718_C-9_Chart_3.png",
+    "file_path": "input\\0009316718_C-9_Chart_3.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "C-9",
+        "location": "阿里山",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2592136.67,
+          "E": 212443.18
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "0009316718_C-9_Chart_4.png": {
+    "file_name": "0009316718_C-9_Chart_4.png",
+    "file_path": "input\\0009316718_C-9_Chart_4.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "C-9",
+        "location": "阿里山",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2592136.67,
+          "E": 212443.18
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "0009316718_C-9_Chart_5.png": {
+    "file_name": "0009316718_C-9_Chart_5.png",
+    "file_path": "input\\0009316718_C-9_Chart_5.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "C-9",
+        "location": "阿里山",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2592136.67,
+          "E": 212443.18
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(3)_TBH-60_Chart_4.png": {
+    "file_name": "00972742(3)_TBH-60_Chart_4.png",
+    "file_path": "input\\00972742(3)_TBH-60_Chart_4.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "TBH-60",
+        "location": "嘉羲縣",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2594858.16,
+          "E": 180027.91
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SB1_Chart_3.png": {
+    "file_name": "00972742(4)_SB1_Chart_3.png",
+    "file_path": "input\\00972742(4)_SB1_Chart_3.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (描述內容未包含土壤或岩石岩性特徵 (範例: '世探勘資料庫'))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SB1",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2595723.95,
+          "E": 180096.0
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
       },
       "strata": [
         {
-          "depth_m": 1.4,
-          "description": "AC铺面棕黃色砂土夾礫石"
+          "depth_m": 41.0,
+          "description": ""
         },
         {
-          "depth_m": 10.0,
-          "description": "即礫石夾黃棕色粉土箕砂娜石粒，径5~10cm，程地，查"
+          "depth_m": 47.2,
+          "description": "世探勘資料庫"
         },
         {
-          "depth_m": 16.1,
+          "depth_m": 56.8,
+          "description": "查询系统"
+        },
+        {
+          "depth_m": 59.2,
+          "description": ""
+        },
+        {
+          "depth_m": 60.2,
           "description": ""
         }
       ]
     },
     "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
   },
-  "100466240991262064_B7-08_Chart_1.png": {
-    "file_name": "100466240991262064_B7-08_Chart_1.png",
-    "file_path": "input\\100466240991262064_B7-08_Chart_1.png",
+  "00972742(4)_SB1_Chart_4.png": {
+    "file_name": "00972742(4)_SB1_Chart_4.png",
+    "file_path": "input\\00972742(4)_SB1_Chart_4.png",
     "attempts_made": 3,
-    "error_reason": "OCR 階段驗證未通過 (第 5 層 (深度 13.451m) 之描述為空)",
+    "error_reason": "OCR 階段驗證未通過 (所有地層之描述均為空)",
     "raw_extracted_data": {
       "borehole_info": {
-        "borehole_id": "B7-08",
-        "location": "歌匾",
+        "borehole_id": "SB1",
+        "location": "嘉羲太保",
         "coordinates": {
-          "datum": "TWD97",
-          "N": 2758919.66,
-          "E": 283633.99
+          "datum": "TWD67",
+          "N": 2595723.95,
+          "E": 180096.0
         },
         "elevation_m": null,
-        "date": "100/11/27"
+        "date": "未知 / 無記載"
       },
       "strata": [
         {
-          "depth_m": 1.55,
-          "description": "回填土夾邦礫石及磚瑰"
+          "depth_m": 60.2,
+          "description": ""
         },
         {
-          "depth_m": 10.7,
-          "description": "邦礫石夾棕黃色粉土箕中細砂，程地，查"
+          "depth_m": 62.5,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SBH-10_Chart_2.png": {
+    "file_name": "00972742(4)_SBH-10_Chart_2.png",
+    "file_path": "input\\00972742(4)_SBH-10_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (描述內容未包含土壤或岩石岩性特徵 (範例: '統'))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SEH-10",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2594882.5,
+          "E": 180054.0
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 23.8,
+          "description": ""
         },
         {
-          "depth_m": 12.1,
-          "description": "灰色礫石質粗砂"
+          "depth_m": 32.3,
+          "description": "資料庫價探勘查询系統"
+        },
+        {
+          "depth_m": 34.0,
+          "description": ""
+        },
+        {
+          "depth_m": 36.4,
+          "description": ""
+        },
+        {
+          "depth_m": 38.0,
+          "description": ""
+        },
+        {
+          "depth_m": 39.8,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SBH-11_Chart_2.png": {
+    "file_name": "00972742(4)_SBH-11_Chart_2.png",
+    "file_path": "input\\00972742(4)_SBH-11_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (地質岩性特徵比例過低 (1/3))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SEH-11",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2594662.78,
+          "E": 180043.0
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 21.4,
+          "description": ""
+        },
+        {
+          "depth_m": 22.8,
+          "description": "Yellowishgray"
+        },
+        {
+          "depth_m": 23.7,
+          "description": ""
+        },
+        {
+          "depth_m": 25.7,
+          "description": "資料庫"
+        },
+        {
+          "depth_m": 39.7,
+          "description": "么28.10月太"
+        },
+        {
+          "depth_m": 40.5,
+          "description": "2"
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SBH-13_Chart_3.png": {
+    "file_name": "00972742(4)_SBH-13_Chart_3.png",
+    "file_path": "input\\00972742(4)_SBH-13_Chart_3.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (描述內容未包含土壤或岩石岩性特徵 (範例: '資料庫不四查詢系統'))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SEH-13",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2594053.54,
+          "E": 180012.0
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 41.0,
+          "description": ""
+        },
+        {
+          "depth_m": 60.0,
+          "description": "資料庫不四查询系統"
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SBH-14_Chart_3.png": {
+    "file_name": "00972742(4)_SBH-14_Chart_3.png",
+    "file_path": "input\\00972742(4)_SBH-14_Chart_3.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (地質岩性特徵比例過低 (1/3))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SEH-14",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2593843.8,
+          "E": 180002.0
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 41.6,
+          "description": ""
+        },
+        {
+          "depth_m": 47.3,
+          "description": "哲基資料庫\\‘丨"
+        },
+        {
+          "depth_m": 49.8,
+          "description": "询系统"
+        },
+        {
+          "depth_m": 53.2,
+          "description": ""
+        },
+        {
+          "depth_m": 56.6,
+          "description": "Grayish blue"
+        },
+        {
+          "depth_m": 60.0,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SBH-15_Chart_2.png": {
+    "file_name": "00972742(4)_SBH-15_Chart_2.png",
+    "file_path": "input\\00972742(4)_SBH-15_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (描述內容未包含土壤或岩石岩性特徵 (範例: '運質'))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SEH-15",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2593634.06,
+          "E": 179991.0
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 20.2,
+          "description": ""
+        },
+        {
+          "depth_m": 21.9,
+          "description": ""
+        },
+        {
+          "depth_m": 26.501,
+          "description": "运質探勘資料庫"
+        },
+        {
+          "depth_m": 42.5,
+          "description": "查詢系統"
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SBH-16_Chart_3.png": {
+    "file_name": "00972742(4)_SBH-16_Chart_3.png",
+    "file_path": "input\\00972742(4)_SBH-16_Chart_3.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (描述內容未包含土壤或岩石岩性特徵 (範例: '查詢系疏'))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SEH-16",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2593229.57,
+          "E": 179971.0
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 43.2,
+          "description": ""
+        },
+        {
+          "depth_m": 47.5,
+          "description": "探勘資料庫"
+        },
+        {
+          "depth_m": 53.7,
+          "description": "查询系疏"
+        },
+        {
+          "depth_m": 60.0,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SBH-17_Chart_2.png": {
+    "file_name": "00972742(4)_SBH-17_Chart_2.png",
+    "file_path": "input\\00972742(4)_SBH-17_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (描述內容未包含土壤或岩石岩性特徵 (範例: '資料庫查詢系統'))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SEH-17",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2593019.83,
+          "E": 179960.0
+        },
+        "elevation_m": null,
+        "date": "0890722~0890725"
+      },
+      "strata": [
+        {
+          "depth_m": 20.2,
+          "description": ""
+        },
+        {
+          "depth_m": 22.4,
+          "description": ""
+        },
+        {
+          "depth_m": 24.3,
+          "description": ""
+        },
+        {
+          "depth_m": 33.3,
+          "description": "資料庫查询系統"
+        },
+        {
+          "depth_m": 34.2,
+          "description": ""
+        },
+        {
+          "depth_m": 36.9,
+          "description": ""
+        },
+        {
+          "depth_m": 38.1,
+          "description": ""
+        },
+        {
+          "depth_m": 39.3,
+          "description": ""
+        },
+        {
+          "depth_m": 47.9,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SBH-17_Chart_3.png": {
+    "file_name": "00972742(4)_SBH-17_Chart_3.png",
+    "file_path": "input\\00972742(4)_SBH-17_Chart_3.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (描述內容未包含土壤或岩石岩性特徵 (範例: '選→人麼，47.90月大豆可爾'))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SEH-17",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2593019.83,
+          "E": 179960.0
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 55.8,
+          "description": "选贺探勘資料庫→人么，47.90月大豆可尔"
+        },
+        {
+          "depth_m": 60.0,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SBH-19_Chart_3.png": {
+    "file_name": "00972742(4)_SBH-19_Chart_3.png",
+    "file_path": "input\\00972742(4)_SBH-19_Chart_3.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (描述內容未包含土壤或岩石岩性特徵 (範例: '質'))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SEH-19",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2592600.36,
+          "E": 179940.0
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 40.9,
+          "description": ""
+        },
+        {
+          "depth_m": 47.3,
+          "description": "質探勘資料庫"
+        },
+        {
+          "depth_m": 52.0,
+          "description": "查询系統"
+        },
+        {
+          "depth_m": 60.0,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SBH-1_Chart_3.png": {
+    "file_name": "00972742(4)_SBH-1_Chart_3.png",
+    "file_path": "input\\00972742(4)_SBH-1_Chart_3.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (描述內容未包含土壤或岩石岩性特徵 (範例: '探勘資料庫'))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SEH-1",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2597270.52,
+          "E": 180173.0
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 41.0,
+          "description": ""
+        },
+        {
+          "depth_m": 46.8,
+          "description": "探勘資料庫"
+        },
+        {
+          "depth_m": 49.8,
+          "description": "查询系統"
+        },
+        {
+          "depth_m": 50.6,
+          "description": ""
+        },
+        {
+          "depth_m": 52.8,
+          "description": ""
+        },
+        {
+          "depth_m": 55.7,
+          "description": ""
+        },
+        {
+          "depth_m": 60.0,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SBH-20_Chart_3.png": {
+    "file_name": "00972742(4)_SBH-20_Chart_3.png",
+    "file_path": "input\\00972742(4)_SBH-20_Chart_3.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (描述內容未包含土壤或岩石岩性特徵 (範例: '統'))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SEH-20",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2592099.98,
+          "E": 179914.0
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 40.8,
+          "description": ""
+        },
+        {
+          "depth_m": 60.0,
+          "description": "暂探資料庫查询系統"
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SBH-27_Chart_1.png": {
+    "file_name": "00972742(4)_SBH-27_Chart_1.png",
+    "file_path": "input\\00972742(4)_SBH-27_Chart_1.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (描述內容未包含土壤或岩石岩性特徵 (範例: '賀探勘資料庫'))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SEH-27",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2590591.86,
+          "E": 179839.0
+        },
+        "elevation_m": null,
+        "date": "0890727~0890803"
+      },
+      "strata": [
+        {
+          "depth_m": 6.7,
+          "description": "贺探勘資料庫"
+        },
+        {
+          "depth_m": 23.4,
+          "description": "查詢系統"
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SBH-27_Chart_2.png": {
+    "file_name": "00972742(4)_SBH-27_Chart_2.png",
+    "file_path": "input\\00972742(4)_SBH-27_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (描述內容未包含土壤或岩石岩性特徵 (範例: '探勘資料庫'))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SEH-27",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2590591.86,
+          "E": 179839.0
+        },
+        "elevation_m": null,
+        "date": "0890727~0890803"
+      },
+      "strata": [
+        {
+          "depth_m": 23.4,
+          "description": ""
+        },
+        {
+          "depth_m": 27.3,
+          "description": "探勘資料庫"
+        },
+        {
+          "depth_m": 31.0,
+          "description": "查询系统"
+        },
+        {
+          "depth_m": 32.4,
+          "description": ""
+        },
+        {
+          "depth_m": 35.2,
+          "description": ""
+        },
+        {
+          "depth_m": 40.5,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SBH-27_Chart_3.png": {
+    "file_name": "00972742(4)_SBH-27_Chart_3.png",
+    "file_path": "input\\00972742(4)_SBH-27_Chart_3.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (描述內容未包含土壤或岩石岩性特徵 (範例: '統'))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SEH-27",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2590591.86,
+          "E": 179839.0
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 40.5,
+          "description": ""
+        },
+        {
+          "depth_m": 60.0,
+          "description": "探勘資料庫香詢系统"
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SBH-27_Chart_4.png": {
+    "file_name": "00972742(4)_SBH-27_Chart_4.png",
+    "file_path": "input\\00972742(4)_SBH-27_Chart_4.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (所有地層之描述均為空)",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "未知",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2590591.86,
+          "E": 179839.0
+        },
+        "elevation_m": null,
+        "date": "0890727~0890803"
+      },
+      "strata": [
+        {
+          "depth_m": 60.65,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SBH-28_Chart_2.png": {
+    "file_name": "00972742(4)_SBH-28_Chart_2.png",
+    "file_path": "input\\00972742(4)_SBH-28_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (描述內容未包含土壤或岩石岩性特徵 (範例: 'W0'07'))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SEH-28",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2590102.48,
+          "E": 179815.0
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 22.8,
+          "description": "W0'07"
+        },
+        {
+          "depth_m": 30.9,
+          "description": "七皙探勘資料庫查询系統"
+        },
+        {
+          "depth_m": 38.5,
+          "description": ""
+        },
+        {
+          "depth_m": 51.1,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SBH-28_Chart_3.png": {
+    "file_name": "00972742(4)_SBH-28_Chart_3.png",
+    "file_path": "input\\00972742(4)_SBH-28_Chart_3.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (描述內容未包含土壤或岩石岩性特徵 (範例: '統'))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SEH-28",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2590102.48,
+          "E": 179815.0
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 51.1,
+          "description": "探勘資料庫查询系統"
+        },
+        {
+          "depth_m": 60.0,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SBH-29_Chart_2.png": {
+    "file_name": "00972742(4)_SBH-29_Chart_2.png",
+    "file_path": "input\\00972742(4)_SBH-29_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (描述內容未包含土壤或岩石岩性特徵 (範例: '資料庫探'))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SEH-29",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2589927.69,
+          "E": 179806.0
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 21.2,
+          "description": ""
+        },
+        {
+          "depth_m": 24.0,
+          "description": ""
+        },
+        {
+          "depth_m": 26.6,
+          "description": "資料庫探"
+        },
+        {
+          "depth_m": 30.2,
+          "description": "查詢系統"
+        },
+        {
+          "depth_m": 37.2,
+          "description": ""
+        },
+        {
+          "depth_m": 39.8,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SBH-29_Chart_3.png": {
+    "file_name": "00972742(4)_SBH-29_Chart_3.png",
+    "file_path": "input\\00972742(4)_SBH-29_Chart_3.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (描述內容未包含土壤或岩石岩性特徵 (範例: '質統'))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SEH-29",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2589927.69,
+          "E": 179806.0
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 41.3,
+          "description": ""
+        },
+        {
+          "depth_m": 51.6,
+          "description": "質探勘資料庫查询系統"
+        },
+        {
+          "depth_m": 60.2,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SBH-2_Chart_2.png": {
+    "file_name": "00972742(4)_SBH-2_Chart_2.png",
+    "file_path": "input\\00972742(4)_SBH-2_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (描述內容未包含土壤或岩石岩性特徵 (範例: '統'))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SEH-2",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2597105.73,
+          "E": 180165.0
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 21.7,
+          "description": ""
+        },
+        {
+          "depth_m": 23.2,
+          "description": ""
+        },
+        {
+          "depth_m": 30.5,
+          "description": "探勘資料庫查询系統"
+        },
+        {
+          "depth_m": 39.8,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SBH-30_Chart_3.png": {
+    "file_name": "00972742(4)_SBH-30_Chart_3.png",
+    "file_path": "input\\00972742(4)_SBH-30_Chart_3.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (描述內容未包含土壤或岩石岩性特徵 (範例: '世'))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SEH-30",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2589732.94,
+          "E": 179796.0
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 59.9,
+          "description": "世贺探勘資料庫香詢系"
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SBH-30_Chart_4.png": {
+    "file_name": "00972742(4)_SBH-30_Chart_4.png",
+    "file_path": "input\\00972742(4)_SBH-30_Chart_4.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (所有地層之描述均為空)",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SBH-30",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2589732.94,
+          "E": 179796.0
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 63.0,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SBH-32_Chart_2.png": {
+    "file_name": "00972742(4)_SBH-32_Chart_2.png",
+    "file_path": "input\\00972742(4)_SBH-32_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (描述內容未包含土壤或岩石岩性特徵 (範例: '夾'))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SEH-32",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2589103.72,
+          "E": 179765.0
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 22.0,
+          "description": ""
+        },
+        {
+          "depth_m": 23.75,
+          "description": ""
+        },
+        {
+          "depth_m": 26.5,
+          "description": "資料庫買探勘"
+        },
+        {
+          "depth_m": 27.0,
+          "description": ""
+        },
+        {
+          "depth_m": 39.3,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SBH-32_Chart_4.png": {
+    "file_name": "00972742(4)_SBH-32_Chart_4.png",
+    "file_path": "input\\00972742(4)_SBH-32_Chart_4.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (所有地層之描述均為空)",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SEH-32",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2589103.72,
+          "E": 179765.0
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 60.45,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SBH-34_Chart_2.png": {
+    "file_name": "00972742(4)_SBH-34_Chart_2.png",
+    "file_path": "input\\00972742(4)_SBH-34_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (描述內容未包含土壤或岩石岩性特徵 (範例: 'W0'07'))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SEH-34",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2588684.25,
+          "E": 179744.0
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 21.3,
+          "description": "W0'07"
+        },
+        {
+          "depth_m": 31.0,
+          "description": "曾探勘資料庫查询系統"
+        },
+        {
+          "depth_m": 33.4,
+          "description": ""
+        },
+        {
+          "depth_m": 35.0,
+          "description": ""
+        },
+        {
+          "depth_m": 37.3,
+          "description": ""
+        },
+        {
+          "depth_m": 39.7,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SBH-34_Chart_4.png": {
+    "file_name": "00972742(4)_SBH-34_Chart_4.png",
+    "file_path": "input\\00972742(4)_SBH-34_Chart_4.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (所有地層之描述均為空)",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SEH-34",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2588684.25,
+          "E": 179744.0
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 62.3,
+          "description": ""
+        },
+        {
+          "depth_m": 164.5,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SBH-35_Chart_2.png": {
+    "file_name": "00972742(4)_SBH-35_Chart_2.png",
+    "file_path": "input\\00972742(4)_SBH-35_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (描述內容未包含土壤或岩石岩性特徵 (範例: '母'))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SEH-35",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2588474.51,
+          "E": 179733.0
+        },
+        "elevation_m": null,
+        "date": "0890828~0890829"
+      },
+      "strata": [
+        {
+          "depth_m": 24.1,
+          "description": ""
+        },
+        {
+          "depth_m": 26.0,
+          "description": "資料庫探母"
+        },
+        {
+          "depth_m": 37.5,
+          "description": "查询系統"
+        },
+        {
+          "depth_m": 42.2,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SBH-35_Chart_3.png": {
+    "file_name": "00972742(4)_SBH-35_Chart_3.png",
+    "file_path": "input\\00972742(4)_SBH-35_Chart_3.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (描述內容未包含土壤或岩石岩性特徵 (範例: 'N099詢系'))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SEH-35",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2588474.51,
+          "E": 179733.0
+        },
+        "elevation_m": null,
+        "date": "0890828~0890829"
+      },
+      "strata": [
+        {
+          "depth_m": 42.2,
+          "description": ""
+        },
+        {
+          "depth_m": 43.4,
+          "description": ""
+        },
+        {
+          "depth_m": 58.7,
+          "description": "探勘資料庫N099询系"
+        },
+        {
+          "depth_m": 61.5,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SBH-35_Chart_4.png": {
+    "file_name": "00972742(4)_SBH-35_Chart_4.png",
+    "file_path": "input\\00972742(4)_SBH-35_Chart_4.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (所有地層之描述均為空)",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SEH-35",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2588474.51,
+          "E": 179733.0
+        },
+        "elevation_m": null,
+        "date": "0890828~0890829"
+      },
+      "strata": [
+        {
+          "depth_m": 61.5,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SBH-36_Chart_2.png": {
+    "file_name": "00972742(4)_SBH-36_Chart_2.png",
+    "file_path": "input\\00972742(4)_SBH-36_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (描述內容未包含土壤或岩石岩性特徵 (範例: 'Grv≥I'))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SEH-36",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2588077.01,
+          "E": 179713.0
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 22.0,
+          "description": ""
+        },
+        {
+          "depth_m": 23.6,
+          "description": ""
+        },
+        {
+          "depth_m": 27.3,
+          "description": "資料庫"
+        },
+        {
+          "depth_m": 28.5,
+          "description": "Grv≥I"
+        },
+        {
+          "depth_m": 33.0,
+          "description": "eto"
+        },
+        {
+          "depth_m": 37.0,
+          "description": ""
+        },
+        {
+          "depth_m": 38.0,
+          "description": ""
+        },
+        {
+          "depth_m": 42.3,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SBH-37_Chart_2.png": {
+    "file_name": "00972742(4)_SBH-37_Chart_2.png",
+    "file_path": "input\\00972742(4)_SBH-37_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (描述內容未包含土壤或岩石岩性特徵 (範例: '詢系疏'))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SEH-37",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2587870.26,
+          "E": 179703.0
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 23.5,
+          "description": ""
+        },
+        {
+          "depth_m": 26.0,
+          "description": "資料庫探勘"
+        },
+        {
+          "depth_m": 27.5,
+          "description": ""
+        },
+        {
+          "depth_m": 31.0,
+          "description": "询系疏"
+        },
+        {
+          "depth_m": 35.5,
+          "description": ""
+        },
+        {
+          "depth_m": 37.0,
+          "description": ""
+        },
+        {
+          "depth_m": 42.3,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SBH-38_Chart_2.png": {
+    "file_name": "00972742(4)_SBH-38_Chart_2.png",
+    "file_path": "input\\00972742(4)_SBH-38_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (描述內容未包含土壤或岩石岩性特徵 (範例: '乙質統'))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SEH-38",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2587635.44,
+          "E": 179694.0
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 21.3,
+          "description": ""
+        },
+        {
+          "depth_m": 34.6,
+          "description": "乙質探勘資料库查询系統"
+        },
+        {
+          "depth_m": 36.2,
+          "description": ""
+        },
+        {
+          "depth_m": 38.8,
+          "description": ""
+        },
+        {
+          "depth_m": 45.0,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SBH-39_Chart_2.png": {
+    "file_name": "00972742(4)_SBH-39_Chart_2.png",
+    "file_path": "input\\00972742(4)_SBH-39_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (描述內容未包含土壤或岩石岩性特徵 (範例: '統'))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SEH-39",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2587410.46,
+          "E": 179692.0
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 30.1,
+          "description": "贺探勘資料庫查询系統"
+        },
+        {
+          "depth_m": 31.7,
+          "description": ""
+        },
+        {
+          "depth_m": 32.9,
+          "description": ""
+        },
+        {
+          "depth_m": 34.0,
+          "description": ""
+        },
+        {
+          "depth_m": 34.7,
+          "description": ""
+        },
+        {
+          "depth_m": 37.0,
+          "description": ""
+        },
+        {
+          "depth_m": 38.7,
+          "description": ""
+        },
+        {
+          "depth_m": 40.6,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SBH-39_Chart_4.png": {
+    "file_name": "00972742(4)_SBH-39_Chart_4.png",
+    "file_path": "input\\00972742(4)_SBH-39_Chart_4.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (所有地層之描述均為空)",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "未知",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2587410.46,
+          "E": 179692.0
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 60.3,
+          "description": ""
+        },
+        {
+          "depth_m": 62.4,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SBH-3_Chart_2.png": {
+    "file_name": "00972742(4)_SBH-3_Chart_2.png",
+    "file_path": "input\\00972742(4)_SBH-3_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (描述內容未包含土壤或岩石岩性特徵 (範例: '統'))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SEH-3",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2596895.99,
+          "E": 180154.0
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 30.1,
+          "description": "贺探勘資料庫查詢系統"
+        },
+        {
+          "depth_m": 35.4,
+          "description": ""
+        },
+        {
+          "depth_m": 37.4,
+          "description": ""
+        },
+        {
+          "depth_m": 44.5,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SBH-40_Chart_1.png": {
+    "file_name": "00972742(4)_SBH-40_Chart_1.png",
+    "file_path": "input\\00972742(4)_SBH-40_Chart_1.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (地質岩性特徵比例過低 (1/3))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SEH-40",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2586921.15,
+          "E": 179716.0
+        },
+        "elevation_m": null,
+        "date": "029/09/29"
+      },
+      "strata": [
+        {
+          "depth_m": 2.0,
+          "description": "Brownishyellow"
+        },
+        {
+          "depth_m": 3.5,
+          "description": ""
+        },
+        {
+          "depth_m": 8.3,
+          "description": "資料庫探勘韵乡"
         },
         {
           "depth_m": 13.0,
-          "description": "棕黄色粉土質中细砂"
+          "description": "N6AI/A.- rka"
         },
         {
-          "depth_m": 13.451,
+          "depth_m": 16.0,
+          "description": ""
+        },
+        {
+          "depth_m": 17.7,
+          "description": ""
+        },
+        {
+          "depth_m": 19.8,
           "description": ""
         }
       ]
     },
     "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
   },
-  "100466240991262064_BB-09_Chart_1.png": {
-    "file_name": "100466240991262064_BB-09_Chart_1.png",
-    "file_path": "input\\100466240991262064_BB-09_Chart_1.png",
+  "00972742(4)_SBH-42_Chart_4.png": {
+    "file_name": "00972742(4)_SBH-42_Chart_4.png",
+    "file_path": "input\\00972742(4)_SBH-42_Chart_4.png",
     "attempts_made": 3,
-    "error_reason": "OCR 階段驗證未通過 (第 5 層 (深度 25.09m) 之描述為空)",
+    "error_reason": "OCR 階段驗證未通過 (所有地層之描述均為空)",
     "raw_extracted_data": {
       "borehole_info": {
-        "borehole_id": "BB-09",
-        "location": "歌匾",
+        "borehole_id": "SEH-42",
+        "location": "嘉羲太保",
         "coordinates": {
-          "datum": "TWD97",
-          "N": 2761507.39,
-          "E": 288006.59
+          "datum": "TWD67",
+          "N": 2586440.13,
+          "E": 179777.0
         },
         "elevation_m": null,
-        "date": "100/11/27"
+        "date": "未知 / 無記載"
       },
       "strata": [
         {
-          "depth_m": 1.4,
-          "description": "即礫石及棕灰色粘士"
-        },
-        {
-          "depth_m": 6.2,
-          "description": "即礫石層夾棕灰色粗中细砂郎石，粒径5~10cm最大粒径15cm，程地"
-        },
-        {
-          "depth_m": 7.2,
-          "description": "灰色砂岩"
-        },
-        {
-          "depth_m": 18.1,
-          "description": "灰色砂岩與頁岩互層-"
-        },
-        {
-          "depth_m": 25.09,
+          "depth_m": 60.257,
           "description": ""
         }
       ]
     },
     "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
   },
-  "100466240991262064_BB-09_Chart_2.png": {
-    "file_name": "100466240991262064_BB-09_Chart_2.png",
-    "file_path": "input\\100466240991262064_BB-09_Chart_2.png",
+  "00972742(4)_SBH-43_Chart_2.png": {
+    "file_name": "00972742(4)_SBH-43_Chart_2.png",
+    "file_path": "input\\00972742(4)_SBH-43_Chart_2.png",
     "attempts_made": 3,
-    "error_reason": "OCR 階段驗證未通過 (第 2 層描述內容非土壤或岩石岩性: '口1l')",
+    "error_reason": "OCR 階段驗證未通過 (描述內容未包含土壤或岩石岩性特徵 (範例: '統'))",
     "raw_extracted_data": {
       "borehole_info": {
-        "borehole_id": "BB-09",
-        "location": "歌匾",
+        "borehole_id": "SEH-43",
+        "location": "嘉羲太保",
         "coordinates": {
-          "datum": "TWD97",
-          "N": 2761507.39,
-          "E": 288006.59
+          "datum": "TWD67",
+          "N": 2586243.41,
+          "E": 179813.0
         },
         "elevation_m": null,
-        "date": "未知 / 無記載"
+        "date": "0890826~0890828"
       },
       "strata": [
         {
-          "depth_m": 18.1,
-          "description": "夾色砂岩臭岩互層-"
+          "depth_m": 20.3,
+          "description": ""
         },
         {
-          "depth_m": 25.0,
-          "description": "口1l"
-        }
-      ]
-    },
-    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
-  },
-  "100466240991262064_BE-04_Chart_2.png": {
-    "file_name": "100466240991262064_BE-04_Chart_2.png",
-    "file_path": "input\\100466240991262064_BE-04_Chart_2.png",
-    "attempts_made": 3,
-    "error_reason": "OCR 階段驗證未通過 (第 1 層 (深度 20.121m) 之描述為空)",
-    "raw_extracted_data": {
-      "borehole_info": {
-        "borehole_id": "BE-04",
-        "location": "樹林區",
-        "coordinates": {
-          "datum": "TWD97",
-          "N": 2760064.86,
-          "E": 287532.63
+          "depth_m": 22.95,
+          "description": ""
         },
-        "elevation_m": null,
-        "date": "未知 / 無記載"
-      },
-      "strata": [
         {
-          "depth_m": 20.121,
+          "depth_m": 30.8,
+          "description": "探勘資料庫查询系統"
+        },
+        {
+          "depth_m": 37.0,
+          "description": ""
+        },
+        {
+          "depth_m": 39.95,
+          "description": ""
+        },
+        {
+          "depth_m": 44.701,
           "description": ""
         }
       ]
     },
     "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
   },
-  "100466240991262064_BE-05_Chart_1.png": {
-    "file_name": "100466240991262064_BE-05_Chart_1.png",
-    "file_path": "input\\100466240991262064_BE-05_Chart_1.png",
+  "00972742(4)_SBH-44_Chart_2.png": {
+    "file_name": "00972742(4)_SBH-44_Chart_2.png",
+    "file_path": "input\\00972742(4)_SBH-44_Chart_2.png",
     "attempts_made": 3,
-    "error_reason": "OCR 階段驗證未通過 (第 4 層 (深度 24.09m) 之描述為空)",
+    "error_reason": "OCR 階段驗證未通過 (描述內容未包含土壤或岩石岩性特徵 (範例: '麼28.'))",
     "raw_extracted_data": {
       "borehole_info": {
-        "borehole_id": "BE-05",
-        "location": "三峡區",
+        "borehole_id": "SEH-44",
+        "location": "嘉羲太保",
         "coordinates": {
-          "datum": "TWD97",
-          "N": 2759520.87,
-          "E": 286755.98
+          "datum": "TWD67",
+          "N": 2585882.92,
+          "E": 179896.0
         },
         "elevation_m": null,
-        "date": "100/11/14"
+        "date": "未知 / 無記載"
       },
       "strata": [
         {
-          "depth_m": 2.1,
-          "description": "回填邦礫石及雅土"
+          "depth_m": 22.0,
+          "description": ""
         },
         {
-          "depth_m": 12.15,
-          "description": "邱躁石夾黃色中细砂，程地，查"
+          "depth_m": 23.1,
+          "description": ""
         },
         {
-          "depth_m": 18.1,
-          "description": "灰色砂岩兵頁岩互層-"
+          "depth_m": 33.8,
+          "description": "探勘資料庫么28."
         },
         {
-          "depth_m": 24.09,
+          "depth_m": 40.7,
           "description": ""
         }
       ]
     },
     "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
   },
-  "100466240991262064_BE-05_Chart_2.png": {
-    "file_name": "100466240991262064_BE-05_Chart_2.png",
-    "file_path": "input\\100466240991262064_BE-05_Chart_2.png",
+  "00972742(4)_SBH-45_Chart_2.png": {
+    "file_name": "00972742(4)_SBH-45_Chart_2.png",
+    "file_path": "input\\00972742(4)_SBH-45_Chart_2.png",
     "attempts_made": 3,
-    "error_reason": "OCR 階段驗證未通過 (第 2 層 (深度 24.09m) 之描述為空)",
+    "error_reason": "OCR 階段驗證未通過 (描述內容未包含土壤或岩石岩性特徵 (範例: '7'))",
     "raw_extracted_data": {
       "borehole_info": {
-        "borehole_id": "BE-05",
-        "location": "三峡區",
+        "borehole_id": "SEH-45",
+        "location": "嘉羲太保",
         "coordinates": {
-          "datum": "TWD97",
-          "N": 2759520.87,
-          "E": 286755.98
+          "datum": "TWD67",
+          "N": 2585695.07,
+          "E": 179948.0
         },
         "elevation_m": null,
         "date": "未知 / 無記載"
       },
       "strata": [
         {
-          "depth_m": 18.1,
-          "description": "夾色砂岩臭岩互層-"
+          "depth_m": 21.3,
+          "description": ""
         },
         {
-          "depth_m": 24.09,
+          "depth_m": 23.5,
+          "description": ""
+        },
+        {
+          "depth_m": 26.2,
+          "description": "資料庫探勘"
+        },
+        {
+          "depth_m": 39.9,
+          "description": "查询系統"
+        },
+        {
+          "depth_m": 43.9,
+          "description": "7"
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SBH-47_Chart_2.png": {
+    "file_name": "00972742(4)_SBH-47_Chart_2.png",
+    "file_path": "input\\00972742(4)_SBH-47_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (描述內容未包含土壤或岩石岩性特徵 (範例: '資料庫查詢系統'))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SEH-47",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2582360.81,
+          "E": 180091.0
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 22.7,
+          "description": ""
+        },
+        {
+          "depth_m": 30.75,
+          "description": "資料庫查询系統"
+        },
+        {
+          "depth_m": 32.5,
+          "description": ""
+        },
+        {
+          "depth_m": 35.4,
+          "description": ""
+        },
+        {
+          "depth_m": 38.1,
+          "description": ""
+        },
+        {
+          "depth_m": 43.8,
           "description": ""
         }
       ]
     },
     "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
   },
-  "100466240991262064_BH-03_Chart_2.png": {
-    "file_name": "100466240991262064_BH-03_Chart_2.png",
-    "file_path": "input\\100466240991262064_BH-03_Chart_2.png",
+  "00972742(4)_SBH-48_Chart_4.png": {
+    "file_name": "00972742(4)_SBH-48_Chart_4.png",
+    "file_path": "input\\00972742(4)_SBH-48_Chart_4.png",
     "attempts_made": 3,
-    "error_reason": "OCR 階段驗證未通過 (第 1 層 (深度 20.031m) 之描述為空)",
+    "error_reason": "OCR 階段驗證未通過 (所有地層之描述均為空)",
     "raw_extracted_data": {
       "borehole_info": {
-        "borehole_id": "EH-03",
-        "location": "歌匾",
+        "borehole_id": "SBH-48",
+        "location": "嘉羲太保",
         "coordinates": {
-          "datum": "TWD97",
-          "N": 2760850.13,
-          "E": 286454.6
+          "datum": "TWD67",
+          "N": 2584807.82,
+          "E": 180227.0
         },
         "elevation_m": null,
-        "date": "未知 / 無記載"
+        "date": "0890827~0890829"
       },
       "strata": [
         {
-          "depth_m": 20.031,
+          "depth_m": 62.0,
           "description": ""
         }
       ]
     },
     "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
   },
-  "100466240991262064_BH-06_Chart_2.png": {
-    "file_name": "100466240991262064_BH-06_Chart_2.png",
-    "file_path": "input\\100466240991262064_BH-06_Chart_2.png",
+  "00972742(4)_SBH-49_Chart_3.png": {
+    "file_name": "00972742(4)_SBH-49_Chart_3.png",
+    "file_path": "input\\00972742(4)_SBH-49_Chart_3.png",
     "attempts_made": 3,
-    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "error_reason": "OCR 階段驗證未通過 (地質岩性特徵比例過低 (2/6))",
     "raw_extracted_data": {
       "borehole_info": {
-        "borehole_id": "EH-C6",
-        "location": "歌匾",
+        "borehole_id": "SEH-49",
+        "location": "嘉羲太保",
         "coordinates": {
-          "datum": "TWD97",
-          "N": 2760842.1,
-          "E": 286460.39
+          "datum": "TWD67",
+          "N": 2584607.63,
+          "E": 180290.0
         },
         "elevation_m": null,
-        "date": "未知 / 無記載"
-      },
-      "strata": []
-    },
-    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
-  },
-  "100466240991262064_TP-1_Chart_1.png": {
-    "file_name": "100466240991262064_TP-1_Chart_1.png",
-    "file_path": "input\\100466240991262064_TP-1_Chart_1.png",
-    "attempts_made": 3,
-    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
-    "raw_extracted_data": {
-      "borehole_info": {
-        "borehole_id": "TP-1",
-        "location": "歌匾",
-        "coordinates": {
-          "datum": "TWD97",
-          "N": 2762751.84,
-          "E": 283648.77
-        },
-        "elevation_m": null,
-        "date": "未知 / 無記載"
-      },
-      "strata": []
-    },
-    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
-  },
-  "100466240991262064_TP-2_Chart_1.png": {
-    "file_name": "100466240991262064_TP-2_Chart_1.png",
-    "file_path": "input\\100466240991262064_TP-2_Chart_1.png",
-    "attempts_made": 3,
-    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
-    "raw_extracted_data": {
-      "borehole_info": {
-        "borehole_id": "TP-2",
-        "location": "三峡區",
-        "coordinates": {
-          "datum": "TWD97",
-          "N": 2759604.39,
-          "E": 285786.22
-        },
-        "elevation_m": null,
-        "date": "未知 / 無記載"
-      },
-      "strata": []
-    },
-    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
-  },
-  "55358501002_#1-2_Chart_1.png": {
-    "file_name": "55358501002_#1-2_Chart_1.png",
-    "file_path": "input\\55358501002_#1-2_Chart_1.png",
-    "attempts_made": 3,
-    "error_reason": "OCR 階段驗證未通過 (第 1 層 (深度 1.19m) 之描述為空)",
-    "raw_extracted_data": {
-      "borehole_info": {
-        "borehole_id": "1-2",
-        "location": "台中市露峰區奥大里區",
-        "coordinates": {
-          "datum": "TWD97",
-          "N": 2663995.0,
-          "E": 222425.0
-        },
-        "elevation_m": null,
-        "date": "未知 / 無記載"
+        "date": "0890821~0890823"
       },
       "strata": [
         {
-          "depth_m": 1.19,
+          "depth_m": 41.2,
+          "description": "Brow"
+        },
+        {
+          "depth_m": 43.65,
+          "description": "Brown"
+        },
+        {
+          "depth_m": 46.55,
+          "description": "資料庫買探勘"
+        },
+        {
+          "depth_m": 52.2,
+          "description": "智詢系"
+        },
+        {
+          "depth_m": 53.1,
           "description": ""
         },
         {
-          "depth_m": 25.4,
-          "description": "棕黃色砂岩，地管，棕灰色砂岩，查"
+          "depth_m": 54.1,
+          "description": "Brow"
+        },
+        {
+          "depth_m": 57.5,
+          "description": "Gray withBrown"
+        },
+        {
+          "depth_m": 60.0,
+          "description": ""
         }
       ]
     },
     "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
   },
-  "55358501002_#2-1_Chart_1.png": {
-    "file_name": "55358501002_#2-1_Chart_1.png",
-    "file_path": "input\\55358501002_#2-1_Chart_1.png",
+  "00972742(4)_SBH-4_Chart_2.png": {
+    "file_name": "00972742(4)_SBH-4_Chart_2.png",
+    "file_path": "input\\00972742(4)_SBH-4_Chart_2.png",
     "attempts_made": 3,
-    "error_reason": "OCR 階段驗證未通過 (第 1 層 (深度 3.4m) 之描述為空)",
+    "error_reason": "OCR 階段驗證未通過 (描述內容未包含土壤或岩石岩性特徵 (範例: '衍'))",
     "raw_extracted_data": {
       "borehole_info": {
-        "borehole_id": "未知",
-        "location": "台中市露峰區奥大里區",
+        "borehole_id": "SEH-4",
+        "location": "嘉羲太保",
         "coordinates": {
-          "datum": "TWD97",
-          "N": 2664227.0,
-          "E": 222193.0
+          "datum": "TWD67",
+          "N": 2596451.54,
+          "E": 180132.0
         },
         "elevation_m": null,
         "date": "未知 / 無記載"
       },
       "strata": [
         {
-          "depth_m": 3.4,
+          "depth_m": 20.3,
           "description": ""
         },
         {
-          "depth_m": 7.5,
-          "description": "地質，棕黃色砂岩"
+          "depth_m": 22.4,
+          "description": ""
         },
         {
-          "depth_m": 11.25,
-          "description": "查詢，灰色砂岩"
+          "depth_m": 31.4,
+          "description": "衍資料庫查询系統"
         },
         {
-          "depth_m": 17.18,
-          "description": "黃色砂岩"
-        },
-        {
-          "depth_m": 20.0,
-          "description": "灰色砂岩"
+          "depth_m": 44.4,
+          "description": ""
         }
       ]
     },
     "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
   },
-  "55358501002_#2-2_Chart_1.png": {
-    "file_name": "55358501002_#2-2_Chart_1.png",
-    "file_path": "input\\55358501002_#2-2_Chart_1.png",
+  "00972742(4)_SBH-50_Chart_4.png": {
+    "file_name": "00972742(4)_SBH-50_Chart_4.png",
+    "file_path": "input\\00972742(4)_SBH-50_Chart_4.png",
     "attempts_made": 3,
-    "error_reason": "OCR 階段驗證未通過 (第 1 層 (深度 3.1m) 之描述為空)",
+    "error_reason": "OCR 階段驗證未通過 (所有地層之描述均為空)",
     "raw_extracted_data": {
       "borehole_info": {
-        "borehole_id": "未知",
-        "location": "台中市露峰區奥大里區",
+        "borehole_id": "SEH-50",
+        "location": "嘉羲太保",
         "coordinates": {
-          "datum": "TWD97",
-          "N": 2664228.0,
-          "E": 222194.0
+          "datum": "TWD67",
+          "N": 2584407.44,
+          "E": 180354.0
         },
         "elevation_m": null,
         "date": "未知 / 無記載"
       },
       "strata": [
         {
-          "depth_m": 3.1,
+          "depth_m": 61.2,
           "description": ""
-        },
-        {
-          "depth_m": 20.35,
-          "description": "地質，棕黄色砂岩，查"
         }
       ]
     },
     "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
   },
-  "55358501002_#2-3_Chart_1.png": {
-    "file_name": "55358501002_#2-3_Chart_1.png",
-    "file_path": "input\\55358501002_#2-3_Chart_1.png",
+  "00972742(4)_sbh-51_Chart_2.png": {
+    "file_name": "00972742(4)_sbh-51_Chart_2.png",
+    "file_path": "input\\00972742(4)_sbh-51_Chart_2.png",
     "attempts_made": 3,
-    "error_reason": "OCR 階段驗證未通過 (第 1 層 (深度 1.3m) 之描述為空)",
+    "error_reason": "OCR 階段驗證未通過 (描述內容未包含土壤或岩石岩性特徵 (範例: '資料庫查詢系統'))",
     "raw_extracted_data": {
       "borehole_info": {
-        "borehole_id": "未知",
-        "location": "台中市露峰區奥大里區",
+        "borehole_id": "sbh-51",
+        "location": "嘉羲太保",
         "coordinates": {
-          "datum": "TWD97",
-          "N": 2664226.0,
-          "E": 222192.0
+          "datum": "TWD67",
+          "N": 2584207.24,
+          "E": 180417.0
         },
         "elevation_m": null,
         "date": "未知 / 無記載"
       },
       "strata": [
         {
-          "depth_m": 1.3,
+          "depth_m": 21.55,
           "description": ""
         },
         {
-          "depth_m": 7.1,
-          "description": "棕灰色砂岩，地質"
+          "depth_m": 22.8,
+          "description": ""
         },
         {
-          "depth_m": 12.3,
-          "description": "棕藏色砂岩，查訓"
+          "depth_m": 37.7,
+          "description": "資料庫查询系統"
         },
         {
-          "depth_m": 14.5,
-          "description": "擦灰色砂岩"
+          "depth_m": 40.0,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_sbh-51_Chart_4.png": {
+    "file_name": "00972742(4)_sbh-51_Chart_4.png",
+    "file_path": "input\\00972742(4)_sbh-51_Chart_4.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (所有地層之描述均為空)",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "sbh-51",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2584207.24,
+          "E": 180417.0
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 60.5,
+          "description": ""
+        },
+        {
+          "depth_m": 61.5,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SBH-55_Chart_2.png": {
+    "file_name": "00972742(4)_SBH-55_Chart_2.png",
+    "file_path": "input\\00972742(4)_SBH-55_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (描述內容未包含土壤或岩石岩性特徵 (範例: '所2M'))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SEH-55",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2583149.07,
+          "E": 180752.0
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 30.7,
+          "description": "所2M資料庫查询系統"
+        },
+        {
+          "depth_m": 33.9,
+          "description": ""
+        },
+        {
+          "depth_m": 39.8,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SBH-56_Chart_2.png": {
+    "file_name": "00972742(4)_SBH-56_Chart_2.png",
+    "file_path": "input\\00972742(4)_SBH-56_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (描述內容未包含土壤或岩石岩性特徵 (範例: '30'))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SEH-56",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2582715.32,
+          "E": 180890.0
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 20.2,
+          "description": ""
         },
         {
           "depth_m": 30.0,
-          "description": "夾色砂岩"
+          "description": "贺探勘資料庫30查询系統"
+        },
+        {
+          "depth_m": 35.9,
+          "description": ""
+        },
+        {
+          "depth_m": 42.9,
+          "description": ""
         }
       ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SBH-57_Chart_2.png": {
+    "file_name": "00972742(4)_SBH-57_Chart_2.png",
+    "file_path": "input\\00972742(4)_SBH-57_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (描述內容未包含土壤或岩石岩性特徵 (範例: '統'))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SEH-57",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2582515.13,
+          "E": 180953.0
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 35.2,
+          "description": "暂探勘資料庫查询系統"
+        },
+        {
+          "depth_m": 37.85,
+          "description": ""
+        },
+        {
+          "depth_m": 42.25,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SBH-57_Chart_3.png": {
+    "file_name": "00972742(4)_SBH-57_Chart_3.png",
+    "file_path": "input\\00972742(4)_SBH-57_Chart_3.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (描述內容未包含土壤或岩石岩性特徵 (範例: '質'))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SEH-57",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2582515.13,
+          "E": 180953.0
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 42.25,
+          "description": ""
+        },
+        {
+          "depth_m": 47.2,
+          "description": "質探勘資料庫"
+        },
+        {
+          "depth_m": 52.8,
+          "description": "查询系統"
+        },
+        {
+          "depth_m": 57.5,
+          "description": ""
+        },
+        {
+          "depth_m": 60.0,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SBH-57_Chart_4.png": {
+    "file_name": "00972742(4)_SBH-57_Chart_4.png",
+    "file_path": "input\\00972742(4)_SBH-57_Chart_4.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (所有地層之描述均為空)",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SEH-57",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2582515.13,
+          "E": 180953.0
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 60.257,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SBH-58_Chart_2.png": {
+    "file_name": "00972742(4)_SBH-58_Chart_2.png",
+    "file_path": "input\\00972742(4)_SBH-58_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (描述內容未包含土壤或岩石岩性特徵 (範例: '質'))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SEH-58",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2582317.79,
+          "E": 181016.0
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 23.1,
+          "description": ""
+        },
+        {
+          "depth_m": 26.5,
+          "description": "質探勘資料庫"
+        },
+        {
+          "depth_m": 31.5,
+          "description": "查詢系統"
+        },
+        {
+          "depth_m": 33.9,
+          "description": ""
+        },
+        {
+          "depth_m": 35.5,
+          "description": ""
+        },
+        {
+          "depth_m": 47.15,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SBH-58_Chart_3.png": {
+    "file_name": "00972742(4)_SBH-58_Chart_3.png",
+    "file_path": "input\\00972742(4)_SBH-58_Chart_3.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (描述內容未包含土壤或岩石岩性特徵 (範例: '也質'))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SEH-58",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2582317.79,
+          "E": 181016.0
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 47.15,
+          "description": "也質探勘資料庫"
+        },
+        {
+          "depth_m": 51.95,
+          "description": "查询系統"
+        },
+        {
+          "depth_m": 56.85,
+          "description": ""
+        },
+        {
+          "depth_m": 60.0,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SBH-59_Chart_2.png": {
+    "file_name": "00972742(4)_SBH-59_Chart_2.png",
+    "file_path": "input\\00972742(4)_SBH-59_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (描述內容未包含土壤或岩石岩性特徵 (範例: '資料庫查詢系統'))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SEH-59",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2582081.37,
+          "E": 181091.0
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 22.1,
+          "description": ""
+        },
+        {
+          "depth_m": 36.2,
+          "description": "資料庫查询系統"
+        },
+        {
+          "depth_m": 40.7,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SBH-60_Chart_2.png": {
+    "file_name": "00972742(4)_SBH-60_Chart_2.png",
+    "file_path": "input\\00972742(4)_SBH-60_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (描述內容未包含土壤或岩石岩性特徵 (範例: '資料庫查詢系統'))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SEH-60",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2581679.59,
+          "E": 181213.0
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 20.85,
+          "description": ""
+        },
+        {
+          "depth_m": 33.65,
+          "description": "資料庫查詢系統"
+        },
+        {
+          "depth_m": 39.85,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SBH-61_Chart_2.png": {
+    "file_name": "00972742(4)_SBH-61_Chart_2.png",
+    "file_path": "input\\00972742(4)_SBH-61_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (描述內容未包含土壤或岩石岩性特徵 (範例: '質統'))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SEH-61",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2581457.34,
+          "E": 181272.0
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 20.4,
+          "description": ""
+        },
+        {
+          "depth_m": 21.85,
+          "description": ""
+        },
+        {
+          "depth_m": 32.3,
+          "description": "質探勘資料庫查询系統"
+        },
+        {
+          "depth_m": 34.95,
+          "description": ""
+        },
+        {
+          "depth_m": 45.5,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SBH-61_Chart_4.png": {
+    "file_name": "00972742(4)_SBH-61_Chart_4.png",
+    "file_path": "input\\00972742(4)_SBH-61_Chart_4.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (所有地層之描述均為空)",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "未知",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2581457.34,
+          "E": 181272.0
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 60.257,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SBH-6_Chart_2.png": {
+    "file_name": "00972742(4)_SBH-6_Chart_2.png",
+    "file_path": "input\\00972742(4)_SBH-6_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (描述內容未包含土壤或岩石岩性特徵 (範例: 'W0'07'))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SEH-6",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2596071.02,
+          "E": 180113.0
+        },
+        "elevation_m": null,
+        "date": "0890721~0890722"
+      },
+      "strata": [
+        {
+          "depth_m": 22.5,
+          "description": "W0'07"
+        },
+        {
+          "depth_m": 32.4,
+          "description": "質探勘資料庫查询系統"
+        },
+        {
+          "depth_m": 34.8,
+          "description": ""
+        },
+        {
+          "depth_m": 39.2,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SBH-7_Chart_2.png": {
+    "file_name": "00972742(4)_SBH-7_Chart_2.png",
+    "file_path": "input\\00972742(4)_SBH-7_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (描述內容未包含土壤或岩石岩性特徵 (範例: 'M0087'))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SEH-7",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2595831.32,
+          "E": 180101.0
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 22.0,
+          "description": ""
+        },
+        {
+          "depth_m": 27.0,
+          "description": "世探勘資料庫"
+        },
+        {
+          "depth_m": 30.0,
+          "description": "M0087"
+        },
+        {
+          "depth_m": 32.1,
+          "description": ""
+        },
+        {
+          "depth_m": 33.7,
+          "description": ""
+        },
+        {
+          "depth_m": 43.8,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SCH-11_Chart_4.png": {
+    "file_name": "00972742(4)_SCH-11_Chart_4.png",
+    "file_path": "input\\00972742(4)_SCH-11_Chart_4.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (所有地層之描述均為空)",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SCH-11",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2584998.48,
+          "E": 180166.0
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 60.051,
+          "description": ""
+        },
+        {
+          "depth_m": 63.0,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SCH-12_Chart_4.png": {
+    "file_name": "00972742(4)_SCH-12_Chart_4.png",
+    "file_path": "input\\00972742(4)_SCH-12_Chart_4.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (所有地層之描述均為空)",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SCH-12",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2584016.58,
+          "E": 180477.0
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 60.4,
+          "description": ""
+        },
+        {
+          "depth_m": 63.0,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SCH-14_Chart_2.png": {
+    "file_name": "00972742(4)_SCH-14_Chart_2.png",
+    "file_path": "input\\00972742(4)_SCH-14_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (描述內容未包含土壤或岩石岩性特徵 (範例: '皙探勘資料庫'))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SCH-14",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2581880.99,
+          "E": 181153.0
+        },
+        "elevation_m": null,
+        "date": "0890926~0890928"
+      },
+      "strata": [
+        {
+          "depth_m": 20.35,
+          "description": ""
+        },
+        {
+          "depth_m": 27.95,
+          "description": "皙探勘資料庫"
+        },
+        {
+          "depth_m": 30.2,
+          "description": ""
+        },
+        {
+          "depth_m": 32.1,
+          "description": ""
+        },
+        {
+          "depth_m": 34.0,
+          "description": ""
+        },
+        {
+          "depth_m": 42.1,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SCH-14_Chart_4.png": {
+    "file_name": "00972742(4)_SCH-14_Chart_4.png",
+    "file_path": "input\\00972742(4)_SCH-14_Chart_4.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (所有地層之描述均為空)",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SCH-14",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2581880.99,
+          "E": 181153.0
+        },
+        "elevation_m": null,
+        "date": "0890926~0890928"
+      },
+      "strata": [
+        {
+          "depth_m": 62.0,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SCH-15_Chart_2.png": {
+    "file_name": "00972742(4)_SCH-15_Chart_2.png",
+    "file_path": "input\\00972742(4)_SCH-15_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (描述內容未包含土壤或岩石岩性特徵 (範例: '所'))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SCH-15",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2580721.68,
+          "E": 181422.0
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 22.8,
+          "description": ""
+        },
+        {
+          "depth_m": 24.6,
+          "description": "所資料庫"
+        },
+        {
+          "depth_m": 32.5,
+          "description": "不四詢系"
+        },
+        {
+          "depth_m": 33.2,
+          "description": ""
+        },
+        {
+          "depth_m": 34.75,
+          "description": ""
+        },
+        {
+          "depth_m": 36.95,
+          "description": ""
+        },
+        {
+          "depth_m": 40.0,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SCH-15_Chart_4.png": {
+    "file_name": "00972742(4)_SCH-15_Chart_4.png",
+    "file_path": "input\\00972742(4)_SCH-15_Chart_4.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (所有地層之描述均為空)",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SCH-15",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2580721.68,
+          "E": 181422.0
+        },
+        "elevation_m": null,
+        "date": "0890930~0891002"
+      },
+      "strata": [
+        {
+          "depth_m": 60.45,
+          "description": ""
+        },
+        {
+          "depth_m": 62.0,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SCH-1_Chart_2.png": {
+    "file_name": "00972742(4)_SCH-1_Chart_2.png",
+    "file_path": "input\\00972742(4)_SCH-1_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (描述內容未包含土壤或岩石岩性特徵 (範例: '↓\\'))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SCH-1",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2596656.29,
+          "E": 180142.0
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 23.0,
+          "description": ""
+        },
+        {
+          "depth_m": 30.8,
+          "description": "資料庫↓\\查询系統"
+        },
+        {
+          "depth_m": 39.3,
+          "description": ""
+        },
+        {
+          "depth_m": 42.6,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SCH-1_Chart_3.png": {
+    "file_name": "00972742(4)_SCH-1_Chart_3.png",
+    "file_path": "input\\00972742(4)_SCH-1_Chart_3.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (描述內容未包含土壤或岩石岩性特徵 (範例: '所M'))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SCH-1",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2596656.29,
+          "E": 180142.0
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 42.6,
+          "description": ""
+        },
+        {
+          "depth_m": 60.0,
+          "description": "所M資料庫查询系统"
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SCH-3_Chart_2.png": {
+    "file_name": "00972742(4)_SCH-3_Chart_2.png",
+    "file_path": "input\\00972742(4)_SCH-3_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (描述內容未包含土壤或岩石岩性特徵 (範例: '也質統'))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SCH-3",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2593424.33,
+          "E": 179981.0
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 21.0,
+          "description": ""
+        },
+        {
+          "depth_m": 22.6,
+          "description": ""
+        },
+        {
+          "depth_m": 33.9,
+          "description": "也質探勘資料庫查詢系統"
+        },
+        {
+          "depth_m": 37.8,
+          "description": ""
+        },
+        {
+          "depth_m": 41.4,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SCH-3_Chart_3.png": {
+    "file_name": "00972742(4)_SCH-3_Chart_3.png",
+    "file_path": "input\\00972742(4)_SCH-3_Chart_3.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (描述內容未包含土壤或岩石岩性特徵 (範例: '資料庫'))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SCH-3",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2593424.33,
+          "E": 179981.0
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 41.4,
+          "description": ""
+        },
+        {
+          "depth_m": 42.1,
+          "description": ""
+        },
+        {
+          "depth_m": 46.7,
+          "description": "資料庫"
+        },
+        {
+          "depth_m": 49.8,
+          "description": ""
+        },
+        {
+          "depth_m": 5.3,
+          "description": ""
+        },
+        {
+          "depth_m": 60.0,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SCH-4_Chart_2.png": {
+    "file_name": "00972742(4)_SCH-4_Chart_2.png",
+    "file_path": "input\\00972742(4)_SCH-4_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (地質岩性特徵比例過低 (1/3))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SCH-4",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2592400.6,
+          "E": 179930.0
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 23.75,
+          "description": ""
+        },
+        {
+          "depth_m": 1124.5,
+          "description": "Gray-"
+        },
+        {
+          "depth_m": 27.5,
+          "description": "資料庫不.L2570M+"
+        },
+        {
+          "depth_m": 34.4,
+          "description": "询系疏"
+        },
+        {
+          "depth_m": 36.6,
+          "description": ""
+        },
+        {
+          "depth_m": 39.3,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SCH-4_Chart_3.png": {
+    "file_name": "00972742(4)_SCH-4_Chart_3.png",
+    "file_path": "input\\00972742(4)_SCH-4_Chart_3.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (描述內容未包含土壤或岩石岩性特徵 (範例: '24>'))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SCH-4",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2592400.6,
+          "E": 179930.0
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 40.8,
+          "description": ""
+        },
+        {
+          "depth_m": 43.7,
+          "description": ""
+        },
+        {
+          "depth_m": 45.9,
+          "description": "資料庫24>"
+        },
+        {
+          "depth_m": 47.4,
+          "description": ""
+        },
+        {
+          "depth_m": 3.0,
+          "description": "询系1096"
+        },
+        {
+          "depth_m": 60.0,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SCH-5_Chart_2.png": {
+    "file_name": "00972742(4)_SCH-5_Chart_2.png",
+    "file_path": "input\\00972742(4)_SCH-5_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (描述內容未包含土壤或岩石岩性特徵 (範例: '賀探勘資料庫'))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SCH-5",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2591335.93,
+          "E": 179876.0
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 21.0,
+          "description": ""
+        },
+        {
+          "depth_m": 22.5,
+          "description": ""
+        },
+        {
+          "depth_m": 27.3,
+          "description": "贺探勘資料庫"
+        },
+        {
+          "depth_m": 30.1,
+          "description": "查询系统"
+        },
+        {
+          "depth_m": 37.6,
+          "description": ""
+        },
+        {
+          "depth_m": 40.0,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SCH-5_Chart_3.png": {
+    "file_name": "00972742(4)_SCH-5_Chart_3.png",
+    "file_path": "input\\00972742(4)_SCH-5_Chart_3.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (描述內容未包含土壤或岩石岩性特徵 (範例: '所M匹香詢系'))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SCH-5",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2591335.93,
+          "E": 179876.0
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 40.8,
+          "description": ""
+        },
+        {
+          "depth_m": 53.6,
+          "description": "所M資料庫匹香询系"
+        },
+        {
+          "depth_m": 60.0,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SCH-6_Chart_2.png": {
+    "file_name": "00972742(4)_SCH-6_Chart_2.png",
+    "file_path": "input\\00972742(4)_SCH-6_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (描述內容未包含土壤或岩石岩性特徵 (範例: '探勘資料庫'))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SCH-6",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2590382.13,
+          "E": 179829.0
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 22.0,
+          "description": ""
+        },
+        {
+          "depth_m": 22.8,
+          "description": ""
+        },
+        {
+          "depth_m": 27.4,
+          "description": "探勘資料庫"
+        },
+        {
+          "depth_m": 30.0,
+          "description": "查询系统"
+        },
+        {
+          "depth_m": 35.0,
+          "description": ""
+        },
+        {
+          "depth_m": 36.2,
+          "description": ""
+        },
+        {
+          "depth_m": 40.7,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SCH-6_Chart_3.png": {
+    "file_name": "00972742(4)_SCH-6_Chart_3.png",
+    "file_path": "input\\00972742(4)_SCH-6_Chart_3.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (描述內容未包含土壤或岩石岩性特徵 (範例: '旦爾'))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SCH-6",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2590382.13,
+          "E": 179829.0
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 40.7,
+          "description": ""
+        },
+        {
+          "depth_m": 42.0,
+          "description": ""
+        },
+        {
+          "depth_m": 52.0,
+          "description": "贺探勘資料庫旦尔"
+        },
+        {
+          "depth_m": 63.8,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742(4)_SCH-6_Chart_4.png": {
+    "file_name": "00972742(4)_SCH-6_Chart_4.png",
+    "file_path": "input\\00972742(4)_SCH-6_Chart_4.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (所有地層之描述均為空)",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "SCH-6",
+        "location": "嘉羲太保",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2590382.13,
+          "E": 179829.0
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": [
+        {
+          "depth_m": 63.8,
+          "description": ""
+        }
+      ]
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742-01(3)_UA-2_Chart_1.png": {
+    "file_name": "00972742-01(3)_UA-2_Chart_1.png",
+    "file_path": "input\\00972742-01(3)_UA-2_Chart_1.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "UA-2",
+        "location": "龍隧道HK19+450",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2766706.56,
+          "E": 290237.15
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742-01(3)_UA-2_Chart_2.png": {
+    "file_name": "00972742-01(3)_UA-2_Chart_2.png",
+    "file_path": "input\\00972742-01(3)_UA-2_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "UA-2",
+        "location": "龍隧道HK19+450",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2766706.56,
+          "E": 290237.15
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742-01(3)_UA-2_Chart_3.png": {
+    "file_name": "00972742-01(3)_UA-2_Chart_3.png",
+    "file_path": "input\\00972742-01(3)_UA-2_Chart_3.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "UA-2",
+        "location": "龍隧道HK19+450",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2766706.56,
+          "E": 290237.15
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742-01(3)_UA-2_Chart_4.png": {
+    "file_name": "00972742-01(3)_UA-2_Chart_4.png",
+    "file_path": "input\\00972742-01(3)_UA-2_Chart_4.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "UA-2",
+        "location": "龍隧道HK19+450",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2766706.56,
+          "E": 290237.15
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742-01(3)_UA-2_Chart_5.png": {
+    "file_name": "00972742-01(3)_UA-2_Chart_5.png",
+    "file_path": "input\\00972742-01(3)_UA-2_Chart_5.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "UA-2",
+        "location": "龍隧道HK19+450",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2766706.56,
+          "E": 290237.15
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742-01(3)_UA-2_Chart_6.png": {
+    "file_name": "00972742-01(3)_UA-2_Chart_6.png",
+    "file_path": "input\\00972742-01(3)_UA-2_Chart_6.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "UA-2",
+        "location": "龍隧道HK19+450",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2766706.56,
+          "E": 290237.15
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742-01(3)_UA-2_Chart_7.png": {
+    "file_name": "00972742-01(3)_UA-2_Chart_7.png",
+    "file_path": "input\\00972742-01(3)_UA-2_Chart_7.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "UA-2",
+        "location": "龍隧道HK19+450",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2766706.56,
+          "E": 290237.15
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742-02(5)_LA-1_Chart_1.png": {
+    "file_name": "00972742-02(5)_LA-1_Chart_1.png",
+    "file_path": "input\\00972742-02(5)_LA-1_Chart_1.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "LA-1",
+        "location": "林口隧道",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2768214.87,
+          "E": 286969.98
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742-02(5)_LA-1_Chart_2.png": {
+    "file_name": "00972742-02(5)_LA-1_Chart_2.png",
+    "file_path": "input\\00972742-02(5)_LA-1_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "LA-1",
+        "location": "林口隧道",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2768214.87,
+          "E": 286969.98
+        },
+        "elevation_m": null,
+        "date": "0870422~0870510"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742-02(5)_LA-1_Chart_3.png": {
+    "file_name": "00972742-02(5)_LA-1_Chart_3.png",
+    "file_path": "input\\00972742-02(5)_LA-1_Chart_3.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "LA-1",
+        "location": "林口隧道",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2768214.87,
+          "E": 286969.98
+        },
+        "elevation_m": null,
+        "date": "0870422~0870510"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742-02(5)_LA-1_Chart_4.png": {
+    "file_name": "00972742-02(5)_LA-1_Chart_4.png",
+    "file_path": "input\\00972742-02(5)_LA-1_Chart_4.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "LA-1",
+        "location": "林口隧道",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2768214.87,
+          "E": 286969.98
+        },
+        "elevation_m": null,
+        "date": "0870422~0870510"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742-02(5)_LA-1_Chart_5.png": {
+    "file_name": "00972742-02(5)_LA-1_Chart_5.png",
+    "file_path": "input\\00972742-02(5)_LA-1_Chart_5.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "LA-1",
+        "location": "林口隧道",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2768214.87,
+          "E": 286969.98
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742-02(5)_LA-1_Chart_6.png": {
+    "file_name": "00972742-02(5)_LA-1_Chart_6.png",
+    "file_path": "input\\00972742-02(5)_LA-1_Chart_6.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "LA-1",
+        "location": "林口隧道",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2768214.87,
+          "E": 286969.98
+        },
+        "elevation_m": null,
+        "date": "0870422~0870510"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742-02(5)_LA-2_Chart_1.png": {
+    "file_name": "00972742-02(5)_LA-2_Chart_1.png",
+    "file_path": "input\\00972742-02(5)_LA-2_Chart_1.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "LA-2",
+        "location": "林口隧道",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2768600.76,
+          "E": 286335.5
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742-02(5)_LA-2_Chart_2.png": {
+    "file_name": "00972742-02(5)_LA-2_Chart_2.png",
+    "file_path": "input\\00972742-02(5)_LA-2_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "LA-2",
+        "location": "林口隧道",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2768600.76,
+          "E": 286335.5
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742-02(5)_LA-2_Chart_3.png": {
+    "file_name": "00972742-02(5)_LA-2_Chart_3.png",
+    "file_path": "input\\00972742-02(5)_LA-2_Chart_3.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "LA-2",
+        "location": "林口隧道",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2768600.76,
+          "E": 286335.5
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742-02(5)_LA-2_Chart_4.png": {
+    "file_name": "00972742-02(5)_LA-2_Chart_4.png",
+    "file_path": "input\\00972742-02(5)_LA-2_Chart_4.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "LA-2",
+        "location": "林口隧道",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2768600.76,
+          "E": 286335.5
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742-02(5)_LA-3_Chart_1.png": {
+    "file_name": "00972742-02(5)_LA-3_Chart_1.png",
+    "file_path": "input\\00972742-02(5)_LA-3_Chart_1.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "LA-3",
+        "location": "林口隧道",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2769391.49,
+          "E": 285050.31
+        },
+        "elevation_m": null,
+        "date": "0870410~0870417"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742-02(5)_LA-3_Chart_2.png": {
+    "file_name": "00972742-02(5)_LA-3_Chart_2.png",
+    "file_path": "input\\00972742-02(5)_LA-3_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "LA-3",
+        "location": "林口隧道",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2769391.49,
+          "E": 285050.31
+        },
+        "elevation_m": null,
+        "date": "0870410~0870417"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742-02(5)_LA-3_Chart_3.png": {
+    "file_name": "00972742-02(5)_LA-3_Chart_3.png",
+    "file_path": "input\\00972742-02(5)_LA-3_Chart_3.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "LA-3",
+        "location": "林口隧道",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2769391.49,
+          "E": 285050.31
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742-02(5)_LA-3_Chart_4.png": {
+    "file_name": "00972742-02(5)_LA-3_Chart_4.png",
+    "file_path": "input\\00972742-02(5)_LA-3_Chart_4.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "LA-3",
+        "location": "林口隧道",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2769391.49,
+          "E": 285050.31
+        },
+        "elevation_m": null,
+        "date": "0870410~0870417"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742-02(5)_LA-5_Chart_1.png": {
+    "file_name": "00972742-02(5)_LA-5_Chart_1.png",
+    "file_path": "input\\00972742-02(5)_LA-5_Chart_1.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "LA-5",
+        "location": "林口隧道",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2770217.93,
+          "E": 283708.85
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742-02(5)_LA-5_Chart_2.png": {
+    "file_name": "00972742-02(5)_LA-5_Chart_2.png",
+    "file_path": "input\\00972742-02(5)_LA-5_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "LA-5",
+        "location": "林口隧道",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2770217.93,
+          "E": 283708.85
+        },
+        "elevation_m": null,
+        "date": "0870415~0870425"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742-02(5)_LA-5_Chart_3.png": {
+    "file_name": "00972742-02(5)_LA-5_Chart_3.png",
+    "file_path": "input\\00972742-02(5)_LA-5_Chart_3.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "LA-5",
+        "location": "林口隧道",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2770217.93,
+          "E": 283708.85
+        },
+        "elevation_m": null,
+        "date": "0870415~0870425"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742-02(5)_LA-5_Chart_4.png": {
+    "file_name": "00972742-02(5)_LA-5_Chart_4.png",
+    "file_path": "input\\00972742-02(5)_LA-5_Chart_4.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "LA-5",
+        "location": "林口隧道",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2770217.93,
+          "E": 283708.85
+        },
+        "elevation_m": null,
+        "date": "0870415~0870425"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742-02(5)_LA-5_Chart_5.png": {
+    "file_name": "00972742-02(5)_LA-5_Chart_5.png",
+    "file_path": "input\\00972742-02(5)_LA-5_Chart_5.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "LA-5",
+        "location": "林口隧道",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2770217.93,
+          "E": 283708.85
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742-03(5)_HA-1_Chart_3.png": {
+    "file_name": "00972742-03(5)_HA-1_Chart_3.png",
+    "file_path": "input\\00972742-03(5)_HA-1_Chart_3.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "HA-1",
+        "location": "湖口隧道",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2752235.9,
+          "E": 255759.25
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742-03(5)_HA-5_Chart_1.png": {
+    "file_name": "00972742-03(5)_HA-5_Chart_1.png",
+    "file_path": "input\\00972742-03(5)_HA-5_Chart_1.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "HA-5",
+        "location": "湖口隧道",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2748386.31,
+          "E": 254079.24
+        },
+        "elevation_m": null,
+        "date": "0980430~0980520"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742-04(7)_MA-1_Chart_1.png": {
+    "file_name": "00972742-04(7)_MA-1_Chart_1.png",
+    "file_path": "input\\00972742-04(7)_MA-1_Chart_1.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "MA-1",
+        "location": "未知 / 無記載",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2719368.57,
+          "E": 227129.51
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742-04(7)_MA-1_Chart_2.png": {
+    "file_name": "00972742-04(7)_MA-1_Chart_2.png",
+    "file_path": "input\\00972742-04(7)_MA-1_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "MA-1",
+        "location": "未知 / 無記載",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2719368.57,
+          "E": 227129.51
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742-04(7)_MA-2_Chart_1.png": {
+    "file_name": "00972742-04(7)_MA-2_Chart_1.png",
+    "file_path": "input\\00972742-04(7)_MA-2_Chart_1.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "MA-2",
+        "location": "未知 / 無記載",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2718711.3,
+          "E": 226549.62
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742-04(7)_MA-2_Chart_2.png": {
+    "file_name": "00972742-04(7)_MA-2_Chart_2.png",
+    "file_path": "input\\00972742-04(7)_MA-2_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "MA-2",
+        "location": "未知 / 無記載",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2718711.3,
+          "E": 226549.62
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742-04(7)_MA-2_Chart_3.png": {
+    "file_name": "00972742-04(7)_MA-2_Chart_3.png",
+    "file_path": "input\\00972742-04(7)_MA-2_Chart_3.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "MA-2",
+        "location": "未知 / 無記載",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2718711.3,
+          "E": 226549.62
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742-04(7)_MA-3_Chart_1.png": {
+    "file_name": "00972742-04(7)_MA-3_Chart_1.png",
+    "file_path": "input\\00972742-04(7)_MA-3_Chart_1.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "MA-3",
+        "location": "未知 / 無記載",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2717732.52,
+          "E": 225751.35
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742-04(7)_MA-3_Chart_2.png": {
+    "file_name": "00972742-04(7)_MA-3_Chart_2.png",
+    "file_path": "input\\00972742-04(7)_MA-3_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "MA-3",
+        "location": "未知 / 無記載",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2717732.52,
+          "E": 225751.35
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742-04(7)_MA-4_Chart_1.png": {
+    "file_name": "00972742-04(7)_MA-4_Chart_1.png",
+    "file_path": "input\\00972742-04(7)_MA-4_Chart_1.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "MA-4",
+        "location": "未知 / 無記載",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2717651.2,
+          "E": 225773.06
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742-04(7)_MA-4_Chart_2.png": {
+    "file_name": "00972742-04(7)_MA-4_Chart_2.png",
+    "file_path": "input\\00972742-04(7)_MA-4_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "MA-4",
+        "location": "未知 / 無記載",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2717651.2,
+          "E": 225773.06
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742-04(7)_MA-5_Chart_1.png": {
+    "file_name": "00972742-04(7)_MA-5_Chart_1.png",
+    "file_path": "input\\00972742-04(7)_MA-5_Chart_1.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "MA-5",
+        "location": "未知 / 無記載",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2717317.84,
+          "E": 225708.95
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742-04(7)_MA-5_Chart_2.png": {
+    "file_name": "00972742-04(7)_MA-5_Chart_2.png",
+    "file_path": "input\\00972742-04(7)_MA-5_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "MA-5",
+        "location": "未知 / 無記載",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2717317.84,
+          "E": 225708.95
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742-04(7)_MA-6_Chart_1.png": {
+    "file_name": "00972742-04(7)_MA-6_Chart_1.png",
+    "file_path": "input\\00972742-04(7)_MA-6_Chart_1.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "MA-6",
+        "location": "未知 / 無記載",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2717651.2,
+          "E": 225686.61
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742-04(7)_MA-6_Chart_2.png": {
+    "file_name": "00972742-04(7)_MA-6_Chart_2.png",
+    "file_path": "input\\00972742-04(7)_MA-6_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "MA-6",
+        "location": "未知 / 無記載",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2717651.2,
+          "E": 225686.61
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742-04(7)_MA-7_Chart_1.png": {
+    "file_name": "00972742-04(7)_MA-7_Chart_1.png",
+    "file_path": "input\\00972742-04(7)_MA-7_Chart_1.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "MA-7",
+        "location": "未知 / 無記載",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2717317.84,
+          "E": 225356.7
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742-04(7)_MA-7_Chart_2.png": {
+    "file_name": "00972742-04(7)_MA-7_Chart_2.png",
+    "file_path": "input\\00972742-04(7)_MA-7_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "MA-7",
+        "location": "未知 / 無記載",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2717317.84,
+          "E": 225356.7
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742-05(4)_PA-1_Chart_1.png": {
+    "file_name": "00972742-05(4)_PA-1_Chart_1.png",
+    "file_path": "input\\00972742-05(4)_PA-1_Chart_1.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "PA-1",
+        "location": "八卦山隧道",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2660559.59,
+          "E": 208953.84
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742-05(4)_PA-1_Chart_2.png": {
+    "file_name": "00972742-05(4)_PA-1_Chart_2.png",
+    "file_path": "input\\00972742-05(4)_PA-1_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "PA-1",
+        "location": "八卦山隧道",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2660559.59,
+          "E": 208953.84
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742-05(4)_PA-2_Chart_1.png": {
+    "file_name": "00972742-05(4)_PA-2_Chart_1.png",
+    "file_path": "input\\00972742-05(4)_PA-2_Chart_1.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "PA-2",
+        "location": "八卦山隧道",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2658147.15,
+          "E": 208952.7
+        },
+        "elevation_m": null,
+        "date": "0870427~0870516"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742-05(4)_PA-2_Chart_2.png": {
+    "file_name": "00972742-05(4)_PA-2_Chart_2.png",
+    "file_path": "input\\00972742-05(4)_PA-2_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "PA-2",
+        "location": "八卦山隧道",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2658147.15,
+          "E": 208952.7
+        },
+        "elevation_m": null,
+        "date": "0870427~0870516"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742-05(4)_PA-3_Chart_1.png": {
+    "file_name": "00972742-05(4)_PA-3_Chart_1.png",
+    "file_path": "input\\00972742-05(4)_PA-3_Chart_1.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "PA-3",
+        "location": "八卦山隧道",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2655334.89,
+          "E": 209354.88
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742-05(4)_PA-3_Chart_4.png": {
+    "file_name": "00972742-05(4)_PA-3_Chart_4.png",
+    "file_path": "input\\00972742-05(4)_PA-3_Chart_4.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "PA-3",
+        "location": "八卦山隧道",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2655334.89,
+          "E": 209354.88
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742-05(4)_PA-4_Chart_1.png": {
+    "file_name": "00972742-05(4)_PA-4_Chart_1.png",
+    "file_path": "input\\00972742-05(4)_PA-4_Chart_1.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "PA-4",
+        "location": "八卦山隧道",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2653122.63,
+          "E": 209626.12
+        },
+        "elevation_m": null,
+        "date": "0870510~0870513"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742-05(4)_PA-4_Chart_2.png": {
+    "file_name": "00972742-05(4)_PA-4_Chart_2.png",
+    "file_path": "input\\00972742-05(4)_PA-4_Chart_2.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "PA-4",
+        "location": "八卦山隧道",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2653122.63,
+          "E": 209626.12
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742-1001110_A-04_Chart_4.png": {
+    "file_name": "00972742-1001110_A-04_Chart_4.png",
+    "file_path": "input\\00972742-1001110_A-04_Chart_4.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "A-04",
+        "location": "高雄市",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2504106.74,
+          "E": 181671.14
+        },
+        "elevation_m": null,
+        "date": "1001006~1001008"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742-C280-A_TBH-119_Chart_5.png": {
+    "file_name": "00972742-C280-A_TBH-119_Chart_5.png",
+    "file_path": "input\\00972742-C280-A_TBH-119_Chart_5.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "TBH-119",
+        "location": "Lu Tsa0",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2592035.06,
+          "E": 179911.75
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
+    },
+    "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
+  },
+  "00972742-C280-A_TBH-120_Chart_4.png": {
+    "file_name": "00972742-C280-A_TBH-120_Chart_4.png",
+    "file_path": "input\\00972742-C280-A_TBH-120_Chart_4.png",
+    "attempts_made": 3,
+    "error_reason": "OCR 階段驗證未通過 (未偵測到任何地層深度與描述 (strata 為空))",
+    "raw_extracted_data": {
+      "borehole_info": {
+        "borehole_id": "TBH-120",
+        "location": "Lu Tsa0",
+        "coordinates": {
+          "datum": "TWD67",
+          "N": 2592000.1,
+          "E": 179910.01
+        },
+        "elevation_m": null,
+        "date": "未知 / 無記載"
+      },
+      "strata": []
     },
     "suggested_action": "請使用者手動驗證與補正此圖檔之層位與描述"
   }

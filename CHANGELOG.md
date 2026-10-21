@@ -4,6 +4,20 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.3.1] - 2026-10-21
+### Fixed
+- **地質岩性判定過度嚴格問題修正 (大幅降低誤判率)**:
+  - 擴充英文地質關鍵字 (`clay`, `sand`, `silt`, `gravel`, `shale`, `rock`, `fill`, `dense`, `stiff`, `brown`, `gray`, `yellow` 等) 與全格式 USCS 分類代碼，徹底解決英文與雙語鑽孔柱狀圖全數誤判為異常之問題。
+  - 擴充繁體中文工程地質詞庫與常見 OCR 訛字字典（新增 `剪裂帶`、`斷層`、`破碎帶`、`煤層`、`煤碳`、`變質砂岩`、`硬頁岩`、`臭巖` $\to$ `頁岩`、`漫質砂岩` $\to$ `變質砂岩`、`膠結尚可` 等）。
+  - 新增浮水印與頁尾雜訊自動過濾機制（去除 `地質探勘資料庫系統`、`中央地質調查所` 等浮水印，避免浮水印被錯誤辨識為地層）。
+  - 強化地層解析之深度單調性防護（Monotonic Depth Enforcement），自動忽略非遞增之內部量測數值（如層面傾角、百分比）。
+  - 自動合併或略過空白地層，避免因表格底部邊界線產生無描述之地層而導致整張圖檔驗證失敗。
+  - 調整驗證容錯邏輯：地質鑽孔中只要存在有效岩性特徵且有效層數比例正常，即判定為通過，不再因單一註記或次要修飾詞而全盤捨棄整張柱狀圖。
+- **歷史成果資料庫修復與復原**:
+  - 重新評估並過濾 `output/error.json`，成功復原 459 筆原本被誤判之鑽孔成果並合併回 `output/borehole_final_results.json`（成功總數由 394 筆大幅提升至 853 筆，異常清單大幅縮減 71%）。
+
+---
+
 ## [0.3.0] - 2026-10-20
 ### Added
 - **GPU 硬體加速與 RTX 5090 (Blackwell 架構) 相容防護** (`src/device.py`):

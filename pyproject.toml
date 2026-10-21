@@ -1,6 +1,6 @@
 [project]
 name = "geologparser"
-version = "0.3.0"
+version = "0.3.1"
 description = "GeoLogParser: 離線地質鑽孔柱狀圖 OCR 與 Ollama (qwen3:8b) 繁體語意校對管線 (支援 RTX 5090 GPU 加速與斷點續傳)"
 readme = "README.md"
 requires-python = ">=3.10"
